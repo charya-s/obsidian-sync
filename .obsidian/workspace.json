@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b24ebc9d5e2543",
+        "id": "5f0cd2f953c53dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb096716fc9a5c7",
+            "id": "3a92b416122af1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Journal/2024 Sep 13.md",
+                "file": "00 - Journal/2024 Sep 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Journal/2024 Sep 13.md",
+                "file": "00 - Journal/2024 Sep 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Journal/2024 Sep 13.md",
+                "file": "00 - Journal/2024 Sep 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Journal/2024 Sep 13.md"
+                "file": "00 - Journal/2024 Sep 14.md"
               }
             }
           },
@@ -155,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bb096716fc9a5c7",
+  "active": "3a92b416122af1cc",
   "lastOpenFiles": [
+    "00 - Journal/2024 Sep 14.md",
+    "00 - Journal/2024 Sep 13.md",
+    "99 - Meta/Templates/Template,DailyNote.md",
     "04 - Personal Studies/Deep Learning/Deep Learning.md",
     "07 - Gaming/Europa Universalis 4/Fun Tags.md",
     "07 - Gaming/Europa Universalis 4",
@@ -177,12 +180,9 @@
     "05 - Content Creation/YouTube/Creation Notes/What Topics Work.md",
     "06 - Good Media/Good Media.md",
     "06 - Good Media/Anime",
-    "00 - Journal/2024 Sep 14.md",
-    "00 - Journal/2024 Sep 13.md",
     "2024-W37.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "99 - Meta/Templates/Template,DailyNote.md",
     "99 - Meta",
     "99 - Meta/Templates",
     "04 - Personal Studies/Game Development/Game Development.md",
@@ -190,7 +190,6 @@
     "Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "Personal Studies/Game Development/Godot vs. Monogame for 2D Games.md",
     "Personal Studies/Deep Learning/Optimizers.md",
-    "01 - Education/PhD/PhD.md",
     "04 - Personal Studies/Game Development",
     "01 - Education/PhD/Literature Review",
     "06 - Good Media/Anime",
