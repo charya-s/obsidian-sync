@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "b623bcbe7487414b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6480e0569fe71304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b0e255898abd46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Journal/2024 Sep 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b7c23ea0d5daae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6930cfc6f99f8f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94457eb5415aec7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e711eb9bc38217b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "352e6382fd8ab8dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "4437524c153fe17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15da15bef1a9b73b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7283f856d07141af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Journal/2024 Sep 14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30f3043cfbdb6263",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Journal/2024 Sep 14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a665712241d3436",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88c3e68cbe2063ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Journal/2024 Sep 14.md"
+              }
+            }
+          },
+          {
+            "id": "411dc8819c106ba5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b0e255898abd46e",
+  "lastOpenFiles": [
+    "00 - Journal/2024 Sep 13.md",
+    "2024-W37.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "00 - Journal/2024 Sep 14.md",
+    "99 - Meta/Templates/Template,GoodMedia.md",
+    "06 - Good Media/Movies/Memories of Murder.md",
+    "06 - Good Media/Books/Robots by Isaac Asimov.md",
+    "99 - Meta/Templates/Template,DailyNote.md",
+    "04 - Personal Studies/Deep Learning/Deep Learning.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+    "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
+    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+    "01 - Education/PhD/Literature Review/Collecting Data.md",
+    "06 - Good Media/Good Media.md",
+    "99 - Meta",
+    "99 - Meta/Templates",
+    "04 - Personal Studies/Game Development/Game Development.md",
+    "03 - Work/Job Applications.md",
+    "03 - Work/Work.md",
+    "05 - Content Creation/YouTube/YouTube.md",
+    "Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+    "Personal Studies/Game Development/Godot vs. Monogame for 2D Games.md",
+    "Personal Studies/Deep Learning/Optimizers.md",
+    "05 - Content Creation/YouTube/Creation Notes/What Topics Work.md",
+    "01 - Education/PhD/PhD.md",
+    "Good Media/Anime/Neon Genesis Evangelion.md",
+    "Good Media/Books/Do Androids Dream of Electric Sheep.md",
+    "Personal Studies/Personal Studies.md",
+    "Good Media/Books/Books.md",
+    "04 - Personal Studies/Game Development",
+    "01 - Education/PhD/Literature Review",
+    "06 - Good Media/Anime",
+    "Work/Job Applications",
+    "03 - Work",
+    "04 - Personal Studies",
+    "05 - Content Creation",
+    "06 - Good Media"
+  ]
+}

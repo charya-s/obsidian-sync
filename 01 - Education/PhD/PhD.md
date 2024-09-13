@@ -1,0 +1,6 @@
+- Literature Review
+	- [[Research Gap and Objectives]]
+	- [[Electromyogram Sensors]]
+	- [[Inertial Sensors]]
+	- [[Collecting Data]]
+	- 

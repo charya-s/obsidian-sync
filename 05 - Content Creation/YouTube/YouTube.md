@@ -1,0 +1,6 @@
+- Notes
+	- [[What Topics Work]]
+	- 
+- Video Ideas
+	- 
+	- 

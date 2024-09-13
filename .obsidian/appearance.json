@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Daily Note Themes"
+  ]
+}
