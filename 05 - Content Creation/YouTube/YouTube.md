@@ -2,5 +2,5 @@
 	- [[What Topics Work]]
 	- 
 - Video Ideas
-	- 
+	- [[Throne and Liberty Class Selection]]
 	- 

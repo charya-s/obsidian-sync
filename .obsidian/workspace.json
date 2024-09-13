@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6480e0569fe71304",
+        "id": "d5b24ebc9d5e2543",
         "type": "tabs",
         "children": [
           {
-            "id": "0b0e255898abd46e",
+            "id": "2bb096716fc9a5c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/Templates/Template,VideoIdea.md",
+                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/Templates/Template,VideoIdea.md",
+                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/Templates/Template,VideoIdea.md",
+                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/Templates/Template,VideoIdea.md"
+                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md"
               }
             }
           },
@@ -155,15 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b0e255898abd46e",
+  "active": "2bb096716fc9a5c7",
   "lastOpenFiles": [
-    "05 - Content Creation/YouTube/YouTube.md",
+    "07 - Gaming/Europa Universalis 4/Fun Tags.md",
+    "07 - Gaming/Europa Universalis 4",
+    "07 - Gaming",
     "99 - Meta/Templates/Template,VideoIdea.md",
-    "05 - Content Creation/YouTube/Video Ideas",
-    "05 - Content Creation/YouTube/Creation Notes/What Topics Work.md",
-    "06 - Good Media/Anime/Neon Genesis Evangelion.md",
+    "99 - Meta/Templates/Template,GoodMedia.md",
     "06 - Good Media/Movies/Memories of Murder.md",
     "06 - Good Media/Books/Robots by Isaac Asimov.md",
+    "06 - Good Media/Anime/Neon Genesis Evangelion.md",
+    "01 - Education/PhD/Literature Review/Collecting Data.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+    "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
+    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+    "03 - Work/Job Applications.md",
+    "05 - Content Creation/YouTube/YouTube.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+    "05 - Content Creation/YouTube/Video Ideas",
+    "05 - Content Creation/YouTube/Creation Notes/What Topics Work.md",
     "06 - Good Media/Good Media.md",
     "06 - Good Media/Anime",
     "00 - Journal/2024 Sep 14.md",
@@ -171,29 +181,19 @@
     "2024-W37.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "99 - Meta/Templates/Template,GoodMedia.md",
     "99 - Meta/Templates/Template,DailyNote.md",
     "04 - Personal Studies/Deep Learning/Deep Learning.md",
-    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
-    "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
-    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
-    "01 - Education/PhD/Literature Review/Collecting Data.md",
     "99 - Meta",
     "99 - Meta/Templates",
     "04 - Personal Studies/Game Development/Game Development.md",
-    "03 - Work/Job Applications.md",
     "03 - Work/Work.md",
     "Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "Personal Studies/Game Development/Godot vs. Monogame for 2D Games.md",
     "Personal Studies/Deep Learning/Optimizers.md",
     "01 - Education/PhD/PhD.md",
-    "Good Media/Anime/Neon Genesis Evangelion.md",
-    "Good Media/Books/Do Androids Dream of Electric Sheep.md",
     "04 - Personal Studies/Game Development",
     "01 - Education/PhD/Literature Review",
     "06 - Good Media/Anime",
-    "Work/Job Applications",
-    "03 - Work",
-    "04 - Personal Studies"
+    "Work/Job Applications"
   ]
 }
