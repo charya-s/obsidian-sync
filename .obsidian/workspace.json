@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md",
+                "file": "00 - Journal/2024 Sep 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md",
+                "file": "00 - Journal/2024 Sep 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md",
+                "file": "00 - Journal/2024 Sep 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Deep Learning.md"
+                "file": "00 - Journal/2024 Sep 13.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "2bb096716fc9a5c7",
   "lastOpenFiles": [
+    "04 - Personal Studies/Deep Learning/Deep Learning.md",
     "07 - Gaming/Europa Universalis 4/Fun Tags.md",
     "07 - Gaming/Europa Universalis 4",
     "07 - Gaming",
@@ -182,7 +183,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "99 - Meta/Templates/Template,DailyNote.md",
-    "04 - Personal Studies/Deep Learning/Deep Learning.md",
     "99 - Meta",
     "99 - Meta/Templates",
     "04 - Personal Studies/Game Development/Game Development.md",
