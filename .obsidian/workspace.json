@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "99 - Meta/Templates/Template,VideoIdea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "99 - Meta/Templates/Template,VideoIdea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "99 - Meta/Templates/Template,VideoIdea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md"
+                "file": "99 - Meta/Templates/Template,VideoIdea.md"
               }
             }
           },
@@ -157,43 +157,43 @@
   },
   "active": "0b0e255898abd46e",
   "lastOpenFiles": [
+    "05 - Content Creation/YouTube/YouTube.md",
+    "99 - Meta/Templates/Template,VideoIdea.md",
+    "05 - Content Creation/YouTube/Video Ideas",
+    "05 - Content Creation/YouTube/Creation Notes/What Topics Work.md",
+    "06 - Good Media/Anime/Neon Genesis Evangelion.md",
+    "06 - Good Media/Movies/Memories of Murder.md",
+    "06 - Good Media/Books/Robots by Isaac Asimov.md",
+    "06 - Good Media/Good Media.md",
+    "06 - Good Media/Anime",
+    "00 - Journal/2024 Sep 14.md",
     "00 - Journal/2024 Sep 13.md",
     "2024-W37.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "00 - Journal/2024 Sep 14.md",
     "99 - Meta/Templates/Template,GoodMedia.md",
-    "06 - Good Media/Movies/Memories of Murder.md",
-    "06 - Good Media/Books/Robots by Isaac Asimov.md",
     "99 - Meta/Templates/Template,DailyNote.md",
     "04 - Personal Studies/Deep Learning/Deep Learning.md",
     "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "01 - Education/PhD/Literature Review/Collecting Data.md",
-    "06 - Good Media/Good Media.md",
     "99 - Meta",
     "99 - Meta/Templates",
     "04 - Personal Studies/Game Development/Game Development.md",
     "03 - Work/Job Applications.md",
     "03 - Work/Work.md",
-    "05 - Content Creation/YouTube/YouTube.md",
     "Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "Personal Studies/Game Development/Godot vs. Monogame for 2D Games.md",
     "Personal Studies/Deep Learning/Optimizers.md",
-    "05 - Content Creation/YouTube/Creation Notes/What Topics Work.md",
     "01 - Education/PhD/PhD.md",
     "Good Media/Anime/Neon Genesis Evangelion.md",
     "Good Media/Books/Do Androids Dream of Electric Sheep.md",
-    "Personal Studies/Personal Studies.md",
-    "Good Media/Books/Books.md",
     "04 - Personal Studies/Game Development",
     "01 - Education/PhD/Literature Review",
     "06 - Good Media/Anime",
     "Work/Job Applications",
     "03 - Work",
-    "04 - Personal Studies",
-    "05 - Content Creation",
-    "06 - Good Media"
+    "04 - Personal Studies"
   ]
 }

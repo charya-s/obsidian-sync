@@ -5,9 +5,9 @@
 
 ## Anime
 
-| Anime | Rating |
-| ----- | ------ |
-|       |        |
+| Anime                       | Rating |
+| --------------------------- | ------ |
+| [[Neon Genesis Evangelion]] | 10/10  |
 
 
 ## Books
