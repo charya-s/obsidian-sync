@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+                "file": "00 - Journal/2024 Sep 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+                "file": "00 - Journal/2024 Sep 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+                "file": "00 - Journal/2024 Sep 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md"
+                "file": "00 - Journal/2024 Sep 14.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "3a92b416122af1cc",
   "lastOpenFiles": [
-    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
     "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "00 - Journal/2024 Sep 13.md",
