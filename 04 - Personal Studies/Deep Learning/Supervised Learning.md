@@ -7,3 +7,5 @@ x = Email   -> y = Spam?      | Spam detection.
 ```
 
 [[Testing Data]] is used afterwards to verify that the mapping was done correctly without [[Overfitting and Underfitting]].
+
+Inputs are called "features" and outputs are called "targets".

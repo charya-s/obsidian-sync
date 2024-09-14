@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6decd97f87de02f",
+        "id": "63c90a852cd5a66e",
         "type": "tabs",
         "children": [
           {
-            "id": "520aee1a251558c3",
+            "id": "4b201c744f51c180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Miscellaneous/General Notepad.md",
+                "file": "04 - Personal Studies/Deep Learning/Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 256.5
   },
   "right": {
     "id": "4437524c153fe17b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Miscellaneous/General Notepad.md",
+                "file": "04 - Personal Studies/Deep Learning/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Miscellaneous/General Notepad.md",
+                "file": "04 - Personal Studies/Deep Learning/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Miscellaneous/General Notepad.md"
+                "file": "04 - Personal Studies/Deep Learning/Linear Regression.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,14 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "520aee1a251558c3",
+  "active": "411dc8819c106ba5",
   "lastOpenFiles": [
+    "04 - Personal Studies/Deep Learning/Supervised Learning.md",
     "04 - Personal Studies/Deep Learning/Linear Regression.md",
+    "04 - Personal Studies/Deep Learning/Classification.md",
+    "04 - Personal Studies/Deep Learning/Deep Learning.md",
     "08 - Miscellaneous/General Notepad.md",
     "08 - Miscellaneous",
-    "04 - Personal Studies/Deep Learning/Deep Learning.md",
-    "04 - Personal Studies/Deep Learning/Classification.md",
-    "04 - Personal Studies/Deep Learning/Supervised Learning.md",
     "04 - Personal Studies/Deep Learning/Unsupervised Learning.md",
     "04 - Personal Studies/Game Development/Game Development.md",
     "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
