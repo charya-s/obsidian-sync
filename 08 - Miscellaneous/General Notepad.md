@@ -4,4 +4,9 @@ Besides that, I also conducted a literature review on epigenetic biomarkers for 
 
 During both research projects, I utilized the SPSS software JASP and R Studio to process any data being used, and these were instrumental in the conclusions I was able to draw in my research.
   
-In line with what I have researched in the past, my passion is to work on projects that result in easier and more widespread access to mental health care, especially to the underprivileged. Specifically, I would like to further understand the barriers to treatment among those who suffer with narcotic addiction. Often stigmatized due to the unpleasant behavior and appearance caused by narcotics, it is important to understand how we can help those who are unable to help themselves.
+In line with what I have researched in the past, my passion is to work on projects that result in easier and more widespread access to mental health care, especially with regards to making it available to the underprivileged. 
+
+More specifically, I am extremely interested in the treatment of those who suffer with narcotic addiction, often stigmatized due to the unpleasant behavior and appearance caused by those very narcotics. To me, it is vitally important, in a world where synthetic drug abuse is ever-growing, to understand how we can help those who are unable to help themselves. I believe that a helping hand that provides the mental health care they need is the real first step to permanent rehabilitation, even more so than financial support, and ensuring that relapses are the exception rather than the norm.
+
+
+
