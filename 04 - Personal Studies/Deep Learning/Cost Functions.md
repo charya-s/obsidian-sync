@@ -11,7 +11,7 @@ This is most commonly used for [[Regression]] models.
 ## Mean Squared Error
 
 $$
-J(w,b) = \frac{1}{m}\sum_{i=1}^{m} (\hat{y}^{(i)} - y^{(i)})^2
+J(w,b) = \frac{1}{2m}\sum_{i=1}^{m} (\hat{y}^{(i)} - y^{(i)})^2
 $$
 This is most commonly used for [[Regression]] models.
 
