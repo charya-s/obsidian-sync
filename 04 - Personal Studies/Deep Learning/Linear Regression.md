@@ -6,6 +6,10 @@ $$
 where $f_{w,b}(x)$ is the target, $x$ is the feature and $w$ is the weight and $b$ is the bias.
 
 This is reminiscent of a straight line graph with the following mapping:
-``
+$$ \begin{align}
+\text{gradient} \to \text{weight} \\
+\text{y-intercept} \to \text{bias} \\
+\end{align}$$
+
 
 
