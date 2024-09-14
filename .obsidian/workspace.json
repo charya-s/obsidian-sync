@@ -11,12 +11,8 @@
             "id": "520aee1a251558c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,9 +149,10 @@
   },
   "active": "520aee1a251558c3",
   "lastOpenFiles": [
+    "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
+    "07 - Gaming/Europa Universalis 4/Europa Universalis 4.md",
     "99 - Meta/Templates/Template,EU4.md",
     "99 - Meta/Templates/Template,VideoIdea.md",
-    "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
     "03 - Work/Job Applications.md",
     "07 - Gaming/Europa Universalis 4",
     "07 - Gaming",
@@ -192,7 +185,6 @@
     "99 - Meta/Templates",
     "04 - Personal Studies/Game Development/Game Development.md",
     "Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
-    "Personal Studies/Game Development/Godot vs. Monogame for 2D Games.md",
     "04 - Personal Studies/Game Development",
     "01 - Education/PhD/Literature Review"
   ]
