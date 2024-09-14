@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0cd2f953c53dc3",
+        "id": "d20facdfa2e625bd",
         "type": "tabs",
         "children": [
           {
-            "id": "3a92b416122af1cc",
+            "id": "d79669079a6344e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/Templates/Template,EU4.md",
+                "file": "07 - Gaming/Europa Universalis 4/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/Templates/Template,EU4.md",
+                "file": "07 - Gaming/Europa Universalis 4/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/Templates/Template,EU4.md",
+                "file": "07 - Gaming/Europa Universalis 4/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/Templates/Template,EU4.md"
+                "file": "07 - Gaming/Europa Universalis 4/Untitled.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a92b416122af1cc",
+  "active": "d79669079a6344e5",
   "lastOpenFiles": [
-    "07 - Gaming/Europa Universalis 4/Untitled.md",
     "99 - Meta/Templates/Template,EU4.md",
+    "07 - Gaming/Europa Universalis 4/Untitled.md",
     "03 - Work/Job Applications.md",
     "07 - Gaming/Europa Universalis 4",
     "07 - Gaming",

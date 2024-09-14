@@ -1,1 +1,4 @@
-Mods: 
+Start Date: {{date}}
+Main Mod: 
+
+- 
