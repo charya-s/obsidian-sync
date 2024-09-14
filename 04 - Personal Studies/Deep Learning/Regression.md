@@ -1,6 +1,6 @@
 This is a form of [[Supervised Learning]] used for prediction using line extrapolation.
 
-
+---
 ## Linear Regression
 $$
 f_{w,b}(x) = wx + b
@@ -12,3 +12,6 @@ $$
 \hat{y}^{(i)} = wx^{(i)} + b
 $$
 The most commonly used [[Cost Functions]] for this type of model is "Squared Error".
+
+---
+## Polynomial Regression
