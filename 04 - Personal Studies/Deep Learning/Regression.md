@@ -1,5 +1,7 @@
-This is a form of [[Supervised Learning]] used for prediction using straight line extrapolation.
+This is a form of [[Supervised Learning]] used for prediction using line extrapolation.
 
+
+## Linear Regression
 $$
 f_{w,b}(x) = wx + b
 $$
