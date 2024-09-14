@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d20facdfa2e625bd",
+        "id": "a6decd97f87de02f",
         "type": "tabs",
         "children": [
           {
-            "id": "d79669079a6344e5",
+            "id": "520aee1a251558c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Untitled.md",
+                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Untitled.md",
+                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Untitled.md",
+                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Gaming/Europa Universalis 4/Untitled.md"
+                "file": "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d79669079a6344e5",
+  "active": "520aee1a251558c3",
   "lastOpenFiles": [
     "99 - Meta/Templates/Template,EU4.md",
-    "07 - Gaming/Europa Universalis 4/Untitled.md",
+    "99 - Meta/Templates/Template,VideoIdea.md",
+    "07 - Gaming/Europa Universalis 4/Ayutthaya (EE).md",
     "03 - Work/Job Applications.md",
     "07 - Gaming/Europa Universalis 4",
     "07 - Gaming",
@@ -174,7 +175,6 @@
     "07 - Gaming/Europa Universalis 4/Fun Tags.md",
     "07 - Gaming/Europa Universalis 4",
     "07 - Gaming",
-    "99 - Meta/Templates/Template,VideoIdea.md",
     "99 - Meta/Templates/Template,GoodMedia.md",
     "06 - Good Media/Movies/Memories of Murder.md",
     "06 - Good Media/Books/Robots by Isaac Asimov.md",

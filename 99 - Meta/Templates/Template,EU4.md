@@ -1,4 +1,4 @@
-Start Date: {{date}}
-Main Mod: 
+***Start Date***: {{date}}
+***Main Mod***: 
 
 - 
