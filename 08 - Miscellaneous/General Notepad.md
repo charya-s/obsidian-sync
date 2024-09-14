@@ -8,5 +8,5 @@ In line with what I have researched in the past, my passion is to work on projec
 
 More specifically, I am extremely interested in the treatment of those who suffer with narcotic addiction, often stigmatized due to the unpleasant behavior and appearance caused by those very narcotics. To me, it is vitally important, in a world where synthetic drug abuse is ever-growing, to understand how we can help those who are unable to help themselves. I believe that a helping hand that provides the mental health care they need is the real first step to permanent rehabilitation, even more so than financial support, and ensuring that relapses are the exception rather than the norm.
 
-
+I believe that the Master of Clinical Psychology programme at Taylor's University is the stepping stone I need to pursue these interests, providing the critical foundation and knowledge I would require to do so.
 
