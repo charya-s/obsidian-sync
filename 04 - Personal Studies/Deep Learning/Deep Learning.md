@@ -1,1 +1,3 @@
+- [[Supervised Learning]]
+- [[Unsupervised Learning]]
 - 
