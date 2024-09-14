@@ -2,5 +2,6 @@
 ***Main Mod***: Europa Expanded
 
 - The main goal is to form Siam and then eventually, Bharat.
-- We'll start by working towards 3% professionalism to complete the mission that gives us claims on Khmer.
+- We'll start by working towards 3% professionalism.
+	- For the mission that gives us a subjugation CB on Khmer.
 - 
