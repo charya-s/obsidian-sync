@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "99 - Meta/Templates/Template,EU4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "99 - Meta/Templates/Template,EU4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "99 - Meta/Templates/Template,EU4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md"
+                "file": "99 - Meta/Templates/Template,EU4.md"
               }
             }
           },
@@ -157,12 +157,18 @@
   },
   "active": "3a92b416122af1cc",
   "lastOpenFiles": [
+    "07 - Gaming/Europa Universalis 4/Untitled.md",
+    "99 - Meta/Templates/Template,EU4.md",
+    "03 - Work/Job Applications.md",
+    "07 - Gaming/Europa Universalis 4",
+    "07 - Gaming",
+    "03 - Work/Work.md",
+    "00 - Journal/2024 Sep 14.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
     "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "00 - Journal/2024 Sep 13.md",
-    "00 - Journal/2024 Sep 14.md",
     "99 - Meta/Templates/Template,DailyNote.md",
     "04 - Personal Studies/Deep Learning/Deep Learning.md",
     "07 - Gaming/Europa Universalis 4/Fun Tags.md",
@@ -173,7 +179,6 @@
     "06 - Good Media/Movies/Memories of Murder.md",
     "06 - Good Media/Books/Robots by Isaac Asimov.md",
     "06 - Good Media/Anime/Neon Genesis Evangelion.md",
-    "03 - Work/Job Applications.md",
     "05 - Content Creation/YouTube/YouTube.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "05 - Content Creation/YouTube/Video Ideas",
@@ -186,13 +191,9 @@
     "99 - Meta",
     "99 - Meta/Templates",
     "04 - Personal Studies/Game Development/Game Development.md",
-    "03 - Work/Work.md",
     "Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "Personal Studies/Game Development/Godot vs. Monogame for 2D Games.md",
-    "Personal Studies/Deep Learning/Optimizers.md",
     "04 - Personal Studies/Game Development",
-    "01 - Education/PhD/Literature Review",
-    "06 - Good Media/Anime",
-    "Work/Job Applications"
+    "01 - Education/PhD/Literature Review"
   ]
 }
