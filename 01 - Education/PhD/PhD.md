@@ -2,5 +2,5 @@
 	- [[Research Gap and Objectives]]
 	- [[Electromyogram Sensors]]
 	- [[Inertial Sensors]]
-	- [[Collecting Data]]
+	- [[Collecting and Relating Data]]
 	- 

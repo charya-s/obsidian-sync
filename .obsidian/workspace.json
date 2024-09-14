@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 336.5
   },
   "right": {
     "id": "4437524c153fe17b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md"
+                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "3a92b416122af1cc",
   "lastOpenFiles": [
-    "00 - Journal/2024 Sep 14.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+    "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
+    "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "00 - Journal/2024 Sep 13.md",
+    "00 - Journal/2024 Sep 14.md",
     "99 - Meta/Templates/Template,DailyNote.md",
     "04 - Personal Studies/Deep Learning/Deep Learning.md",
     "07 - Gaming/Europa Universalis 4/Fun Tags.md",
@@ -169,10 +173,6 @@
     "06 - Good Media/Movies/Memories of Murder.md",
     "06 - Good Media/Books/Robots by Isaac Asimov.md",
     "06 - Good Media/Anime/Neon Genesis Evangelion.md",
-    "01 - Education/PhD/Literature Review/Collecting Data.md",
-    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
-    "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
-    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "03 - Work/Job Applications.md",
     "05 - Content Creation/YouTube/YouTube.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
