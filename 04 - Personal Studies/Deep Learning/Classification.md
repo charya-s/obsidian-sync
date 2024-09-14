@@ -1,8 +1,4 @@
-This is a type of task where the output is an element of a finite set.
+This is a form of [[Supervised Learning]] where the output is an element of a finite set. As such, outputs produced are discrete.
 
-$$
-\begin{aligned}
-x = in }
-\end{aligned}
-$$
+
 
