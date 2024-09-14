@@ -17,6 +17,8 @@ This is most commonly used for [[Regression]] models.
 
 ## Binary Cross Entropy
 $$
-
-J(w,b) = -y \log (p) {for} 
+J(w,b) = \begin{cases}
+  -y \log (p)      & \text{if $y=1$}\\
+  -(1-y) \log (1-p) & \text{if $y=0$}
+ \end{cases}
 $$
