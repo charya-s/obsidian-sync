@@ -9,7 +9,4 @@ Therefore, for a point $(x^{(i)}, y^{(i)})$,
 $$
 \hat{y}^{(i)} = wx^{(i)} + b
 $$
-And the cost function is,
-$$
-\sum
-$$
+The most commonly used [[Cost Functions]] for this type of model is "Squared Error".
