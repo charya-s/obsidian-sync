@@ -1,2 +1,3 @@
+#ind
 - [[Vocabulary (Latin)]]
 - 
