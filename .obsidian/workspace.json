@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Journal/2024 Sep 14.md"
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md"
               }
             }
           },
@@ -136,9 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0cd279988a00889c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -156,10 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f9f2b5917989664",
+  "active": "0cd279988a00889c",
   "lastOpenFiles": [
-    "00 - Journal/2024 Sep 13.md",
+    "08 - Miscellaneous/General Notepad.md",
     "00 - Journal/2024 Sep 14.md",
+    "00 - Journal/2024 Sep 13.md",
     "00 - Journal/2024 Sep 15.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
@@ -179,7 +188,6 @@
     "04 - Personal Studies/Deep Learning/Regression.md",
     "04 - Personal Studies/Deep Learning/Supervised Learning.md",
     "04 - Personal Studies/Deep Learning/Unsupervised Learning.md",
-    "08 - Miscellaneous/General Notepad.md",
     "04 - Personal Studies/Languages/Mandarin",
     "08 - Miscellaneous",
     "04 - Personal Studies/Game Development/Game Development.md",
