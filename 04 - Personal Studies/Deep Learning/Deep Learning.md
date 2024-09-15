@@ -1,3 +1,5 @@
 - [[Supervised Learning]]
 - [[Unsupervised Learning]]
-- 
+- [[Regression]]
+- [[Classification]]
+- [[Cost Functions]]
