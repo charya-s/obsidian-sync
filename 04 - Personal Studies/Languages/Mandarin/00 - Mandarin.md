@@ -1,7 +1,4 @@
 - [[Basic Grammar (CN)]]
-- [[Basic Grammar (CN)]]
-- [[Asking Questions (CN)]]
-- [[Possession (CN)]]
 - [[Numbers and Counting (CN)]]
 - [[Day and Time (CN)]]
 - [[Country and Nationality (CN)]]
