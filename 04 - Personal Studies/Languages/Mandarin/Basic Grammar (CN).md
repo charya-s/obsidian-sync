@@ -8,8 +8,6 @@ $$
 \end{align}
 $$
 
-- 
-
 ---
 ### Is/Am/Are
 $$
@@ -29,5 +27,6 @@ $$
 \end{align}
 $$
 
-- $\text{de}$ works more like an apsotrophe-s, so you'd use it after the the owner.
--
+- $\text{de}$ works more like an apostrophe-s, so you'd use it after the the owner.
+
+
