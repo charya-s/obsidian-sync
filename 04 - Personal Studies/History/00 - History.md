@@ -1,1 +1,0 @@
-- [[Sassanid Empire]]
