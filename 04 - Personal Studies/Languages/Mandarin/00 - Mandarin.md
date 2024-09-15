@@ -1,5 +1,5 @@
 - [[Basic Grammar (CN)]]
-- [[Me, You and Them (CN)]]
+- [[Basic Grammar (CN)]]
 - [[Asking Questions (CN)]]
 - [[Possession (CN)]]
 - [[Numbers and Counting (CN)]]
