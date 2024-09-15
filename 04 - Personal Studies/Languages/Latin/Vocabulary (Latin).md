@@ -1,4 +1,4 @@
 
 | Latin | English | Lesson               |
 | ----- | ------- | -------------------- |
-| wo    |         | [[Me, You and Them]] |
+|       |         | [[Me, You and Them]] |
