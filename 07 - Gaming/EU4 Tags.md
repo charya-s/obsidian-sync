@@ -3,4 +3,6 @@
 
 ***Tag Progression***: Irish OPM -> Ireland -> Celtica
 ***Difficulty***: 6/10
-***Rating***: 
+***Rating***: 9/10
+
+A t
