@@ -1,4 +1,4 @@
-***Title***: "Throne and Liberty: Which Class Should You Choose?"
+***Title***: "Throne and Liberty Global: Which Class Should You Choose? - MMO Guide"
 ***Topic***: Throne and Liberty Guide
 ***Expected Publishing Date***: 25th September 2024 
 
@@ -25,7 +25,10 @@ In this video, we'll be going through each class combination and rating them in 
 	- Secondly, it gives you a lot of freedom and creativity to come up with your own build. Metas exist but you are able to select a combination of weapons and a combination of skills that suits you the best. 
 - Since there's no restriction in changing classes, I recommend shortlisting a few of the combinations that look interesting to you from this video and trying them out yourself before you settle on one.
 
-##
+### The Weapons
+- Okay, so there are seven main weapons in T&L to choose from.
+- There's the **Greatsword**, which is a melee weapon, so very short range, that has great AoE skills, generally good survivability, and some mobility thrown in.
+- Then, there's the **Sword and Shield**, which is the closest thing to a Tank class 
 
 ### Outro
 - 
