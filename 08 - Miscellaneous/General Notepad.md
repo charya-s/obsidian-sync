@@ -1,5 +1,5 @@
 A: Hello Jin Jin, this is my friend.
-B: Ni hao, ta jiao shenma? - Hello, what is his name?
+B: Ni hao, ta jiao shenma mingzi? - Hello, what is his name?
 
 A: His name is Xin Xin.
 B: Ta shi laoshi ma? - Is he a teacher?
