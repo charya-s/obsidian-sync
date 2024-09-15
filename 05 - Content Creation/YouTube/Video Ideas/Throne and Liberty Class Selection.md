@@ -13,6 +13,13 @@ In this video, we'll be going through each class combination and rating them in 
 - 
 - 
 
+### Class System
+- T&L does not have a traditional class system.
+- Instead, the skills you have depends on weapon combinations (two weapons).
+	- There's no such thing as a primary or secondary weapon, both weapons equipped are treated equally.
+- You have limited skill slots but you can choose any mix of skills from both weapons.
+- This is something I really lik
+
 ### Outro
 - 
 
