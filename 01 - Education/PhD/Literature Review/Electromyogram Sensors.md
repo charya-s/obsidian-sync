@@ -7,4 +7,4 @@ The most common form is of EMG sensing is "surface EMG", where "electrodes" are 
 
 The other common form is "inserted EMG", which utilizes a needle to monitor deeper muscles whose activations would otherwise be undetectable from the surface.
 
-In [[PhD]], surface EMG is used over inserted EMG as the muscle groups that affect gait, those of the hip, knee and ankle, are all superficial.
+In [[00 - PhD]], surface EMG is used over inserted EMG as the muscle groups that affect gait, those of the hip, knee and ankle, are all superficial.
