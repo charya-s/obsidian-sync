@@ -12,5 +12,4 @@ $$
 
 ### Usage Notes
 
-- Use $\text{wo}$ when referring to yourself.
-- Use 
+- 
