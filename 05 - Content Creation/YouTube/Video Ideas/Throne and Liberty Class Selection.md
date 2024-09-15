@@ -21,7 +21,7 @@ In this video, we'll be going through each class combination and rating them in 
 ## Script
 | Narration                                                                                                                                                                                                             | Editor's Notes |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-|                                                                                                                                                                                                                       |                |
+| sdsd                                                                                                                                                                                                                  | <              |
 | Hello everybody! Welcome to a quick little guide for Throne and Liberty where we talk about one of the hardest decisions an MMO player has to make ever, which is on the question of... What Class Should You Choose? |                |
 |                                                                                                                                                                                                                       |                |
 |                                                                                                                                                                                                                       |                |

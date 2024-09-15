@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+                "file": "08 - Miscellaneous/General Notepad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+                "file": "08 - Miscellaneous/General Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+                "file": "08 - Miscellaneous/General Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md"
+                "file": "08 - Miscellaneous/General Notepad.md"
               }
             }
           },
@@ -141,8 +141,12 @@
             "id": "0cd279988a00889c",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Journal/2024 Sep 15.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -150,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,17 +165,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0cd279988a00889c",
+  "active": "0f9f2b5917989664",
   "lastOpenFiles": [
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+    "00 - Journal/2024 Sep 15.md",
     "08 - Miscellaneous/General Notepad.md",
     "00 - Journal/2024 Sep 14.md",
     "00 - Journal/2024 Sep 13.md",
-    "00 - Journal/2024 Sep 15.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "05 - Content Creation/YouTube/YouTube.md",
     "05 - Content Creation/YouTube/What Topics Work.md",
