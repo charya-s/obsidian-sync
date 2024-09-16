@@ -28,7 +28,8 @@ In this video, we'll be going through each class combination and rating them in 
 ### The Weapons
 - Okay, so there are seven main weapons in T&L to choose from.
 - There's the **Greatsword**, which is a melee weapon, so very short range, that has great AoE skills, generally good survivability, and some mobility thrown in.
-- Then, there's the **Sword and Shield**, which is the closest thing to a Tank class 
+- Then, there's the **Sword and Shield**, another short-ranged melee class, but unlike the GS, it focuses on being extremely tanky. 
+- After that, there's the **Longbow**, which is a 
 
 ### Outro
 - 
