@@ -1,0 +1,4 @@
+- [[Ideas (Music)]]
+- New Untitled Album
+	- [[Untitled Song 1]]
+	- 
