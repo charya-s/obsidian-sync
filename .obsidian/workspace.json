@@ -11,8 +11,12 @@
             "id": "0f9f2b5917989664",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md"
+              }
             }
           },
           {
@@ -150,13 +158,15 @@
   },
   "active": "0f9f2b5917989664",
   "lastOpenFiles": [
+    "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "00 - Journal/2024 Sep 17.md",
     "00 - Journal/2024 Sep 14.md",
     "00 - Journal/2024 Sep 13.md",
     "00 - Journal/2024 Sep 19.md",
     "00 - Journal/2024 Sep 18.md",
     "00 - Journal/2024 Sep 15.md",
-    "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "05 - Content Creation/Music/Untitled Album/Untitled Song 1.md",
     "05 - Content Creation/Music/Ideas (Music).md",
     "05 - Content Creation/Music/00 - Music.md",
@@ -165,8 +175,6 @@
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
-    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
-    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "01 - Education/PhD/00 - PhD.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "07 - Gaming/EU4 Tags.md",
