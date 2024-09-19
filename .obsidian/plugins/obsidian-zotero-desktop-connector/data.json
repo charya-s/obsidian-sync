@@ -8,7 +8,7 @@
     {
       "name": "IEEE",
       "format": "formatted-citation",
-      "cslStyle": "IEEE"
+      "cslStyle": "ieee"
     }
   ],
   "exportFormats": [],
