@@ -10,4 +10,3 @@ The other common form is "inserted EMG", which utilizes a needle to monitor deep
 In [[00 - PhD]], surface EMG is used over inserted EMG as the muscle groups that affect gait, those of the hip, knee and ankle, are all superficial.
 
 
-
