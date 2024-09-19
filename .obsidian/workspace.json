@@ -11,12 +11,8 @@
             "id": "0f9f2b5917989664",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Education/PhD/Literature Review/Collecting and Relating Data.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,21 +128,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "0cd279988a00889c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Journal/2024 Sep 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,6 +150,13 @@
   },
   "active": "0f9f2b5917989664",
   "lastOpenFiles": [
+    "00 - Journal/2024 Sep 17.md",
+    "00 - Journal/2024 Sep 14.md",
+    "00 - Journal/2024 Sep 13.md",
+    "00 - Journal/2024 Sep 19.md",
+    "00 - Journal/2024 Sep 18.md",
+    "00 - Journal/2024 Sep 15.md",
+    "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "05 - Content Creation/Music/Untitled Album/Untitled Song 1.md",
     "05 - Content Creation/Music/Ideas (Music).md",
     "05 - Content Creation/Music/00 - Music.md",
@@ -180,26 +167,19 @@
     "05 - Content Creation/Music",
     "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
-    "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
-    "00 - Journal/2024 Sep 19.md",
     "01 - Education/PhD/00 - PhD.md",
-    "00 - Journal/2024 Sep 18.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "07 - Gaming/EU4 Tags.md",
-    "00 - Journal/2024 Sep 17.md",
     "04 - Personal Studies/History/Sassanid Empire.md",
     "04 - Personal Studies/History/00 - History.md",
     "04 - Personal Studies/History",
     "07 - Gaming/Gaming.md",
-    "00 - Journal/2024 Sep 15.md",
-    "00 - Journal/2024 Sep 14.md",
     "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
     "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
     "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
     "99 - Meta/Templates/Template,LanguageStudy.md",
-    "04 - Personal Studies/Languages/Mandarin/Asking Questions (CN).md",
     "04 - Personal Studies/Languages",
     "04 - Personal Studies/Languages/Latin",
     "04 - Personal Studies/Languages/Mandarin",
