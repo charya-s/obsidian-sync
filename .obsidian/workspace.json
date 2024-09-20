@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Electromyogram Sensors.md"
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,11 +158,13 @@
   },
   "active": "0f9f2b5917989664",
   "lastOpenFiles": [
+    "05 - Content Creation/YouTube/00 - YouTube.md",
+    "05 - Content Creation/YouTube/What Topics Work.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
     "hossainEstimationLowerExtremity2023.md",
     "dasguptaMachineLearningOptical2023.md",
-    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "00 - Journal/2024 Sep 17.md",
     "00 - Journal/2024 Sep 14.md",
@@ -173,7 +176,6 @@
     "05 - Content Creation/Music/Ideas (Music).md",
     "05 - Content Creation/Music/00 - Music.md",
     "05 - Content Creation/Music/Untitled Album",
-    "05 - Content Creation/YouTube/00 - YouTube.md",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
     "01 - Education/PhD/00 - PhD.md",
@@ -186,7 +188,6 @@
     "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
     "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
-    "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
     "04 - Personal Studies/Languages",
     "04 - Personal Studies/Languages/Latin",
     "04 - Personal Studies/Languages/Mandarin",
