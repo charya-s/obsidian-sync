@@ -125,6 +125,14 @@
           "type": "git-view",
           "state": {}
         }
+      },
+      {
+        "id": "c0a13fd5f8ee86a3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 3
@@ -140,14 +148,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c3457e7b00e2d2d",
+  "active": "0d66d48c02bed010",
   "lastOpenFiles": [
+    "99 - Meta/Templates/Template,EU4.md",
+    "08 - Miscellaneous/00 - General Notepad.md",
     "99 - Meta/Templates/Template,VideoIdea.md",
     "99 - Meta/Templates/Template,LanguageStudy.md",
     "99 - Meta/Templates/Template,GoodMedia.md",
-    "99 - Meta/Templates/Template,EU4.md",
     "99 - Meta/Templates/Template,DailyNote.md",
-    "08 - Miscellaneous/00 - General Notepad.md",
     "07 - Gaming/Gaming.md",
     "07 - Gaming/EU4 Tags.md",
     "06 - Good Media/Movies/Memories of Murder.md",
