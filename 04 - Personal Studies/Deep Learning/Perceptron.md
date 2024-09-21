@@ -1,3 +1,5 @@
+### Basic Perception
+
 This is the basic building block of neural networks. These are analogous to "neurons" in a brain.
 
 ![[Pasted image 20240922012434.png | center]]
@@ -28,5 +30,11 @@ W=\begin{bmatrix}
 \end{split}
 $$
 
+---
+### Multi-Output Network
 
+A neural network can have multiple outputs in each layer, with each output produced by a unique perceptron.
 
+![[Pasted image 20240922015008.png | center]]
+
+In these, the eq

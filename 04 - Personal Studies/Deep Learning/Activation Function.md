@@ -16,6 +16,7 @@ This is one of most commonly used AFs for probabilistic determination.
 ---
 ### Rectified Linear Unit (ReLU)
 
+![[Pasted image 20240922014719.png | center]]
 $$
 g(z) = \max(0, z)
 $$
