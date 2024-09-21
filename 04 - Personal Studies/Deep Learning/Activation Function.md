@@ -5,6 +5,7 @@ We need these because without them, the equation of a perceptron would simply be
 ---
 ### Sigmoid Function
 
+![[Pasted image 20240922014208.png | center]]
 $$
 g(z) = \sigma(z) = \frac{1}{1+e^{-z}}
 $$
