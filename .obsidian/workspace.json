@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
+                "file": "08 - Miscellaneous/00 - General Notepad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
+                "file": "08 - Miscellaneous/00 - General Notepad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
+                "file": "08 - Miscellaneous/00 - General Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md"
+                "file": "08 - Miscellaneous/00 - General Notepad.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "8b0fd0ba563ceb61",
   "lastOpenFiles": [
-    "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
