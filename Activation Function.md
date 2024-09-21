@@ -11,4 +11,4 @@ $$
 g(z) = \sigma(z) = \frac{1}{1+e^{-z}}
 $$
 
-This is one of most commonly used AFs. It takes any value of z, $z \in \mathbb{R}$,  and 
+This is one of most commonly used AFs, where ${\{ z \text{ } | \text{ } z \in \mathbb{R} \}}$ and ${\{ g(z) \text{ } | \text{ } 0 < g(z) < 1 \}}$.
