@@ -5,6 +5,9 @@
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
-    "Daily Note Themes"
-  ]
+    "Daily Note Themes",
+    "Image Align"
+  ],
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }
