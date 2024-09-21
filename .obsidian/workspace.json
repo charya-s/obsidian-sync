@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Miscellaneous/00 - General Notepad.md",
+                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Miscellaneous/00 - General Notepad.md",
+                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Miscellaneous/00 - General Notepad.md",
+                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Miscellaneous/00 - General Notepad.md"
+                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "8b0fd0ba563ceb61",
   "lastOpenFiles": [
+    "08 - Miscellaneous/00 - General Notepad.md",
+    "05 - Content Creation/YouTube/Collaboration Email Template.md",
     "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
@@ -193,7 +195,6 @@
     "00 - Journal/2024 Sep 19.md",
     "00 - Journal/2024 Sep 18.md",
     "00 - Journal/2024 Sep 15.md",
-    "05 - Content Creation/Music/Untitled Album/Untitled Song 1.md",
     "05 - Content Creation/Music/Untitled Album",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
