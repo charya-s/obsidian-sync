@@ -11,9 +11,10 @@ Where $\hat{y}$ is the output of the perception, $g$ is the [[Activation Functio
 
 This equation can be re-written in vector form as follows.
 $$
-\begin{}
+\begin{split}
 
-\hat{y} = g(w_{0} + X^TW)  \hspace{0.5cm} \text{where} \hspace{0.5cm} X=\begin{bmatrix}
+\hat{y} = g(w_{0} + X^TW)  \\ \\
+\text{where} \hspace{0.5cm} X=\begin{bmatrix}
            x_{1} \\
            \vdots \\
            x_{m}
@@ -25,7 +26,7 @@ W=\begin{bmatrix}
            w_{m}
 \end{bmatrix}
 
-\end{}
+\end{split}
 $$
 
 
