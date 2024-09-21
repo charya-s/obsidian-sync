@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md"
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "8b0fd0ba563ceb61",
   "lastOpenFiles": [
-    "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/Back Propagation.md",
     "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Deep Learning/Loss Functions.md",
+    "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
     "05 - Content Creation/YouTube/Collaboration Email Template.md",
