@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptron.md",
+                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptron.md",
+                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptron.md",
+                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptron.md"
+                "file": "04 - Personal Studies/Deep Learning/Basic Neural Networks.md"
               }
             }
           },
@@ -158,13 +158,14 @@
   },
   "active": "0f9f2b5917989664",
   "lastOpenFiles": [
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
+    "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
     "Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014719.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922012434.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014619.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014208.png",
-    "04 - Personal Studies/Deep Learning/Perceptron.md",
     "Pasted image 20240922014603.png",
     "Pasted image 20240922014151.png",
     "Pasted image 20240922014005.png",
