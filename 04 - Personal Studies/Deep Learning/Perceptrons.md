@@ -6,7 +6,7 @@ This is the basic building block of neural networks. These are analogous to "neu
 
 Neural networks such as the one above use the following equation for forward propagation.
 $$
-\hat{y} = g \left(w_{0} + \sum_{i=1}^{m}{x_{i} w_{i}} \right) = g(z)
+\hat{y} = g \left(w_{0} + \sum_{j=1}^{m}{x_{j} w_{j}} \right) = g(z)
 $$
 Where $\hat{y}$ is the output of the perception, $g$ is the [[Activation Function]],  $w_{0}$ is the bias, $m$ is the total number of inputs, $x_{i}$ is the current input and $w_{i}$ is the weight of the current input.
 
@@ -40,9 +40,9 @@ A neural network can have multiple outputs in each layer by placing multiple sin
 The equation for the single-layer perceptron can be further expanded to allow for multi-layer perceptrons as follows.
 
 $$
-z_{j} = w_{0, j} + \sum_{i=1}^{m}{x_{i} w_{i,j}}
+z_{i} = w_{0, i} + \sum_{j=1}^{m}{x_{j} w_{j,i}}
 $$
-where $z_{j}$ is the raw output of the $j\text{-th}$ perceptron.
+where $z_{i}$ is the raw output of the $i\text{-th}$ perceptron.
 
 Simple neural networks can be implemented manually in PyTorch as follows.
 

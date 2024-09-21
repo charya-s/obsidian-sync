@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b0809fce4c9c209",
+        "id": "fc869e490cc523af",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9f2b5917989664",
+            "id": "8b0fd0ba563ceb61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,12 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f9f2b5917989664",
+  "active": "8b0fd0ba563ceb61",
   "lastOpenFiles": [
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
-    "Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
+    "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
+    "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
+    "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014719.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922012434.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014619.png",
@@ -171,8 +173,6 @@
     "Pasted image 20240922014005.png",
     "04 - Personal Studies/Deep Learning/Images",
     "Pasted image 20240922001111.png",
-    "Pasted image 20240922001107.png",
-    "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
     "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
@@ -194,7 +194,6 @@
     "00 - Journal/2024 Sep 18.md",
     "00 - Journal/2024 Sep 15.md",
     "05 - Content Creation/Music/Untitled Album/Untitled Song 1.md",
-    "05 - Content Creation/Music/Ideas (Music).md",
     "05 - Content Creation/Music/Untitled Album",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
