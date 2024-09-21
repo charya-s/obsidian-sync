@@ -11,12 +11,8 @@
             "id": "0f9f2b5917989664",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Activation Function.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Activation Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Activation Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Activation Function.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,12 +150,12 @@
   },
   "active": "0f9f2b5917989664",
   "lastOpenFiles": [
+    "Activation Function.md",
     "04 - Personal Studies/Deep Learning/Perceptron.md",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "05 - Content Creation/YouTube/00 - YouTube.md",
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
-    "Activation Function.md",
     "Pasted image 20240922001111.png",
     "Pasted image 20240922001107.png",
     "04 - Personal Studies/Deep Learning/Classification.md",
