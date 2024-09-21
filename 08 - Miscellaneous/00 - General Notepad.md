@@ -1,6 +1,7 @@
-- [ ] Math to learn.
+- [ ] Math.
 	- [ ] Graph theory.
 	- [ ] Mathematical optimization.
 	- [ ] Estimation theory.
 	- [ ] Game theory.
-
+- [ ] Deep learning.
+	- [ ] https://youtu.be/ErnWZxJovaM?t=2595
