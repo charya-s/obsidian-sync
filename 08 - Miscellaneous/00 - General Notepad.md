@@ -4,3 +4,5 @@
 	- [ ] Estimation theory.
 	- [ ] Game theory.
 
+- [ ] Deep learning.
+	- [ ] Continue from: https://youtu.be/ErnWZxJovaM?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&t=2271
