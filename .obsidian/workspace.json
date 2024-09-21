@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md"
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md"
               }
             }
           },
@@ -158,11 +158,14 @@
   },
   "active": "8b0fd0ba563ceb61",
   "lastOpenFiles": [
-    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
+    "04 - Personal Studies/Deep Learning/Back Propagation.md",
+    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+    "04 - Personal Studies/Deep Learning/Loss Functions.md",
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
+    "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
     "05 - Content Creation/YouTube/Collaboration Email Template.md",
     "08 - Miscellaneous/00 - General Notepad.md",
-    "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
@@ -192,16 +195,13 @@
     "00 - Journal/2024 Sep 17.md",
     "00 - Journal/2024 Sep 14.md",
     "00 - Journal/2024 Sep 13.md",
-    "00 - Journal/2024 Sep 19.md",
-    "00 - Journal/2024 Sep 18.md",
-    "00 - Journal/2024 Sep 15.md",
     "05 - Content Creation/Music/Untitled Album",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
     "04 - Personal Studies/History",
-    "04 - Personal Studies/Languages",
-    "04 - Personal Studies/Languages/Latin",
-    "04 - Personal Studies/Languages/Mandarin",
+    "Languages",
+    "Languages/Latin",
+    "Languages/Mandarin",
     "08 - Miscellaneous",
     "07 - Gaming/Europa Universalis 4",
     "Untitled.canvas",

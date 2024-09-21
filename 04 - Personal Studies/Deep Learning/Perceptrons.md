@@ -45,7 +45,3 @@ $$
 where $z_{i}$ is the raw output of the $i\text{-th}$ perceptron.
 
 Simple neural networks can be implemented manually in PyTorch as follows.
-
-```python
-
-```
