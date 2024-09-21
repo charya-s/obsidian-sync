@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md",
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md",
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md",
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Content Creation/YouTube/Collaboration Email Template.md"
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "8b0fd0ba563ceb61",
   "lastOpenFiles": [
-    "08 - Miscellaneous/00 - General Notepad.md",
-    "05 - Content Creation/YouTube/Collaboration Email Template.md",
-    "04 - Personal Studies/Deep Learning/Basic Neural Networks.md",
-    "04 - Personal Studies/Deep Learning/Perceptrons.md",
+    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
+    "05 - Content Creation/YouTube/Collaboration Email Template.md",
+    "08 - Miscellaneous/00 - General Notepad.md",
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",

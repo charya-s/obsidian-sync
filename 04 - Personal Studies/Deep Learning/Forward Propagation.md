@@ -1,4 +1,4 @@
-Using [[Perceptrons]], we can construct simple neural networks that take inputs, pass them through some hidden layers and then produce outputs.
+Using [[Perceptrons]], we can construct simple neural networks that take inputs, pass them through some hidden layers and then produce outputs. 
 
 ![[Pasted image 20240922020055.png | center]]
 
@@ -13,4 +13,4 @@ $$
 
 where $d_{1}$ is the number of perceptrons in the hidden layer. 
 
-**Note** that both equations above are actually the same basic perceptron equation, with the only difference being that for $\hat{y}$, we use the calculated values of $z$ as "inputs" in the place of $x$.
+**Note** that both equations above are actually the same basic perceptron equation, with the only difference being that for $\hat{y}$, we use the calculated values of $z$ as "inputs" in the place of $x$. As such, this equation is applied for each perceptron in each layer until the final, output layer is calculated.
