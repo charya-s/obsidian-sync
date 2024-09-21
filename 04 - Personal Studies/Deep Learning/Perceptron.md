@@ -1,7 +1,6 @@
 This is the basic building block of neural networks. These are analogous to "neurons" in a brain.
 
-![[Pasted image 20240922001111.png | center]]
-
+![[Pasted image 20240922012434.png | center]]
 
 Neural networks such as the one above use the following equation for forward propagation.
 $$

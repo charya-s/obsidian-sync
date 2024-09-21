@@ -11,8 +11,12 @@
             "id": "0f9f2b5917989664",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04 - Personal Studies/Deep Learning/Perceptron.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Personal Studies/Deep Learning/Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Personal Studies/Deep Learning/Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04 - Personal Studies/Deep Learning/Perceptron.md"
+              }
             }
           },
           {
@@ -148,27 +156,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f9f2b5917989664",
+  "active": "94457eb5415aec7f",
   "lastOpenFiles": [
-    "Activation Function.md",
+    "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922012434.png",
+    "04 - Personal Studies/Deep Learning/Images",
+    "Pasted image 20240922001111.png",
     "04 - Personal Studies/Deep Learning/Perceptron.md",
+    "Pasted image 20240922001107.png",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
-    "05 - Content Creation/YouTube/00 - YouTube.md",
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
-    "Pasted image 20240922001111.png",
-    "Pasted image 20240922001107.png",
+    "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
+    "04 - Personal Studies/Deep Learning/Activation Function.md",
+    "05 - Content Creation/YouTube/00 - YouTube.md",
     "04 - Personal Studies/Deep Learning/Classification.md",
     "04 - Personal Studies/Deep Learning/Regression.md",
     "04 - Personal Studies/Deep Learning/Cost Functions.md",
     "04 - Personal Studies/Deep Learning/Supervised Learning.md",
     "04 - Personal Studies/Deep Learning/Unsupervised Learning.md",
     "05 - Content Creation/YouTube/What Topics Work.md",
-    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "01 - Education/PhD/Literature Review/Inertial Sensors.md",
     "hossainEstimationLowerExtremity2023.md",
     "dasguptaMachineLearningOptical2023.md",
-    "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "00 - Journal/2024 Sep 17.md",
     "00 - Journal/2024 Sep 14.md",
     "00 - Journal/2024 Sep 13.md",
@@ -177,7 +187,6 @@
     "00 - Journal/2024 Sep 15.md",
     "05 - Content Creation/Music/Untitled Album/Untitled Song 1.md",
     "05 - Content Creation/Music/Ideas (Music).md",
-    "05 - Content Creation/Music/00 - Music.md",
     "05 - Content Creation/Music/Untitled Album",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
@@ -187,7 +196,6 @@
     "04 - Personal Studies/Languages/Mandarin",
     "08 - Miscellaneous",
     "07 - Gaming/Europa Universalis 4",
-    "07 - Gaming",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
