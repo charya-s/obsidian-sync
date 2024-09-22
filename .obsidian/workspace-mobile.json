@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
+                "file": "04 - Personal Studies/Math/Linear Algebra/Matrix Multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
+            "file": "04 - Personal Studies/Math/Linear Algebra/Matrix Multiplication.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
+            "file": "04 - Personal Studies/Math/Linear Algebra/Matrix Multiplication.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md"
+            "file": "04 - Personal Studies/Math/Linear Algebra/Matrix Multiplication.md"
           }
         }
       },
@@ -150,8 +150,11 @@
   },
   "active": "1c3457e7b00e2d2d",
   "lastOpenFiles": [
-    "08 - Miscellaneous/00 - General Notepad.md",
+    "04 - Personal Studies/Math/00 - Math.md",
+    "04 - Personal Studies/Math/Linear Algebra/Matrix Multiplication.md",
+    "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
+    "08 - Miscellaneous/00 - General Notepad.md",
     "04 - Personal Studies/Math",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "04 - Personal Studies/Languages/Mandarin/Locations.md",
@@ -175,8 +178,6 @@
     "06 - Good Media/00 - Good Media.md",
     "05 - Content Creation/YouTube/What Topics Work.md",
     "05 - Content Creation/YouTube/Collaboration Email Template.md",
-    "05 - Content Creation/YouTube/00 - YouTube.md",
-    "05 - Content Creation/Music/Untitled Album/Untitled Song 1.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014719.png",
@@ -189,7 +190,6 @@
     "06 - Good Media/Movies",
     "06 - Good Media/Books",
     "06 - Good Media/Anime",
-    "06 - Good Media",
-    "05 - Content Creation/YouTube/Video Ideas"
+    "06 - Good Media"
   ]
 }
