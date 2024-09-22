@@ -22,8 +22,8 @@ To ask where a subject is, you can use:
 Take note that **那** is more common in the North (Beijing), while **哪里** is more common in the South (Shanghai).
 
 Examples:
-- nî zài nâr? / 你在那？-> You at where? / Where are you?
-- Jiā zài nâlî? / 家在那里？-> Home at where? / Where is (your) home?
+- nî zài nâr? / 你在那？-> You at where?
+- Jiā zài nâlî? / 家在那里？-> Home at where?
 
 ---
 ### X is at Y
@@ -34,8 +34,8 @@ To say that a subject is at a known location, you can use:
 > *subject + at/in/exists + location*
 
 Examples:
-- wô zài jiā / 我在家 -> I at home / I'm at home.
-- māmā zài yínháng / 妈妈在银行 -> Mother at bank / Mother is at the bank.
+- wô zài jiā / 我在家 -> I at home
+- māmā zài yínháng / 妈妈在银行 -> Mother at bank 
 
 ---
 ### X is at Y relative to Z
@@ -46,5 +46,5 @@ If the sentence contains two subjects, where subject 1's location is relative to
 > *subject 1 + at/in/exists + subject 2 + location
 
 Examples:
-- wô zài chāoshì lîmian / 我在超市里面 -> I at supermarket inside / I am inside the supermarket.
-- t
+- wô zài chāoshì lîmian / 我在超市里面 -> I at supermarket inside 
+- nî zài huôchēzhàn ma? / 你在火车站吗？-> You at train station?
