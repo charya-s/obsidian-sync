@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Miscellaneous/00 - General Notepad.md",
+                "file": "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "08 - Miscellaneous/00 - General Notepad.md",
+            "file": "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "08 - Miscellaneous/00 - General Notepad.md",
+            "file": "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "08 - Miscellaneous/00 - General Notepad.md"
+            "file": "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md"
           }
         }
       },
@@ -150,9 +150,13 @@
   },
   "active": "1c3457e7b00e2d2d",
   "lastOpenFiles": [
+    "04 - Personal Studies/Deep Learning/Activation Function.md",
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
+    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+    "04 - Personal Studies/Deep Learning/Back Propagation.md",
+    "08 - Miscellaneous/00 - General Notepad.md",
     "/08 - Miscellaneous/00 - General Notepad.md",
     "99 - Meta/Templates/Template,EU4.md",
-    "08 - Miscellaneous/00 - General Notepad.md",
     "99 - Meta/Templates/Template,VideoIdea.md",
     "99 - Meta/Templates/Template,LanguageStudy.md",
     "99 - Meta/Templates/Template,GoodMedia.md",
@@ -172,10 +176,6 @@
     "05 - Content Creation/Music/00 - Music.md",
     "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Country and Nationality (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
-    "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014719.png",
