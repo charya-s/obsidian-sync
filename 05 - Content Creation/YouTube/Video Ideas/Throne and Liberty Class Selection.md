@@ -1,6 +1,6 @@
 ***Title***: "Throne and Liberty Global: Which Class Should You Choose? - MMO Guide"
 ***Topic***: Throne and Liberty Guide
-***Expected Publishing Date***: 25th September 2024 
+***Expected Publishing Date***: 25th/26th September 2024 
 
 ----
 
@@ -43,14 +43,3 @@ In this video, we'll be going through each class combination and rating them in 
 
 
 ---
-## Script
-| Narration                                                                                                                                                                                                             | Editor's Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| sdsd                                                                                                                                                                                                                  | <              |
-| Hello everybody! Welcome to a quick little guide for Throne and Liberty where we talk about one of the hardest decisions an MMO player has to make ever, which is on the question of... What Class Should You Choose? |                |
-|                                                                                                                                                                                                                       |                |
-|                                                                                                                                                                                                                       |                |
-|                                                                                                                                                                                                                       |                |
-|                                                                                                                                                                                                                       |                |
-| Okay, before we go any further, I should mention that in Throne and Liberty, you're actually not locked into a class at all.                                                                                          |                |
-| In fact, there actually aren't even any strict classes to choose from at all. The skills you can use and the playstyle you have will depend instead on the combination of weapons you have equipped.                  |                |
