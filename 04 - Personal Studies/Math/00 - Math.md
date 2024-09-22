@@ -1,3 +1,3 @@
 - Linear Algebra
-	- [[Matrix Multiplication]]
+	- [[Basics of Linear Algebra]]
 	- 
