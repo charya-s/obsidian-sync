@@ -1,5 +1,7 @@
 This is the basic algorithm at the heart of linear algebra. 
 
+Recall that,
+
 $$
 \begin{align}
 
@@ -14,9 +16,16 @@ y_{5} & y_{6}
 \end{bmatrix}
 \\ =
 \begin{bmatrix}
-x_{1}y_{1}+x_{2}y_{3}+x_{3}y_{5} \\
-x_{3} & _{4}
+x_{1}y_{1}+x_{2}y_{3}+x_{3}y_{5} & \dots \\
+\dots & \dots
 \end{bmatrix}
 
 \end{align}
 $$
+
+And therefore,
+
+$$
+\text{matmul}(A, B)_{ij} = \sum_{r}A_{i,r}B_{r,j}
+$$
+where $ij$ is the position of the value in the resultant matrix, $i$ is the row in 
