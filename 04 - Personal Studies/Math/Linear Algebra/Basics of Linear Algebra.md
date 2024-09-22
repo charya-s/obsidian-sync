@@ -32,22 +32,30 @@ where $ij$ is the position of the value in the resultant matrix, $i$ is the row 
 ---
 ### Linear Functions
 
-Given that $f(x)$ is linear, 
+Linear functions are defined such that given a linear function $f(x)$, 
 $$
-\begin{align} 
-f(a+b) = f(a) + f(b) && \text{(1)}
-\end{align}
+f(a+b) = f(a) + f(b)
 $$
 where $a$ and $b$ are input values, and,
 $$
-\begin{align}
-f(\lambda A) = \lambda f(a) && \text{(2)}
-\end{align}
-$$where $\lambda$ is a constant. Therefore,
+f(\lambda A) = \lambda f(a)
+$$where $\lambda$ is a constant. 
+
+Therefore,
 $$
 f \left(\sum_{i} \lambda_{i} \cdot a_{i} \right) = \sum_{i} \lambda_{i} \cdot f(a)
 $$
 Thus, linear functions are extremely useful when working with weighted sums, such as in [[00 - Deep Learning]].
 
-Then, given 
+Additionally, given the definition,
+$$
+f(0) = f(0) + f(0) = 0
+$$
+and therefore, $f(0)$ is always $0$.
+
+
+
+
+
+
 
