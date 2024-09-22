@@ -1,7 +1,6 @@
 This is the basic algorithm at the heart of linear algebra. 
 
 Recall that,
-
 $$
 \begin{align}
 
@@ -22,10 +21,11 @@ x_{1}y_{1}+x_{2}y_{3}+x_{3}y_{5} & \dots \\
 
 \end{align}
 $$
-
 And therefore,
 
 $$
-\text{matmul}(A, B)_{ij} = \sum_{r}A_{i,r}B_{r,j}
+\text{matmul}(A, B)_{ij} = AB_{ij}=\sum_{r}A_{i,r}B_{r,j}
 $$
-where $ij$ is the position of the value in the resultant matrix, $i$ is the row in 
+where $ij$ is the position of the value in the resultant matrix, $i$ is the row in first matrix, $j$ is the column in the second matrix and $r$ is each element in each matrix.
+
+
