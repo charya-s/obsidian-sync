@@ -8,14 +8,14 @@ Neural networks such as the one above use the following equation for forward pro
 $$
 \hat{y} = g \left(w_{0} + \sum_{j=1}^{m}{x_{j} w_{j}} \right) = g(z)
 $$
-Where $\hat{y}$ is the output of the perception, $g$ is the [[Activation Function]],  $w_{0}$ is the bias, $m$ is the total number of inputs, $x_{i}$ is the current input and $w_{i}$ is the weight of the current input.
+Where $\hat{y}$ is the output of the perception, $g$ is the [[Activation Function]],  $w_{0}$ is the bias, $m$ is the total number of inputs (**not data points**), $x_{i}$ is the current input and $w_{i}$ is the weight of the current input.
 
 The term $z$, which is a substitute term for the raw output of the perceptron before the application of the activation function, can be re-written in vector form as follows.
 $$
-\begin{align}
+\begin{gather*}
 
-z &= w_{0} + X^TW  \\ \\
-\text{where} \hspace{0.5cm} X &=\begin{bmatrix}
+z = w_{0} + X^TW  \\ \\
+X^T = \begin{bmatrix}
            x_{1} \\
            \vdots \\
            x_{m}
@@ -27,7 +27,7 @@ W =\begin{bmatrix}
            w_{m}
 \end{bmatrix}
 
-\end{align}
+\end{gather*}
 $$
 
 ---
@@ -43,5 +43,3 @@ $$
 z_{i} = w_{0, i} + \sum_{j=1}^{m}{x_{j} w_{j,i}}
 $$
 where $z_{i}$ is the raw output of the $i\text{-th}$ perceptron.
-
-Simple neural networks can be implemented manually in PyTorch as follows.
