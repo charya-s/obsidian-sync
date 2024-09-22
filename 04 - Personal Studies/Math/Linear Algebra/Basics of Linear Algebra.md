@@ -34,10 +34,8 @@ where $ij$ is the position of the value in the resultant matrix, $i$ is the row 
 
 Linear (transformation) functions are defined such that given a function $f(x)$, $$
 \begin{align} 
-\colorbox{beige}{
 f(a+b) &= f(a) + f(b) \\ \\
 f(\lambda a) &= \lambda f(a) \\
-}
 \end{align}
 $$where $a$ and $b$ are input values and $\lambda$ is a constant. 
 
@@ -47,17 +45,14 @@ f \left(\sum_{i} \lambda_{i} \cdot a_{i} \right) = \sum_{i} \lambda_{i} \cdot f(
 $$
 Thus, linear functions are extremely useful when working with weighted sums, such as in [[00 - Deep Learning]].
 
-Additionally, given the definition,
+Additionally, given the definition above,
 $$
 f(0) = f(\lambda 0) = \lambda f(0)
 $$
-and therefore, since scaling $f(0)$ with any value of $\lambda$ returns itself,
+Therefore, since scaling $f(0)$ with any value of $\lambda$ returns itself,
 $$
-\colorbox{beige}{
 f(0) = 0
-}
 $$
-
 
 
 

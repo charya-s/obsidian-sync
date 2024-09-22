@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+            "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+            "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md"
+            "file": "04 - Personal Studies/Deep Learning/Perceptrons.md"
           }
         }
       },
@@ -150,20 +150,20 @@
   },
   "active": "1c3457e7b00e2d2d",
   "lastOpenFiles": [
+    "04 - Personal Studies/Deep Learning/Activation Function.md",
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
+    "04 - Personal Studies/Deep Learning/Loss Functions.md",
+    "04 - Personal Studies/Deep Learning/Back Propagation.md",
+    "08 - Miscellaneous/00 - General Notepad.md",
     "04 - Personal Studies/Math/00 - Math.md",
     "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
     "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
-    "08 - Miscellaneous/00 - General Notepad.md",
     "04 - Personal Studies/Math",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "04 - Personal Studies/Languages/Mandarin/Locations.md",
-    "04 - Personal Studies/Deep Learning/Loss Functions.md",
     "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
-    "04 - Personal Studies/Deep Learning/Activation Function.md",
-    "04 - Personal Studies/Deep Learning/Perceptrons.md",
-    "04 - Personal Studies/Deep Learning/Back Propagation.md",
     "/08 - Miscellaneous/00 - General Notepad.md",
     "99 - Meta/Templates/Template,EU4.md",
     "99 - Meta/Templates/Template,VideoIdea.md",

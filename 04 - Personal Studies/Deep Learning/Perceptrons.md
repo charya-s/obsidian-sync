@@ -12,22 +12,22 @@ Where $\hat{y}$ is the output of the perception, $g$ is the [[Activation Functio
 
 The term $z$, which is a substitute term for the raw output of the perceptron before the application of the activation function, can be re-written in vector form as follows.
 $$
-\begin{split}
+\begin{align}
 
-z = w_{0} + X^TW  \\ \\
-\text{where} \hspace{0.5cm} X=\begin{bmatrix}
+z &= w_{0} + X^TW  \\ \\
+\text{where} \hspace{0.5cm} X &=\begin{bmatrix}
            x_{1} \\
            \vdots \\
            x_{m}
 \end{bmatrix}
 \text{ and }
-W=\begin{bmatrix}
+W =\begin{bmatrix}
            w_{1} \\
            \vdots \\
            w_{m}
 \end{bmatrix}
 
-\end{split}
+\end{align}
 $$
 
 ---

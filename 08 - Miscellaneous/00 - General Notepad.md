@@ -1,4 +1,5 @@
 - [ ] Math to learn.
+	- [ ] Linear algebra.
 	- [ ] Graph theory.
 	- [ ] Mathematical optimization.
 	- [ ] Estimation theory.
