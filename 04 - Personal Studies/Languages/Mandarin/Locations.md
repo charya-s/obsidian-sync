@@ -5,8 +5,11 @@ nâr / 那 -> where
 nâlî / 哪里 -> where
 jiā / 家 -> home
 qiánmiàn / 前面 -> front of
-
+hòumiàn / 后面 -> behind
+lîmian / 里面 -> inside
 yínháng / 银行 -> bank
+chāoshì / 超市 -> supermarket 
+huôchēzhàn / 火车站 -> train station
 
 ---
 ### Where is X?
@@ -43,4 +46,5 @@ If the sentence contains two subjects, where subject 1's location is relative to
 > *subject 1 + at/in/exists + subject 2 + location
 
 Examples:
-- 
+- wô zài chāoshì lîmian / 我在超市里面 -> I at supermarket inside / I am inside the supermarket.
+- t
