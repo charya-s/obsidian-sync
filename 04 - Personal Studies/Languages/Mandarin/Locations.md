@@ -1,14 +1,12 @@
 ### New Words
 
-**zài** (在) -> where
+zài 在 -> at/in/exists
+nâr 那 / nâlî 哪里 -> where
 
 
-$$
-\text{subject }+\text{ zai }+\text{ place}
-$$
-$$
-\text{subject 1 }+\text{ zai }+\text{ subject 2 }+\text{ place}
-$$
+`subject + zài + place`
+
+> Subject + zài + place
 
 
 
