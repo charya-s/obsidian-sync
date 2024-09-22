@@ -2,7 +2,7 @@ Using [[Perceptrons]], we can construct simple neural networks that take inputs,
 
 ![[Pasted image 20240922020055.png | center]]
 
-Since there's two sets of connects between nodes, there will be two calculations done in a chain, with the final output, $\hat{y}_{i}$ obtained using the values of $g(z)$ calculated in the hidden layer.
+Since there's two sets of connections between nodes, there will be two calculations done in a chain, with the final output, $\hat{y}_{i}$ obtained using the values of $g(z)$ calculated in the hidden layer.
 
 $$
 \begin{align}
@@ -13,4 +13,4 @@ $$
 
 where $d_{1}$ is the number of perceptrons in the hidden layer. 
 
-**Note** that both equations above are actually the same basic perceptron equation, with the only difference being that for $\hat{y}$, we use the calculated values of $z$ as "inputs" in the place of $x$. As such, this equation is applied for each perceptron in each layer until the final, output layer is calculated.
+**Note** that both equations above are actually the same basic perceptron equation, with the only difference being that for $\hat{y}$, we use the calculated values of $z$ as "inputs" in the place of $x$. As such, this equation can be applied for each perceptron in each layer for any number of layers until the final, output layer is calculated.

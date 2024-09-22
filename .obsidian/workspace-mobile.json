@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+                "file": "04 - Personal Studies/Math/Game Theory/The Prisoners Dilemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+            "file": "04 - Personal Studies/Math/Game Theory/The Prisoners Dilemma.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+            "file": "04 - Personal Studies/Math/Game Theory/The Prisoners Dilemma.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md"
+            "file": "04 - Personal Studies/Math/Game Theory/The Prisoners Dilemma.md"
           }
         }
       },
@@ -150,20 +150,22 @@
   },
   "active": "1c3457e7b00e2d2d",
   "lastOpenFiles": [
+    "04 - Personal Studies/Math/00 - Math.md",
+    "04 - Personal Studies/Math/Game Theory/The Prisoners Dilemma.md",
+    "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+    "04 - Personal Studies/Math/Game Theory",
+    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Deep Learning/Loss Functions.md",
     "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/Back Propagation.md",
     "08 - Miscellaneous/00 - General Notepad.md",
-    "04 - Personal Studies/Math/00 - Math.md",
-    "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
     "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
     "04 - Personal Studies/Math",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "04 - Personal Studies/Languages/Mandarin/Locations.md",
-    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
     "/08 - Miscellaneous/00 - General Notepad.md",
     "99 - Meta/Templates/Template,EU4.md",
@@ -177,7 +179,6 @@
     "06 - Good Media/Books/Robots by Isaac Asimov.md",
     "06 - Good Media/Anime/Neon Genesis Evangelion.md",
     "06 - Good Media/00 - Good Media.md",
-    "05 - Content Creation/YouTube/What Topics Work.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014719.png",
@@ -189,7 +190,6 @@
     "07 - Gaming",
     "06 - Good Media/Movies",
     "06 - Good Media/Books",
-    "06 - Good Media/Anime",
-    "06 - Good Media"
+    "06 - Good Media/Anime"
   ]
 }
