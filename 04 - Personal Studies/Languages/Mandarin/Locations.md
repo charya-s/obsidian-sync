@@ -34,8 +34,8 @@ To say that a subject is at a known location, you can use:
 > *subject + at/in/exists + location*
 
 Examples:
-- wô zài jiā / 我在家 -> I at home
-- māmā zài yínháng / 妈妈在银行 -> Mother at bank 
+- wô zài jiā / 我在家 -> I at home.
+- māmā zài yínháng / 妈妈在银行 -> Mother at bank. 
 
 ---
 ### X is at Y relative to Z
@@ -43,8 +43,11 @@ Examples:
 If the sentence contains two subjects, where subject 1's location is relative to subject 2, you can use:
 
 >**subject + 在 + subject 2 + location**
-> *subject 1 + at/in/exists + subject 2 + location
+> *subject 1 + at/in/exists + subject 2 + location*
+
+You can add **的** if and only if the location belongs to subject 2.
 
 Examples:
-- wô zài chāoshì lîmian / 我在超市里面 -> I at supermarket inside 
+- wô zài chāoshì lîmian / 我在超市里面 -> I at supermarket inside.
 - nî zài huôchēzhàn ma? / 你在火车站吗？-> You at train station?
+- māmā zài wô de jiā / 妈妈在我的家 -> Mother at my home.
