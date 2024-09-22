@@ -1,15 +1,15 @@
 ### New Words
 
 zài / 在 -> at/in/exists
-nâr / 那 -> where
-nâlî / 哪里 -> where
+nǎr / 那 -> where
+nǎlǐ / 哪里 -> where
 jiā / 家 -> home
 qiánmiàn / 前面 -> front of
 hòumiàn / 后面 -> behind
-lîmian / 里面 -> inside
+lǐmian / 里面 -> inside
 yínháng / 银行 -> bank
 chāoshì / 超市 -> supermarket 
-huôchēzhàn / 火车站 -> train station
+huǒchēzhàn / 火车站 -> train station
 
 ---
 ### Where is X?
@@ -22,8 +22,8 @@ To ask where a subject is, you can use:
 Take note that **那** is more common in the North (Beijing), while **哪里** is more common in the South (Shanghai).
 
 Examples:
-- nî zài nâr? / 你在那？-> You at where?
-- Jiā zài nâlî? / 家在那里？-> Home at where?
+- nǐ zài nǎr? / 你在那？-> You at where?
+- Jiā zài nǎlǐ? / 家在那里？-> Home at where?
 
 ---
 ### X is at Y
@@ -34,7 +34,7 @@ To say that a subject is at a known location, you can use:
 > *subject + at/in/exists + location*
 
 Examples:
-- wô zài jiā / 我在家 -> I at home.
+- wǒ zài jiā / 我在家 -> I at home.
 - māmā zài yínháng / 妈妈在银行 -> Mother at bank. 
 
 ---
@@ -48,6 +48,6 @@ If the sentence contains two subjects, where subject 1's location is relative to
 You can add **的** if and only if the location belongs to subject 2.
 
 Examples:
-- wô zài chāoshì lîmian / 我在超市里面 -> I at supermarket inside.
-- nî zài huôchēzhàn ma? / 你在火车站吗？-> You at train station?
-- māmā zài wô de jiā / 妈妈在我的家 -> Mother at my home.
+- wǒ zài chāoshì lǐmian / 我在超市里面 -> I at supermarket inside.
+- nǐ zài huǒchēzhàn ma? / 你在火车站吗？-> You at train station?
+- māmā zài wǒ de jiā / 妈妈在我的家 -> Mother at my home.
