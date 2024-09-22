@@ -30,16 +30,14 @@ $$
 where $ij$ is the position of the value in the resultant matrix, $i$ is the row in first matrix, $j$ is the column in the second matrix and $r$ is each element in each matrix.
 
 ---
-### Linear Functions
+### Linear Transformation Functions
 
-Linear functions are defined such that given a linear function $f(x)$, 
-$$
-f(a+b) = f(a) + f(b)
-$$
-where $a$ and $b$ are input values, and,
-$$
-f(\lambda A) = \lambda f(a)
-$$where $\lambda$ is a constant. 
+Linear (transformation) functions are defined such that given a function $f(x)$, $$
+\begin{align}
+f(a+b) &= f(a) + f(b) \\ \\
+f(\lambda a) &= \lambda f(a)
+\end{align}
+$$where $a$ and $b$ are input values and $\lambda$ is a constant. 
 
 Therefore,
 $$
