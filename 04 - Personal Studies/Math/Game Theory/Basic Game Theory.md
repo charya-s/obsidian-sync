@@ -23,4 +23,6 @@ Given the above and given that each player wants to maximize their gain, the fol
 ---
 ### Dominance
 
-In the game above, for both players, the strategy of choosing "Steal" is said to **strictly dominate** that of choosi
+In the game above, for both players, the strategy of choosing "Split" is said to be  **strictly dominated** by that of choosing "Steal", since the latter is preferable in **all** scenarios. Rational players never play strictly dominated strategies.
+
+
