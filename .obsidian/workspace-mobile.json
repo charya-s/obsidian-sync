@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+                "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+            "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+            "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md"
+            "file": "04 - Personal Studies/Math/Basics of Mathematical Optimization.md"
           }
         }
       },
@@ -150,6 +150,10 @@
   },
   "active": "1c3457e7b00e2d2d",
   "lastOpenFiles": [
+    "08 - Miscellaneous/00 - General Notepad.md",
+    "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
+    "04 - Personal Studies/Math",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "04 - Personal Studies/Languages/Mandarin/Locations.md",
     "04 - Personal Studies/Deep Learning/Loss Functions.md",
     "04 - Personal Studies/Deep Learning/Forward Propagation.md",
@@ -157,7 +161,6 @@
     "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Back Propagation.md",
-    "08 - Miscellaneous/00 - General Notepad.md",
     "/08 - Miscellaneous/00 - General Notepad.md",
     "99 - Meta/Templates/Template,EU4.md",
     "99 - Meta/Templates/Template,VideoIdea.md",
@@ -171,11 +174,9 @@
     "06 - Good Media/Anime/Neon Genesis Evangelion.md",
     "06 - Good Media/00 - Good Media.md",
     "05 - Content Creation/YouTube/What Topics Work.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "05 - Content Creation/YouTube/Collaboration Email Template.md",
     "05 - Content Creation/YouTube/00 - YouTube.md",
     "05 - Content Creation/Music/Untitled Album/Untitled Song 1.md",
-    "05 - Content Creation/Music/Ideas (Music).md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014719.png",
@@ -189,7 +190,6 @@
     "06 - Good Media/Books",
     "06 - Good Media/Anime",
     "06 - Good Media",
-    "05 - Content Creation/YouTube/Video Ideas",
-    "05 - Content Creation/Music/Untitled Album"
+    "05 - Content Creation/YouTube/Video Ideas"
   ]
 }
