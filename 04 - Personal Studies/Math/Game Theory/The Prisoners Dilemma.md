@@ -7,10 +7,12 @@ This is the most basic application of game theory. Consider the following:
 
 Should each player "Split" or "Steal"? 
 
-|           | Player B      |
-| ------
-|           | Split | Steal |
-| --------- | ----- | ----- |
-| **Split** | 3, 3  | 0, 3  |
-| **Steal** | 3, 0  | 1, 1  |
-|           |       |       |
+|              |         | Player B | Player B |
+| ------------ | ------- | -------- | -------- |
+|              |         | *Split*  | *Steal*  |
+| **Player A** | *Split* | 3, 3     | 0, 5     |
+| **Player A** | *Steal* | 5, 0     | 1, 1     |
+Given the above and given that each player wants to maximize their gain, the following can be concluded:
+- If Player B chooses to "Split",
+	- Player A's best would be "Steal", since 
+	- 
