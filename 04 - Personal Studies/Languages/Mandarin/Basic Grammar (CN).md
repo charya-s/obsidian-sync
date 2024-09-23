@@ -1,17 +1,18 @@
 ### New Words
-| Pinyin/汉字      | English          |
-| -------------- | ---------------- |
-| wǒ / 我         | I/me             |
-| nǐ / 你         | you (singular)   |
-| tā / 他         | she/he/them      |
-| shì / 是        | is/am/are        |
-| bù / 不         | not              |
-| de / 的         | owns/possesses   |
-| hé / 和         | and              |
-| hěn / 很        | very             |
-| piàoliang / 漂亮 | pretty/beautiful |
-| míngzì / 名字    | name             |
-| māmā / 妈妈      | mom              |
+| Pinyin/汉字      | English                       |
+| -------------- | ----------------------------- |
+| wǒ / 我         | I/me                          |
+| nǐ / 你         | you (singular)                |
+| tā / 他         | she/he/them                   |
+| shì / 是        | is/am/are                     |
+| bù / 不         | not                           |
+| de / 的         | owns/possesses                |
+| hé / 和         | and                           |
+| hěn / 很        | very                          |
+| piàoliang / 漂亮 | pretty/beautiful              |
+| míngzì / 名字    | name                          |
+| māmā / 妈妈      | mom                           |
+| zi / 子         | to create two-character words |
 
 ---
 ### X is Y
@@ -62,3 +63,6 @@ Take note that **的** can be omitted if the subject and object are closely rela
 Examples:
 - wǒ de míngzì shì Charya / 我的名字是 Charya -> My name is Charya.
 - tā shì nǐ māmā ma? / 他是你妈妈吗？-> She is you(r) mom?
+
+___
+### Using 子
