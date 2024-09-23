@@ -1,5 +1,4 @@
 ### New Words
-
 | Pinyin/汉字        | English       |
 | ---------------- | ------------- |
 | zài / 在          | at/in/exists  |
@@ -25,8 +24,8 @@ To ask where a subject is, you can use:
 Take note that **那** is more common in the North (Beijing), while **哪里** is more common in the South (Shanghai).
 
 Examples:
-- nǐ zài nǎr? / 你在那？-> You at where?
-- Jiā zài nǎlǐ? / 家在那里？-> Home at where?
+- nǐ zài nǎr? / 你在那？→ You at where?
+- Jiā zài nǎlǐ? / 家在那里 → Home at where?
 
 ---
 ### X is at Y
@@ -37,8 +36,8 @@ To say that a subject is at a known location, you can use:
 > *subject + at/in/exists + location*
 
 Examples:
-- wǒ zài jiā / 我在家 -> I at home.
-- māmā zài yínháng / 妈妈在银行 -> Mother at bank. 
+- wǒ zài jiā / 我在家 → I at home.
+- māmā zài yínháng / 妈妈在银行 → Mother at bank. 
 
 ---
 ### X is at Y relative to Z
@@ -51,13 +50,6 @@ If the sentence contains two subjects, where subject 1's location is relative to
 You can add **的** if and only if the location belongs to subject 2.
 
 Examples:
-- wǒ zài chāoshì lǐmian / 我在超市里面 -> I at supermarket inside.
-- nǐ zài huǒchēzhàn ma? / 你在火车站吗？-> You at train station?
-- māmā zài wǒ de jiā / 妈妈在我的家 -> Mother at my home.
-
-
-1 2 3 4 5 6 7 8 9 0
-
-The quick brown fox jumps over the lazy dog. 
-
-? / ! " " ' ' -> 
+- wǒ zài chāoshì lǐmian / 我在超市里面 → I at supermarket inside.
+- nǐ zài huǒchēzhàn ma? / 你在火车站吗？→ You at train station?
+- māmā zài wǒ de jiā / 妈妈在我的家 → Mother at my home.

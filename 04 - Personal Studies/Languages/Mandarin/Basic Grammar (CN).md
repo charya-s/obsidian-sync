@@ -1,5 +1,4 @@
 ### New Words
-
 | Pinyin/汉字      | English         |
 | -------------- | --------------- |
 | wǒ / 我         | I/me            |
@@ -12,7 +11,7 @@
 | piàoliang / 漂亮 | pretty          |
 
 ---
-### X is (not) Y
+### X is Y
 
 To link one noun to another noun, you can use:
 
@@ -29,19 +28,26 @@ Examples:
 - nǐ hěn piàoliang / 你很漂亮 → You very pretty.
 
 ---
-### X is at Y
+### ### X is not Y
 
-To say that a subject is at a known location, you can use:
+In the case of linking two nouns, to negate **是**, you can use:
 
->**subject + 在 + location**
-> *subject + at/in/exists + location*
+> **noun1 + 不 + 是 + noun2**
+> *noun1 + not + is/am/are + noun2*
+
+In the case of linking a noun to an adjective, you can use:
+
+> **noun + 不 + adjective**
+> *noun1 + not + adjective*
+
+Take note that **很** is replaced by **不**, 
 
 Examples:
-- wǒ zài jiā / 我在家 -> I at home.
-- māmā zài yínháng / 妈妈在银行 -> Mother at bank. 
+- wǒ bù shì Charya / 我是 Charya → I not am Charya.
+- nǐ bù hěn piàoliang / 你很漂亮 → You not very pretty.
 
 ---
-### X is at Y relative to Z
+### Possession
 
 If the sentence contains two subjects, where subject 1's location is relative to subject 2, you can use:
 
