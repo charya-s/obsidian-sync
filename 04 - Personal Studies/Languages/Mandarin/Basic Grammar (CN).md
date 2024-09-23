@@ -1,11 +1,16 @@
 ### New Words
 
-wǒ / 我
-nǐ / 
-tā / 
-shì / 
-bù / 
-de / 
+wǒ / 我 → I/me
+nǐ / 你 → you (singular)
+tā / 他 →  she/he/them
+shì / 是 → is/am/are
+bù / 不 → not
+de / 的 → of/belonging to
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+
 
 ---
 ### Where is X?
