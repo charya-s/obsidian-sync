@@ -1,16 +1,13 @@
 ### New Words
 
-wǒ / 我 → I/me
-nǐ / 你 → you (singular)
-tā / 他 →  she/he/them
-shì / 是 → is/am/are
-bù / 不 → not
-de / 的 → of/belonging to
-
-
-| Pinyin/汉字                                                                                                                            |     |
-| ------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| wǒ / 我 → I/me<br>nǐ / 你 → you (singular)<br>tā / 他 →  she/he/them<br>shì / 是 → is/am/are<br>bù / 不 → not<br>de / 的 → of/belonging to |     |
+| Pinyin/汉字 |                 |
+| --------- | --------------- |
+| wǒ / 我    | I/me            |
+| nǐ / 你    | you (singular)  |
+| tā / 他    | she/he/them     |
+| shì / 是   | is/am/are       |
+| bù / 不    | not             |
+| de / 的    | of/belonging to |
 
 
 
