@@ -1,18 +1,18 @@
 ### New Words
-| Pinyin/汉字      | English                       |
-| -------------- | ----------------------------- |
-| wǒ / 我         | I/me                          |
-| nǐ / 你         | you (singular)                |
-| tā / 他         | she/he/them                   |
-| shì / 是        | is/am/are                     |
-| bù / 不         | not                           |
-| de / 的         | owns/possesses                |
-| hé / 和         | and                           |
-| hěn / 很        | very                          |
-| piàoliang / 漂亮 | pretty/beautiful              |
-| míngzì / 名字    | name                          |
-| māmā / 妈妈      | mom                           |
-| zi / 子         | to create two-character words |
+| Pinyin/汉字      | English                             |
+| -------------- | ----------------------------------- |
+| wǒ / 我         | I/me                                |
+| nǐ / 你         | you (singular)                      |
+| tā / 他         | she/he/them                         |
+| shì / 是        | is/am/are                           |
+| bù / 不         | not                                 |
+| de / 的         | owns/possesses                      |
+| hé / 和         | and                                 |
+| hěn / 很        | very                                |
+| piàoliang / 漂亮 | pretty/beautiful                    |
+| míngzì / 名字    | name                                |
+| māmā / 妈妈      | mom                                 |
+| zi / 子         | diminutive, for two-character words |
 
 ---
 ### X is Y
@@ -65,4 +65,11 @@ Examples:
 - tā shì nǐ māmā ma? / 他是你妈妈吗？-> She is you(r) mom?
 
 ___
-### Using 子
+### Using Zi / 子
+
+By definition, **子** is used as a diminutive to imply youth/little (not necessarily in size, but like a child).
+
+However, it is also used to convert many single-character words into two-character words.
+
+Examples:
+- bēi / 杯 / cup → bēi zi / 杯子 / cup

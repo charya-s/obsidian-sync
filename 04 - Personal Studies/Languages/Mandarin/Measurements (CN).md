@@ -17,10 +17,7 @@ Measure words are used when counting as follows:
 > **number + measure word + noun**
 > *noun1 + measure word + noun2*
 
-Take note that **是** is only used if the descriptor is a noun. If the descriptor is an adjective, you can use:
-
-> **noun + 很 + adjective**
-> *noun1 + very + adjective*
+Take note that many measure words, such as **杯**, **瓶** and 
 
 Examples:
 - wǒ shì Charya / 我是 Charya → I am Charya.
