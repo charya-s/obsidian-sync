@@ -10,7 +10,7 @@
 | hěn / 很        | very             |
 | piàoliang / 漂亮 | pretty/beautiful |
 | míngzì / 名字    | name             |
-| māmā / 妈妈      | mother           |
+| māmā / 妈妈      | mom              |
 
 ---
 ### X is Y
@@ -58,4 +58,4 @@ To show possession between a subject and an object, you can use:
 
 Examples:
 - wǒ de míngzì shì Charya / 我的名字是 Charya -> My name is Charya.
-- tā shì nǐ de māmā ma? / 他是你的妈妈吗？-> She is your mother?
+- tā shì nǐ de māmā ma? / 他是你的妈妈吗？-> She is your mom?

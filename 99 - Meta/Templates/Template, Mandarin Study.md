@@ -10,9 +10,9 @@
 |             |                 |
 
 ---
-### X is Y
+### Subtopic 1
 
-To link one noun to another noun, you can use:
+Description:
 
 > **noun1 + 是 + noun2**
 > *noun1 + is/am/are + noun2*
@@ -27,4 +27,4 @@ Examples:
 - nǐ hěn piàoliang / 你很漂亮 → You very pretty.
 
 ---
-### 
+### Subtopic 2
