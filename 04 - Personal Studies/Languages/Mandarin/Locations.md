@@ -53,4 +53,3 @@ Examples:
 - māmā zài wǒ de jiā / 妈妈在我的家 -> Mother at my home.
 
 
-wǒ zài chāoshì 
