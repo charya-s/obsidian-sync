@@ -4,6 +4,7 @@
 | líng / 零  | 0       |
 | yī / 一    | 1       |
 | èr / 二    | 2       |
+| liǎng / 两 | 2       |
 | sān / 三   | 3       |
 | sì / 四    | 4       |
 | wǔ / 五    | 5       |
@@ -14,21 +15,16 @@
 | shí / 十   | 10      |
 | bǎi / 百   | 100     |
 | qiān	/ 千  | 1000    |
-|           |         |
-|           |         |
+
 
 ---
-### Subtopic 1
+### Two Twos
 
-Description:
+Both **二** and **两** can be used for the number “2”. 
 
-> **noun1 + 是 + noun2**
-> *noun1 + is/am/are + noun2*
+> **二** is used for “two”, “twelve”, “twenty”, Tuesday, February, etc.
+> **两** is used for “two hundred”, 
 
-Take note that **是** is only used if the descriptor is a noun. If the descriptor is an adjective, you can use:
-
-> **noun + 很 + adjective**
-> *noun1 + very + adjective*
 
 Examples:
 - wǒ shì Charya / 我是 Charya → I am Charya.
