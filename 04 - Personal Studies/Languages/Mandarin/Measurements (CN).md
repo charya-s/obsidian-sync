@@ -18,8 +18,9 @@ Measure words are used when counting as follows:
 > *number + measure word + noun*
 
 Examples:
-- sì zhī gǒu / 四只狗 → I am Charya.
-- nǐ hěn piàoliang / 你很漂亮 → You very pretty.
+- sì zhī gǒu / 四只狗 → Four dogs.
+- sì píng gǒu / 四瓶狗 → Four bottles of dogs.
+- wǔ bēi chā / 五杯茶 → Five cups of tea.
 
 ---
 ### Subtopic 2
