@@ -7,6 +7,7 @@
 | shì / 是        | is/am/are        |
 | bù / 不         | not              |
 | de / 的         | owns/possesses   |
+| hé / 和         | and              |
 | hěn / 很        | very             |
 | piàoliang / 漂亮 | pretty/beautiful |
 | míngzì / 名字    | name             |
