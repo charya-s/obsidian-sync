@@ -1,16 +1,13 @@
 ### New Words
-| Pinyin/汉字      | English          |
-| -------------- | ---------------- |
-| wǒ / 我         | I/me             |
-| nǐ / 你         | you (singular)   |
-| tā / 他         | she/he/them      |
-| shì / 是        | is/am/are        |
-| bù / 不         | not              |
-| de / 的         | owns/possesses   |
-| hěn / 很        | very             |
-| piàoliang / 漂亮 | pretty/beautiful |
-| míngzì / 名字    | name             |
-| māmā / 妈妈      | mother           |
+| Pinyin/汉字 | English |
+| --------- | ------- |
+| māmā / 妈妈 | mother  |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
 
 ---
 ### X is Y

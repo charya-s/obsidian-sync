@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2c3509f0f8806fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b62755989f9bf77f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
+                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
+                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
+                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md"
+                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md"
               }
             }
           },
@@ -172,9 +159,12 @@
   },
   "active": "b62755989f9bf77f",
   "lastOpenFiles": [
-    "04 - Personal Studies/Languages/Mandarin/c.md",
     "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Locations.md",
+    "04 - Personal Studies/Languages/Mandarin/Country and Nationality (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/c.md",
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
     "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Deep Learning/Loss Functions.md",
@@ -209,9 +199,6 @@
     "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
     "01 - Education/PhD/Literature Review/Collecting and Relating Data.md",
     "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
-    "05 - Content Creation/YouTube/00 - YouTube.md",
-    "04 - Personal Studies/Deep Learning/Classification.md",
-    "04 - Personal Studies/Deep Learning/Regression.md",
     "05 - Content Creation/Music/Untitled Album",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
