@@ -38,28 +38,42 @@ In this video, we'll be going through each class combination and rating them in 
 	- So with that in mind, let's talk about each combination!
 
 ### The Combinations
-| For Whom                                                   | Combination           |
-| ---------------------------------------------------------- | --------------------- |
-| For those who want to play in the front lines as a tank. v | Greatsword + SnS      |
-|                                                            | Greatsword + Dagger   |
-|                                                            | Greatsword + Longbow  |
-|                                                            | Greatsword + Crossbow |
-|                                                            | Greatsword + Staff    |
-|                                                            | Greatsword + Wand     |
-|                                                            | SnS + Dagger          |
-|                                                            | SnS + Longbow         |
-|                                                            | SnS + Crossbow        |
-|                                                            | SnS + Staff           |
-|                                                            | SnS + Wand            |
-|                                                            | Dagger + Longbow      |
-|                                                            | Dagger + Crossbow     |
-|                                                            |                       |
-|                                                            |                       |
-|                                                            |                       |
-|                                                            |                       |
-|                                                            |                       |
-|                                                            |                       |
-|                                                            |                       |
+
+<table cellpadding="5">
+
+</table>
+
+| For Whom                                                 | Combination           |
+| -------------------------------------------------------- | --------------------- |
+| For those who want to play in the front lines as a tank. | Greatsword + SnS      |
+|                                                          | SnS + Wand            |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          | Greatsword + Dagger   |
+|                                                          | Greatsword + Longbow  |
+|                                                          | Greatsword + Crossbow |
+|                                                          | Greatsword + Staff    |
+|                                                          | Greatsword + Wand     |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          | Dagger + Longbow      |
+|                                                          | Dagger + Crossbow     |
+|                                                          | Dagger + Staff        |
+|                                                          | Dagger + Wand         |
+|                                                          | Longbow + Crossbow    |
+|                                                          | Longbow + Staff       |
+|                                                          | Longbow + Wand        |
+|                                                          | Crossbow + Staff      |
+|                                                          | Crossbow + Wand       |
+|                                                          | Staff + Wand          |
 
 
 ### Outro
