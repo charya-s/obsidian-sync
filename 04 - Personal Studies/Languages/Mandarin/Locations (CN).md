@@ -48,7 +48,7 @@ If the sentence contains two subjects, where subject 1's location is relative to
 >**subject + 在 + subject 2 + location**
 > *subject 1 + at/in/exists + subject 2 + location*
 
-You can add **的** if and only if the location belongs to subject 2.
+You can add **的** if and only if the location belongs to subject 2. The same omissions occur as stated in [[Basic Grammar (CN)]].
 
 Examples:
 - wǒ zài chāoshì lǐmian / 我在超市里面 → I at supermarket inside.
