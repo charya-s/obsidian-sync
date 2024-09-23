@@ -54,7 +54,9 @@ f(0) = f(0 + 0) = f(0) + f(0)
 $$
 Therefore, since scaling $f(0)$ with any value of $\lambda$ returns itself, and since $f(0) = 2f(0)$,
 $$
+\begin{gather*}
 f(0) = 0
+\end{gather*}
 $$
 
 
