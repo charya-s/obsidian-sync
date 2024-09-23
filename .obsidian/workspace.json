@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 297.51103591918945
   },
   "right": {
     "id": "4437524c153fe17b",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md"
+                "file": "04 - Personal Studies/Deep Learning/Loss Functions.md"
               }
             }
           },
@@ -172,11 +172,12 @@
   "active": "c2c3509f0f8806fe",
   "lastOpenFiles": [
     "04 - Personal Studies/Languages/Mandarin/Locations.md",
+    "04 - Personal Studies/Deep Learning/Loss Functions.md",
+    "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
+    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
-    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
-    "04 - Personal Studies/Deep Learning/Loss Functions.md",
     "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
     "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/Back Propagation.md",
@@ -210,7 +211,6 @@
     "04 - Personal Studies/Deep Learning/Classification.md",
     "04 - Personal Studies/Deep Learning/Regression.md",
     "04 - Personal Studies/Deep Learning/Cost Functions.md",
-    "04 - Personal Studies/Deep Learning/Supervised Learning.md",
     "05 - Content Creation/Music/Untitled Album",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",

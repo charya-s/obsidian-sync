@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Dayspring",
   "interfaceFontFamily": "Atkinson Hyperlegible",
   "textFontFamily": "Atkinson Hyperlegible",
   "monospaceFontFamily": "JetBrains Mono",
@@ -10,5 +10,6 @@
   ],
   "showViewHeader": true,
   "baseFontSizeAction": true,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "theme": "moonstone"
 }
