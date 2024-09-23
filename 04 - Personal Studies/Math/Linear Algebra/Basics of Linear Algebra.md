@@ -47,9 +47,12 @@ Thus, linear functions are extremely useful when working with weighted sums, suc
 
 Additionally, given the definition above,
 $$
-f(0) = f(\lambda 0) = \lambda f(0)
+\begin{gather*}
+f(0) = f(\lambda 0) = \lambda f(0) \\ \\
+f(0) = f(0 + 0) = f(0) + f(0)
+\end{gather*}
 $$
-Therefore, since scaling $f(0)$ with any value of $\lambda$ returns itself,
+Therefore, since scaling $f(0)$ with any value of $\lambda$ returns itself, and since $f(0) = 2f(0)$,
 $$
 f(0) = 0
 $$
