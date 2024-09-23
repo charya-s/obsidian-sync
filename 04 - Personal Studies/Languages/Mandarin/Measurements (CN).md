@@ -1,7 +1,13 @@
 ### New Words
-| Pinyin/汉字 | English             |
-| --------- | ------------------- |
-| gè / 个    | common measure word |
+| Pinyin/汉字 | English                              |
+| --------- | ------------------------------------ |
+| gè / 个    | generic measure word                 |
+| cì / 次    | for actions (how many “times”)       |
+| bēi / 杯   | for beverages in cups                |
+| píng / 瓶  | for beverages in bottles, also means |
+| kuài / 块  |                                      |
+|           |                                      |
+|           |                                      |
 
 ---
 ### Using Measure Words
