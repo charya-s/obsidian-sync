@@ -69,7 +69,8 @@ ___
 
 By definition, **子** is used as a diminutive to imply youth/little (not necessarily in size, but like a child).
 
-However, it is also used to convert many single-character words into two-character words.
+However, it is also used to convert many single-character words into two-character words. This is only used if the word to be modified is used by itself. If it’s part of a sentence, it’s not needed.
 
 Examples:
-- bēi / 杯 / cup → bēi zi / 杯子 / cup
+- bēi zi / 杯子 → cup
+- liǎng bēi / 两杯 → two cups

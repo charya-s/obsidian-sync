@@ -5,8 +5,8 @@
 | cì / 次    | for actions (how many “times”)              |
 | bēi / 杯   | for beverages in cups, also means cup       |
 | píng / 瓶  | for beverages in bottles, also means bottle |
-| kuài / 块  |                                             |
-|           |                                             |
+| kuài / 块  | for pieces and for money                    |
+| zhī / 只   | for animals (generic)                       |
 |           |                                             |
 
 ---
@@ -14,13 +14,11 @@
 
 Measure words are used when counting as follows:
 
-> **number + measure word + noun**
-> *noun1 + measure word + noun2*
-
-Take note that many measure words, such as **杯**, **瓶** and 
+> **number + 个 / 次 / 杯 / Other + noun**
+> *number + measure word + noun*
 
 Examples:
-- wǒ shì Charya / 我是 Charya → I am Charya.
+- sì zhī gǒu / 四只狗 → I am Charya.
 - nǐ hěn piàoliang / 你很漂亮 → You very pretty.
 
 ---
