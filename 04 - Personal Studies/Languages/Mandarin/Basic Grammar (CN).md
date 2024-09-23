@@ -1,17 +1,15 @@
 ### New Words
 
-| Pinyin/汉字 |                 |
-| --------- | --------------- |
-| wǒ / 我    | I/me            |
-| nǐ / 你    | you (singular)  |
-| tā / 他    | she/he/them     |
-| shì / 是   | is/am/are       |
-| bù / 不    | not             |
-| de / 的    | of/belonging to |
-| hěn / 很   | very            |
-|           |                 |
-
-
+| Pinyin/汉字      | English         |
+| -------------- | --------------- |
+| wǒ / 我         | I/me            |
+| nǐ / 你         | you (singular)  |
+| tā / 他         | she/he/them     |
+| shì / 是        | is/am/are       |
+| bù / 不         | not             |
+| de / 的         | of/belonging to |
+| hěn / 很        | very            |
+| piàoliang / 漂亮 | pretty          |
 
 ---
 ### X is (not) Y
@@ -27,8 +25,8 @@ Take note that **是** is only used if the descriptor is a noun. If the descript
 > *noun1 + very + adjective*
 
 Examples:
-- wǒ shì Charya / 你在那？-> You at where?
-- nǐ hěn  / 家在那里？-> Home at where?
+- wǒ shì Charya / 我是 Charya → I am Charya.
+- nǐ hěn piàoliang / 你很漂亮 → You very pretty.
 
 ---
 ### X is at Y

@@ -1,15 +1,18 @@
 ### New Words
 
-zài / 在 -> at/in/exists
-nǎr / 那 -> where
-nǎlǐ / 哪里 -> where
-jiā / 家 -> home
-qiánmiàn / 前面 -> front of
-hòumiàn / 后面 -> behind
-lǐmian / 里面 -> inside
-yínháng / 银行 -> bank
-chāoshì / 超市 -> supermarket 
-huǒchēzhàn / 火车站 -> train station
+| Pinyin/汉字        | English       |
+| ---------------- | ------------- |
+| zài / 在          | at/in/exists  |
+| nǎr / 那          | where         |
+| nǎlǐ / 哪里        | where         |
+| jiā / 家          | home          |
+| qiánmiàn / 前面    | front of      |
+| hòumiàn / 后面     | behind        |
+| lǐmian / 里面      | inside        |
+| yínháng / 银行     | bank          |
+| chāoshì / 超市     | supermarket   |
+| huǒchēzhàn / 火车站 | train station |
+|                  |               |
 
 ---
 ### Where is X?
