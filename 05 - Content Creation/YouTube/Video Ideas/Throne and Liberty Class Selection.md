@@ -11,7 +11,6 @@ In this video, we'll be going through each class combination and rating them in 
 
 ### Intro
 - 
-- 
 
 ### Class System
 - T&L does not have a traditional class system.
@@ -37,6 +36,12 @@ In this video, we'll be going through each class combination and rating them in 
 - And that's it, those are the seven weapons available. 
 	- Again, you can use any two of these weapons at the same time, getting access to all their skills with no penalty.
 	- So with that in mind, let's talk about each combination!
+
+### The Combinations
+| Combination      | PvE | PvP | Difficulty | For Whom |
+| ---------------- | --- | --- | ---------- | -------- |
+| Greatsword + SnS |     |     |            |          |
+
 
 ### Outro
 - 
