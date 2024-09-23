@@ -1,14 +1,15 @@
 ### New Words
-| Pinyin/汉字      | English         |
-| -------------- | --------------- |
-| wǒ / 我         | I/me            |
-| nǐ / 你         | you (singular)  |
-| tā / 他         | she/he/them     |
-| shì / 是        | is/am/are       |
-| bù / 不         | not             |
-| de / 的         | of/belonging to |
-| hěn / 很        | very            |
-| piàoliang / 漂亮 | pretty          |
+| Pinyin/汉字      | English          |
+| -------------- | ---------------- |
+| wǒ / 我         | I/me             |
+| nǐ / 你         | you (singular)   |
+| tā / 他         | she/he/them      |
+| shì / 是        | is/am/are        |
+| bù / 不         | not              |
+| de / 的         | owns/possesses   |
+| hěn / 很        | very             |
+| piàoliang / 漂亮 | pretty/beautiful |
+| míngzì         |                  |
 
 ---
 ### X is Y
@@ -40,24 +41,22 @@ In the case of linking a noun to an adjective, you can use:
 > **noun + 不 + adjective**
 > *noun1 + not + adjective*
 
-Take note that **很** is replaced by **不**, 
+Take note that **很** is replaced by **不** in the noun–adjective case. In contrast, in the noun-noun case, **不** is used as a modifier to **是**.
 
 Examples:
-- wǒ bù shì Charya / 我是 Charya → I not am Charya.
-- nǐ bù hěn piàoliang / 你很漂亮 → You not very pretty.
+- wǒ bù shì Charya / 我不是 Charya → I not am Charya.
+- nǐ bù piàoliang / 你不漂亮 → You not pretty.
 
 ---
 ### Possession
 
-If the sentence contains two subjects, where subject 1's location is relative to subject 2, you can use:
+To show possession between a subject and an object, you can use:
 
->**subject + 在 + subject 2 + location**
-> *subject 1 + at/in/exists + subject 2 + location*
-
-You can add **的** if and only if the location belongs to subject 2.
+>**subject + 的 + object**
+> *subject + owns/possesses + object
 
 Examples:
-- wǒ zài chāoshì lǐmian / 我在超市里面 -> I at supermarket inside.
+- wǒ de míngzì / 我在超市里面 -> I at supermarket inside.
 - nǐ zài huǒchēzhàn ma? / 你在火车站吗？-> You at train station?
 - māmā zài wǒ de jiā / 妈妈在我的家 -> Mother at my home.
 
