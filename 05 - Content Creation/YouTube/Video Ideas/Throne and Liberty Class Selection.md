@@ -38,9 +38,28 @@ In this video, we'll be going through each class combination and rating them in 
 	- So with that in mind, let's talk about each combination!
 
 ### The Combinations
-| Combination      | PvE | PvP | Difficulty | For Whom |
-| ---------------- | --- | --- | ---------- | -------- |
-| Greatsword + SnS |     |     |            |          |
+| For Whom                                                   | Combination           |
+| ---------------------------------------------------------- | --------------------- |
+| For those who want to play in the front lines as a tank. v | Greatsword + SnS      |
+|                                                            | Greatsword + Dagger   |
+|                                                            | Greatsword + Longbow  |
+|                                                            | Greatsword + Crossbow |
+|                                                            | Greatsword + Staff    |
+|                                                            | Greatsword + Wand     |
+|                                                            | SnS + Dagger          |
+|                                                            | SnS + Longbow         |
+|                                                            | SnS + Crossbow        |
+|                                                            | SnS + Staff           |
+|                                                            | SnS + Wand            |
+|                                                            | Dagger + Longbow      |
+|                                                            | Dagger + Crossbow     |
+|                                                            |                       |
+|                                                            |                       |
+|                                                            |                       |
+|                                                            |                       |
+|                                                            |                       |
+|                                                            |                       |
+|                                                            |                       |
 
 
 ### Outro
