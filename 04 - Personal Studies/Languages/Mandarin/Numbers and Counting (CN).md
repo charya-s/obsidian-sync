@@ -36,14 +36,14 @@ Examples:
 
 Both **二** and **两** can be used for the number “2”. 
 
-> **二** is used when not measuring or is the measurement ends in 2, and for “2”, “12” and “20”.
+> **二** is used when **not** measuring or if the measurement ends in 2, and for “2”, “12” and “20”.
 > **两** is used for measuring and all other numbers.
 
-Take note that **两** is more commonly used, but there isn’t a hard rule. It’s ambiguous.
+Take note that **两** is more commonly used, but there isn’t a hard rule. It’s ambiguous. 
 
 Examples:
 - èr shí hé shí èr / 二十和十二 → Twenty and twelve.
-- liǎng qiān èrbǎi èrshí'èr / 你很漂亮 → You very pretty.
+- liǎng qiān liǎng bǎi èr shí èr / 两千两百二十二 → Two thousand two hundred two ten two (2222).
 
 ---
 ### Subtopic 2
