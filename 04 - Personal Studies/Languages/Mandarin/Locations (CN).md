@@ -26,7 +26,7 @@ Take note that **那** is more common in the North (Beijing), while **哪里** i
 
 Examples:
 - nǐ zài nǎr? / 你在那？→ You at where?
-- nǐ jiā zài nǎlǐ? / 家在那里 → You home at where?
+- nǐ jiā zài nǎlǐ? / 你家在那里 → You home at where?
 
 ---
 ### X is at Y
@@ -53,4 +53,4 @@ You can add **的** if and only if the location belongs to subject 2.
 Examples:
 - wǒ zài chāoshì lǐmian / 我在超市里面 → I at supermarket inside.
 - nǐ zài huǒchēzhàn ma? / 你在火车站吗？→ You at train station?
-- māmā zài wǒ de jiā / 妈妈在我的家 → Mother at my home.
+- māmā zài wǒ jiā / 妈妈在我家 → Mother at my home.

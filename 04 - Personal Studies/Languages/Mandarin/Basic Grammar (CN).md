@@ -56,6 +56,8 @@ To show possession between a subject and an object, you can use:
 >**subject + 的 + object**
 > *subject + owns/possesses + object
 
+Take note that **的** can be omitted if the subject and object are closely related. Examples are phrases such as, “wǒ māmā / 我妈妈 / my mother” or “nǐ jiā / 你家 / your home”.
+
 Examples:
 - wǒ de míngzì shì Charya / 我的名字是 Charya -> My name is Charya.
-- tā shì nǐ de māmā ma? / 他是你的妈妈吗？-> She is your mom?
+- tā shì nǐ māmā ma? / 他是你妈妈吗？-> She is you(r) mom?
