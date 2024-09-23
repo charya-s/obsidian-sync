@@ -5,6 +5,7 @@
 | nǎr / 那          | where         |
 | nǎlǐ / 哪里        | where         |
 | jiā / 家          | home          |
+| zhù / 住          | live          |
 | qiánmiàn / 前面    | front of      |
 | hòumiàn / 后面     | behind        |
 | lǐmian / 里面      | inside        |
@@ -25,7 +26,7 @@ Take note that **那** is more common in the North (Beijing), while **哪里** i
 
 Examples:
 - nǐ zài nǎr? / 你在那？→ You at where?
-- Jiā zài nǎlǐ? / 家在那里 → Home at where?
+- nǐ jiā zài nǎlǐ? / 家在那里 → You home at where?
 
 ---
 ### X is at Y
