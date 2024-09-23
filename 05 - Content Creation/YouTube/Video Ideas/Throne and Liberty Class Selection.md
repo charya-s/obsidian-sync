@@ -46,7 +46,7 @@ In this video, we'll be going through each class combination and rating them in 
 | For Whom                                                 | Combination           |
 | -------------------------------------------------------- | --------------------- |
 | For those who want to play in the front lines as a tank. | Greatsword + SnS      |
-|                                                          | SnS + Wand            |
+|                                                          |                       |
 |                                                          |                       |
 |                                                          |                       |
 |                                                          |                       |
@@ -59,10 +59,10 @@ In this video, we'll be going through each class combination and rating them in 
 |                                                          | Greatsword + Crossbow |
 |                                                          | Greatsword + Staff    |
 |                                                          | Greatsword + Wand     |
-|                                                          |                       |
-|                                                          |                       |
-|                                                          |                       |
-|                                                          |                       |
+|                                                          | SnS + Dagger          |
+|                                                          | SnS + Longbow         |
+|                                                          | SnS + Crossbow        |
+|                                                          | SnS + Staff           |
 |                                                          |                       |
 |                                                          | Dagger + Longbow      |
 |                                                          | Dagger + Crossbow     |
