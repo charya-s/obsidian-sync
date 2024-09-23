@@ -6,7 +6,8 @@
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "Daily Note Themes",
-    "Image Align"
+    "Image Align",
+    "Center Tables"
   ],
   "showViewHeader": true,
   "baseFontSizeAction": true,
