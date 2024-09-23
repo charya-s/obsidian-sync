@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Locations.md",
+                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Locations.md",
+                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Locations.md",
+                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Locations.md"
+                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "c2c3509f0f8806fe",
   "lastOpenFiles": [
+    "04 - Personal Studies/Languages/Mandarin/Locations.md",
     "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
     "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
     "04 - Personal Studies/Math/Game Theory/The Prisoners Dilemma.md",
@@ -179,7 +180,6 @@
     "04 - Personal Studies/Math/Game Theory",
     "04 - Personal Studies/Math/00 - Math.md",
     "04 - Personal Studies/Math",
-    "04 - Personal Studies/Languages/Mandarin/Locations.md",
     "conflict-files-obsidian-git.md",
     "04 - Personal Studies/Deep Learning/Loss Functions.md",
     "04 - Personal Studies/Deep Learning/Forward Propagation.md",
