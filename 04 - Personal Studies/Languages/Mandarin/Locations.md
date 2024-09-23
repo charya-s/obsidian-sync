@@ -53,3 +53,8 @@ Examples:
 - māmā zài wǒ de jiā / 妈妈在我的家 -> Mother at my home.
 
 
+1 2 3 4 5 6 7 8 9 0
+
+The quick brown fox jumps over the lazy dog. 
+
+? / ! " " ' ' -> 
