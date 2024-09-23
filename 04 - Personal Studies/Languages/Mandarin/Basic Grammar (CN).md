@@ -8,22 +8,27 @@
 | shì / 是   | is/am/are       |
 | bù / 不    | not             |
 | de / 的    | of/belonging to |
+| hěn / 很   | very            |
+|           |                 |
 
 
 
 ---
-### Where is X?
+### X is (not) Y
 
-To ask where a subject is, you can use:
+To link one noun to another noun, you can use:
 
-> **subject + 在 + 那/哪里**
-> *subject + at/in/exists + where?*
+> **noun1 + 是 + noun2**
+> *noun1 + is/am/are + noun2*
 
-Take note that **那** is more common in the North (Beijing), while **哪里** is more common in the South (Shanghai).
+Take note that **是** is only used if the descriptor is a noun. If the descriptor is an adjective, you can use:
+
+> **noun + 很 + adjective**
+> *noun1 + very + adjective*
 
 Examples:
-- nǐ zài nǎr? / 你在那？-> You at where?
-- Jiā zài nǎlǐ? / 家在那里？-> Home at where?
+- wǒ shì Charya / 你在那？-> You at where?
+- nǐ hěn  / 家在那里？-> Home at where?
 
 ---
 ### X is at Y
