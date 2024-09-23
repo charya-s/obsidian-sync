@@ -7,14 +7,14 @@ This is the most basic application of game theory. Consider the following:
 - If one player chooses to "Split" and the other chooses to "Steal", the one who steals will receive 5 coins and the one who splits will receive none.
 - If both players "Steal", they will receive 1 coin each.
 
-Should each player "Split" or "Steal"? 
+Should each player "Split" or "Steal"? Consider the following payoff matrix.
 
 |              |         | Player B | Player B |
 | ------------ | ------- | -------- | -------- |
 |              |         | *Split*  | *Steal*  |
 | **Player A** | *Split* | 3, 3     | 0, 5     |
 | **Player A** | *Steal* | 5, 0     | 1, 1     |
-Given the above and given that each player wants to maximize their gain, the following can be concluded:
+Given that each player wants to maximize their gain, the following can be concluded:
 - If Player B chooses to "Split" -> ​Player A's best choice would be to "Steal", since that gives them 5 coins instead of 3.
 - If Player B chooses to "Steal" -> Player A's best choice would be to "Steal", since that gives then 1 coin instead of 0.
 
