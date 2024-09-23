@@ -43,7 +43,7 @@ In this video, we'll be going through each class combination and rating them in 
 
 </table>
 
-| For Whom                                                 | Combination           |
+| Weapon                                                   | Style                 |
 | -------------------------------------------------------- | --------------------- |
 | For those who want to play in the front lines as a tank. | Greatsword + SnS      |
 |                                                          |                       |
