@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Atkinson Hyperlegible",
-  "textFontFamily": "Monocraft,Atkinson Hyperlegible",
+  "textFontFamily": "Atkinson Hyperlegible",
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "Colored Sidebar Items",

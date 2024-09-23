@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md"
+                "file": "04 - Personal Studies/Deep Learning/Forward Propagation.md"
               }
             }
           },
@@ -172,6 +172,14 @@
   "active": "c2c3509f0f8806fe",
   "lastOpenFiles": [
     "04 - Personal Studies/Languages/Mandarin/Locations.md",
+    "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
+    "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
+    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
+    "04 - Personal Studies/Deep Learning/Loss Functions.md",
+    "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
+    "04 - Personal Studies/Deep Learning/Activation Function.md",
+    "04 - Personal Studies/Deep Learning/Back Propagation.md",
     "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
     "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
     "04 - Personal Studies/Math/Game Theory/The Prisoners Dilemma.md",
@@ -181,13 +189,7 @@
     "04 - Personal Studies/Math/00 - Math.md",
     "04 - Personal Studies/Math",
     "conflict-files-obsidian-git.md",
-    "04 - Personal Studies/Deep Learning/Loss Functions.md",
-    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
-    "04 - Personal Studies/Deep Learning/Activation Function.md",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
-    "04 - Personal Studies/Deep Learning/Back Propagation.md",
-    "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
-    "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "05 - Content Creation/YouTube/Collaboration Email Template.md",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
@@ -209,8 +211,6 @@
     "04 - Personal Studies/Deep Learning/Regression.md",
     "04 - Personal Studies/Deep Learning/Cost Functions.md",
     "04 - Personal Studies/Deep Learning/Supervised Learning.md",
-    "04 - Personal Studies/Deep Learning/Unsupervised Learning.md",
-    "05 - Content Creation/YouTube/What Topics Work.md",
     "05 - Content Creation/Music/Untitled Album",
     "05 - Content Creation/Music/Untitled",
     "05 - Content Creation/Music",
