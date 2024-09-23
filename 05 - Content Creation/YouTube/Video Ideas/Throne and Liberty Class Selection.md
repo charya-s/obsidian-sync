@@ -58,22 +58,21 @@ In this video, we'll be going through each class combination and rating them in 
 |                                                          | Greatsword + Longbow  |
 |                                                          | Greatsword + Crossbow |
 |                                                          | Greatsword + Staff    |
-|                                                          | Greatsword + Wand     |
-|                                                          | SnS + Dagger          |
-|                                                          | SnS + Longbow         |
-|                                                          | SnS + Crossbow        |
-|                                                          | SnS + Staff           |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
+|                                                          |                       |
 |                                                          |                       |
 |                                                          | Dagger + Longbow      |
 |                                                          | Dagger + Crossbow     |
 |                                                          | Dagger + Staff        |
-|                                                          | Dagger + Wand         |
+|                                                          |                       |
 |                                                          | Longbow + Crossbow    |
 |                                                          | Longbow + Staff       |
-|                                                          | Longbow + Wand        |
 |                                                          | Crossbow + Staff      |
-|                                                          | Crossbow + Wand       |
-|                                                          | Staff + Wand          |
+
+
 
 
 ### Outro
