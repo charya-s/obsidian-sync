@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc869e490cc523af",
+        "id": "9511ad36c0db1cb6",
         "type": "tabs",
         "children": [
           {
-            "id": "b62755989f9bf77f",
+            "id": "a9c51b3ea43c7fd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c12e6789fed7d511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Languages/Mandarin/Family (CN).md"
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md"
               }
             }
           },
@@ -168,12 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b62755989f9bf77f",
+  "active": "a9c51b3ea43c7fd4",
   "lastOpenFiles": [
-    "04 - Personal Studies/Languages/Mandarin/Locations (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Locations (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "05 - Content Creation/YouTube/00 - YouTube.md",
