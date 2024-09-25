@@ -1,4 +1,4 @@
-***Title***: "Throne and Liberty Global: How to Choose YOUR Class - MMO Guide"
+***Title***: "Throne and Liberty Global: 3-Step Method to Choosing YOUR Class - MMO Guide"
 ***Topic***: Throne and Liberty, Guide
 ***Expected Publishing Date***: 25th/26th September 2024 
 
