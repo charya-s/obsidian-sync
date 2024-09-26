@@ -3,3 +3,4 @@
 - [[Day and Time (CN)]]
 - [[Country and Nationality (CN)]]
 - [[Locations (CN)]]
+- [[Measurements (CN)]]
