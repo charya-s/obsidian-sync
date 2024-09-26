@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Education/PhD/Literature Review/Inertial Sensors.md"
+                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md"
               }
             }
           },
@@ -158,13 +158,18 @@
   },
   "active": "a27dd3dea6a15015",
   "lastOpenFiles": [
+    "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
+    "04 - Personal Studies/Deep Learning/Back Propagation.md",
+    "04 - Personal Studies/Deep Learning/Activation Functions.md",
+    "01 - Education/PhD/Literature Review/Research Gap and Objectives.md",
+    "01 - Education/PhD/Literature Review/Inertial Sensors.md",
+    "01 - Education/PhD/Literature Review/Electromyogram Sensors.md",
     "07 - Gaming/Gaming.md",
     "07 - Gaming/EU4 Tags.md",
     "04 - Personal Studies/Languages/Latin/00 - Latin.md",
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
     "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
-    "04 - Personal Studies/Deep Learning/Activation Functions.md",
     "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
     "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
     "04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
@@ -179,11 +184,6 @@
     "99 - Meta/Templates/Template, Good Media.md",
     "99 - Meta/Templates/Template, Mandarin Study.md",
     "99 - Meta/Templates/Template, EU4.md",
-    "99 - Meta/Templates/Template, Daily Note.md",
-    "99 - Meta/Templates/Template, Video Idea.md",
-    "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Country and Nationality (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/c.md",
     "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math/Game Theory",
     "04 - Personal Studies/Math",
