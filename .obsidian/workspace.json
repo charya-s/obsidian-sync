@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+                "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+                "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+                "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md"
+                "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "a9c51b3ea43c7fd4",
   "lastOpenFiles": [
+    "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Locations (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
     "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "05 - Content Creation/YouTube/00 - YouTube.md",
     "08 - Miscellaneous/00 - General Notepad.md",
     "99 - Meta/Templates/Template, Good Media.md",
@@ -182,7 +183,6 @@
     "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
-    "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
     "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
     "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math/Game Theory",
