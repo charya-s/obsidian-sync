@@ -1,2 +1,6 @@
 - [[Perceptrons]]
+- [[Activation Functions]]
+- [[Forward Propagation]]
+- [[Back Propagation]]
+- [[Loss Functions]]
 - 
