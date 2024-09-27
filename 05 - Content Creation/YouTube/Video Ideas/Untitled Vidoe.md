@@ -18,7 +18,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and then afterwards, we can talk about it together in the comments. 
 
 ### How Is T&L Pay-to-Win?
-- 
+- Okay, what actually is Pay-to-Win? Well, for 
 
 ### The Arguments Against It
 - 
