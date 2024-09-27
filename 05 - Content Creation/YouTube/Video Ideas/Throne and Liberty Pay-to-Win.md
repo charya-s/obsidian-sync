@@ -37,7 +37,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 	1. The first is that… ***FILL IN HERE.***
 	2. The second argument is that… ***FILL IN HERE.***
 	3. The third common argument is that… ***FILL IN HERE.***
-	4. And the final one, which is a lot less common but nonetheless exists, is…
+	4. And the final one, which is a lot less common but nonetheless exists, is… ***FILL IN HERE.***
 - So, you know, as much as I, too, want to defend a game I really, really enjoy and as much as I, too want to be able to frame things so that it looks good or not as bad, all these arguments that are used to defend the pay-to-win in this fall apart very easily.
 - And honestly, that’s okay! That doesn’t mean that the game isn’t fun. I think T&L is genuinely fun and I’ll continue to have fun in it without ever spending a single dollar on it. 
 - But at the end of the day, misrepresenting this game as a non-P2W game is silly, and actually harmful to the genre and the player-base that loves MMOs.
