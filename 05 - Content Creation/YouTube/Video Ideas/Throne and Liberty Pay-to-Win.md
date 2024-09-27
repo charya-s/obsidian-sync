@@ -10,7 +10,8 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 -----
 ## Notes
 
-### Intro
+### Intro 
+****
 - Hello everybody and welcome… to another Throne and Liberty video where we are going to maybe piss off a few people. 
 - The game is now in its Early Access stage until it fully comes out on the 1st of October and the question of whether it is Pay-To-Win is one that’s generating a lot of discussion.
 - There are people who swear it is and there are people who say it’s not really pay-to-win and instead it’s just pay-for-convenience.
