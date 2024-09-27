@@ -3,4 +3,4 @@
 	- 
 - Video Ideas
 	- [[Throne and Liberty Class Selection]]
-	- [[Untitled Vidoe]]
+	- [[Throne and Liberty Pay-to-Win]]
