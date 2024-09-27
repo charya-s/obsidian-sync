@@ -1,6 +1,6 @@
-Title: 
-Topic: 
-Expected Publishing Date: 
+***Title***: 
+***Topic***: 
+***Expected Publishing Date***: 
 
 ----
 

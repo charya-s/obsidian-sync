@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14e7a4dc733443b7",
+        "id": "23ce737071acb6ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a27dd3dea6a15015",
+            "id": "3a852e7cb9afacaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Personal Studies/Deep Learning/Perceptrons.md"
+                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md"
               }
             }
           },
@@ -156,8 +156,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a27dd3dea6a15015",
+  "active": "3a852e7cb9afacaa",
   "lastOpenFiles": [
+    "05 - Content Creation/YouTube/Video Ideas/Untitled Vidoe.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+    "05 - Content Creation/YouTube/00 - YouTube.md",
+    "05 - Content Creation/YouTube/Collaboration Email Template.md",
+    "05 - Content Creation/YouTube/What Topics Work.md",
+    "99 - Meta/Templates/Template, Video Idea.md",
+    "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Locations (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
+    "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
     "04 - Personal Studies/Deep Learning/Back Propagation.md",
     "04 - Personal Studies/Deep Learning/Activation Functions.md",
@@ -167,23 +181,9 @@
     "07 - Gaming/Gaming.md",
     "07 - Gaming/EU4 Tags.md",
     "04 - Personal Studies/Languages/Latin/00 - Latin.md",
-    "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
-    "04 - Personal Studies/Languages/Mandarin/Day and Time (CN).md",
     "04 - Personal Studies/Deep Learning/00 - Deep Learning.md",
-    "04 - Personal Studies/Languages/Mandarin/Basic Grammar (CN).md",
     "04 - Personal Studies/Languages/Mandarin/01 - CN Notebook.md",
-    "04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Locations (CN).md",
-    "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
     "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
-    "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
-    "05 - Content Creation/YouTube/00 - YouTube.md",
-    "08 - Miscellaneous/00 - General Notepad.md",
-    "99 - Meta/Templates/Template, Good Media.md",
-    "99 - Meta/Templates/Template, Mandarin Study.md",
-    "99 - Meta/Templates/Template, EU4.md",
     "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math/Game Theory",
     "04 - Personal Studies/Math",
