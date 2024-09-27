@@ -15,7 +15,16 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - The game is now in its Early Access stage until it fully comes out on the 1st of October and the question of whether it is Pay-To-Win is one that’s generating a lot of discussion.
 - There are people who swear it is and there are people who say it’s not really pay-to-win and instead it’s just pay-for-convenience.
 - Now of you just want to know if T&L is Pay-to-Win or not, I won’t waste your time. It is, it definitely is pay-to-win.
-- So why are people pretending it’s not? Let’s talk about that. Or, I’ll talk about it first and then afterwards, we can talk about it together in the comments. Unless one of you guys wants to be in my video? 
+- So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and then afterwards, we can talk about it together in the comments. 
+
+### How Is T&L Pay-to-Win?
+- 
+
+### The Arguments Against It
+- 
+
+### Why Is This Even a Question?
+- 
 
 ### Outro
 - 
