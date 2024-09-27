@@ -19,25 +19,29 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and then afterwards, we can talk about it together in the comments. 
 - We’re gonna go step by step, cover every aspect, respond to every argument from those who say it’s not pay-to-win, and basically we’ll settle this for good by really just taking a good look at it.
 
-### How Is T&L Pay-to-Win?
+### Is T&L Pay-to-Win?
 - Okay, what actually is Pay-to-Win? Well, let’s ask the Cambridge dictionary, which has an entry for it for some bizarre reason.
 - Okay, it defines Pay-to-Win as “in computer games, involving or relating to the practice of paying to get weapons, abilities, etc. that give you an advantage over players who do not spend money”
 - All right, that’s pretty fair but I think we can condense that to, “in computer games, the practice of spending money to get an advantage over players who do not spend money”. That’s fair right?
 - Well, by that standard, I’m sure for most of you, it’s hard to argue that Throne and Liberty *isn’t* pay to win, right?
 - Somehow, some people do argue that though, but - okay - before we get to that let’s just make sure T&L definitely does fit this definition.
 - There’s two main ways that stand out one first glance - the Lucent system that’s tied to the player marketplace and the battle-pass.
-- 
-
-### The Arguments Against It
+- zx
 - Okay, so I’ve now made the argument that T&L is, in-fact pay-to-win, but of course, not everyone agrees.
-- There’s a lot of people who don’t, in fact, and even some YouTubers that don’t. 
-- Now, I wanna be very clear, I’m not sneak dissing anybody, all right? This is not beef. We’re all players and we’re all in this together on this side of the interaction between players and NCSoft.
+- There’s a lot of people who don’t, in fact, and even some YouTubers, who, obviously, have the power to shift narratives, that don’t agree with my assessment. So, okay, let’s talk about… The Arguments Defending It.
+
+### The Arguments Defending It
+- Now, before we dive into this section, I wanna be very clear, I’m not sneak dissing anybody, all right? This is not beef. 
+- At the end of the day, we’re all players, regardless of whether you’re a YouTuber with a million subs or a viewer wanting to try out the game for the first time, and we’re all in this together and we’ron this side of the interaction between players and NCSoft.
 - So what are these arguments? Okay, let’s go through them.
 	1. The first is that…
 	2. The second argument is that…
 	3. The third common argument is that…
 	4. And the final one, which is a lot less common but nonetheless exists, is…
-- So, you know, as much as I, too, want to defend a game I really, really enjoy and as much as I want to be able to frame thing such that it looks good or not as bad, all these arguments that are use fall apart under, honestly, very little scrutiny.
+- So, you know, as much as I, too, want to defend a game I really, really enjoy and as much as I want to be able to frame thing such that it looks good or not as bad, all these arguments that are used to defend the pay-to-win fall apart under, honestly, very little scrutiny.
+- And that’s okay! That doesn’t mean the game isn’t fun. I think T&L is genuinely fun and I’ll continue to have fun in it without ever spending a single dollar on it. 
+- But at the end of the day, presenting this game as a non-P2W game is silly, and harmful to the genre and the playerbase that loves MMOs.
+	- In fact, that brings us to the final section - Why Is This Even A Question?
 
 ### Why Is This Even a Question?
 - 
