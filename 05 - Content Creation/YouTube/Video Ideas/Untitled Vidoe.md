@@ -27,7 +27,8 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - 
 
 ### Outro
-- 
+- So there you have it. Throne and Liberty is, by definition, without a doubt, Pay-To-Win. You may think the amount of pay-to-win isn’t enough to stop you and I’d agree. 
+- I promise you, you can have a *ton* of fun regardless. I have been and will be havinjg a
 
 
 ---
