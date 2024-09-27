@@ -29,7 +29,15 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - 
 
 ### The Arguments Against It
-- Okay, so I’ve now made the argument that T&L is, inp
+- Okay, so I’ve now made the argument that T&L is, in-fact pay-to-win, but of course, not everyone agrees.
+- There’s a lot of people who don’t, in fact, and even some YouTubers that don’t. 
+- Now, I wanna be very clear, I’m not sneak dissing anybody, all right? This is not beef. We’re all players and we’re all in this together on this side of the interaction between players and NCSoft.
+- So what are these arguments? Okay, let’s go through them.
+	1. The first is that…
+	2. The second argument is that…
+	3. The third common argument is that…
+	4. And the final one, which is a lot less common but nonetheless exists, is…
+- So, you know, as much as I, too, want to defend a game I really, really enjoy and as much as I want to be able to frame thing such that it looks good or not as bad, all these arguments that are use fall apart under, honestly, very little scrutiny.
 
 ### Why Is This Even a Question?
 - 
