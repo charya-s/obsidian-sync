@@ -11,7 +11,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 ## Notes
 
 ### Intro 
-****
+*Duration: 59s.* 
 - Hello everybody and welcome… to another Throne and Liberty video where we are going to maybe piss off a few people. 
 - The game is now in its Early Access stage until it fully comes out on the 1st of October and the question of whether it is Pay-To-Win is one that’s generating a lot of discussion.
 - There are people who swear it is and there are people who say it’s not really pay-to-win and instead it’s just pay-for-convenience.
@@ -29,12 +29,13 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - 
 
 ### The Arguments Against It
-- 
+- Okay, so I’ve now made the argument that T&L is, inp
 
 ### Why Is This Even a Question?
 - 
 
 ### Outro
+*Duration: 50s.* 
 - So there you have it. 
 - TLDR: Throne and Liberty is, by definition, without a doubt, Pay-To-Win. You may think the amount of pay-to-win isn’t enough to stop you and I’d agree. 
 - I promise you, you can have a *ton* of fun regardless. I have been and will be having a lot of fun without spending a time.
