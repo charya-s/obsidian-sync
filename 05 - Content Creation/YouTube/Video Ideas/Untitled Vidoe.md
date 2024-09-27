@@ -18,7 +18,11 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and then afterwards, we can talk about it together in the comments. 
 
 ### How Is T&L Pay-to-Win?
-- Okay, what actually is Pay-to-Win? Well, for 
+- Okay, what actually is Pay-to-Win? Well, let’s ask the Cambridge dictionary, which has an entry for it for some bizarre reason.
+- Okay, it defines Pay-to-Win as “in computer games, involving or relating to the practice of paying to get weapons, abilities, etc. that give you an advantage over players who do not spend money”
+- All right, that’s pretty fair but I think we can condense that to, “in computer games, the practice of spending money to get an advantage over players who do not spend money”. That’s fair right?
+- Well, by that standard, it’s hard to argue that Throne and Liberty *isn’t* pay to win, right?
+- 
 
 ### The Arguments Against It
 - 
