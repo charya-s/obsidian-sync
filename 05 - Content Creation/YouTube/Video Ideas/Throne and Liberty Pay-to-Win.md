@@ -23,7 +23,6 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - Okay, what actually is Pay-to-Win? Let’s ask the Cambridge dictionary, which, for some bizarre reason, has an entry for it.
 - Okay, so it defines Pay-to-Win as “in computer games, involving or relating to the practice of paying to get weapons, abilities, etc. that give you an advantage over players who do not spend money”
 - All right, that’s pretty fair but I think we can condense that to, “in computer games, the practice of spending money to get an advantage over players who do not spend money”. That’s fair right?
-- Pay-to-Win certainly is a spectrum and we can mess around with this definition a lot, and if you’re interested in that, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. He’s sort of the voic
 - Well, by that standard, I’m sure for most of you, it’s hard to argue that Throne and Liberty *isn’t* pay to win, right?
 - Somehow, some people do argue that though, but - okay - before we get to that let’s just make sure T&L definitely does fit this definition.
 - There’s two main ways that stand out one first glance - the Lucent system that’s tied to the player marketplace and the battle-pass.
@@ -45,7 +44,10 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - In fact, this brings us to the final section and it’s something you might already be wondering and that is… Why Is This Even A Question?
 
 ### Why Is This Even a Question?
-- The MMO genre isn’t new, and neither is the concept of Pay-to-Win. 
+- The MMO genre isn’t new, and neither is the concept of Pay-to-Win, and honestly, even though its easy to define like we did earlier, the truth is that it manifests in different games in different ways.
+	- By the way, if you’re interested in all the different ways pay-to-win sneaks its way into games, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. 
+	- He’s sort of the voice of sanity for MMO players and his video is really good.
+- The thing is though, the problem actually isn’t the existence of pay-to-win itself.
 
 ### Outro
 *Duration: 50s.* 
