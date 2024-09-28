@@ -20,9 +20,10 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - We’re gonna go step by step, cover every aspect, respond to every argument from those who say it’s not pay-to-win, and basically we’ll settle this for good by really just taking a good look at it.
 
 ### Is T&L Pay-to-Win?
-- Okay, what actually is Pay-to-Win? Well, let’s ask the Cambridge dictionary, which has an entry for it for some bizarre reason.
-- Okay, it defines Pay-to-Win as “in computer games, involving or relating to the practice of paying to get weapons, abilities, etc. that give you an advantage over players who do not spend money”
+- Okay, what actually is Pay-to-Win? Let’s ask the Cambridge dictionary, which, for some bizarre reason, has an entry for it.
+- Okay, so it defines Pay-to-Win as “in computer games, involving or relating to the practice of paying to get weapons, abilities, etc. that give you an advantage over players who do not spend money”
 - All right, that’s pretty fair but I think we can condense that to, “in computer games, the practice of spending money to get an advantage over players who do not spend money”. That’s fair right?
+- Pay-to-Win certainly is a spectrum and we can mess around with this definition a lot, and if you’re interested in that, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. He’s sort of the voic
 - Well, by that standard, I’m sure for most of you, it’s hard to argue that Throne and Liberty *isn’t* pay to win, right?
 - Somehow, some people do argue that though, but - okay - before we get to that let’s just make sure T&L definitely does fit this definition.
 - There’s two main ways that stand out one first glance - the Lucent system that’s tied to the player marketplace and the battle-pass.
@@ -44,7 +45,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - In fact, this brings us to the final section and it’s something you might already be wondering and that is… Why Is This Even A Question?
 
 ### Why Is This Even a Question?
-- 
+- The MMO genre isn’t new, and neither is the concept of Pay-to-Win. 
 
 ### Outro
 *Duration: 50s.* 
