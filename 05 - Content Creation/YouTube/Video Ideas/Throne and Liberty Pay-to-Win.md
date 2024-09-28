@@ -49,7 +49,9 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 	- He’s sort of the voice of sanity for MMO players and his video is really good.
 - The thing is though, the problem actually isn’t the existence of pay-to-win itself, it’s the really incredible way that publishers have managed to slowly push the acceptable line further and further back.
 - I mean, think about it!
-- 
+- In the early days of MMO, the line players drew was the very existence of microtransactions. Everyone preferred a buy-to-play or subscription-based model as long as it had zero pay-to-win.
+- Then, that line got pushed back to cosmetic microtransactions - mounts and skins and we were okay with that because who cares, right? You don’t get any real advantage, you just get to look cooler.
+- Then the line got pushed again, 
 
 ### Outro
 *Duration: 50s.* 
