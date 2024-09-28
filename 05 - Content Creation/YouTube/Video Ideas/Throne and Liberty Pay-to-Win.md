@@ -47,7 +47,9 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - The MMO genre isn’t new, and neither is the concept of Pay-to-Win, and honestly, even though its easy to define like we did earlier, the truth is that it manifests in different games in different ways.
 	- By the way, if you’re interested in all the different ways pay-to-win sneaks its way into games, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. 
 	- He’s sort of the voice of sanity for MMO players and his video is really good.
-- The thing is though, the problem actually isn’t the existence of pay-to-win itself.
+- The thing is though, the problem actually isn’t the existence of pay-to-win itself, it’s the really incredible way that publishers have managed to slowly push the acceptable line further and further back.
+- I mean, think about it!
+- 
 
 ### Outro
 *Duration: 50s.* 
