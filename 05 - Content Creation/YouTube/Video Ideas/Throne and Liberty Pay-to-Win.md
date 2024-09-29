@@ -53,7 +53,10 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - Then, that line got pushed back to cosmetic microtransactions – mounts and skins and we were okay with that because who cares, right? You don’t get any real advantage, you just get to look cooler. So that became the new normal.
 - Then the line got pushed again – potions and minor convenience like a bigger inventory or bank space. That was weird but whatever, just a small amount up from cosmetics, so that became the new normal.
 - Then, it got pushed again, inventory and bank space got so small that it was just unreasonable to not expand it. Fine! It’s just bag space, it’s not pay-to-win, right? So that became the new normal.
-- Guess what, the line got pushed again – battle passes! First they were cosmetic or convenience, and we were still okay with that, and then slowly and subtly these battlepasses started to 
+- And so, and so forth. Slowly, but surely, over the course of over a decade, this line of what is “acceptable pay-to-win” got pushed and pushed and pushed until now, we’re at its peak, where you can buy earned currency or even equipment directly for real money and there are battle passes that just gives you materials. 
+- And honestly, part of the blame is is on us, all of us as players – it’s kind of our fault. Every time that line got pushed from no microtransactions to cosmetics to convenience outright buying power, we accepted it.
+- It’s not entirely on us because it was the studios that kept pushing but it was still on us to make a stand and instead, we gave them money and over time, they realized we will always give them money as long as the jumps they make in how they extract that money from us is subtle.
+- We’re now at a point where, forget Throne and Liberty, pay-to-win o now exist even in pay-to-play and subscription based games. That’s where we are. That’s the current state of MMOs.
 ### Outro
 *Duration: 50s.* 
 - So there you have it. 
