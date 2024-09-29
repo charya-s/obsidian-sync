@@ -62,7 +62,8 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - That’s where we are. We’re so far gone we’re paying developers money to do their job!
 - That’s the current state of MMOs and truth be told, I personally don’t know if we can ever go back. 
 - We’ve already pretty much made it clear that we’re okay with it and they know that now and that, unfortunately, is on all of us, so at the very least, I hope that going forward, as a community, we can at least call it like we see it. 
-- Maybe you don’t care about the pay-to-win, and that’s fine, but
+- Maybe you don’t care about the pay-to-win, and that’s fine, to each their own, but again, at the very least, let’s get rid of dumb labels like pay-to-progress-faster and pay-for-convenience. 
+- Let’s call pay-to-win, pay-to-win, we have to stop letting these studios convince us otherwise.
 ### Outro
 *Duration: 50s.* 
 - So there you have it. 
