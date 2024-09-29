@@ -64,7 +64,9 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - That’s the current state of MMOs and truth be told, I personally don’t know if we can ever go back. 
 - This isn’t a problem is most other genres either. Can you imagine the backlash if Valorant made it so that you had to pay real money to use a specific gun? Or if Elden Ring sold its best weapons for real money or in a battle pass? 
 - Of course, not, because players of many others genres still have reasonable standards.
-- We, as MMO players, have pretty much made it clear that we’re okay with pay-to-win and they know that now and that, unfortunately, is on all of us, so at the very least, I hope that going forward, as a community, we can maybe just call it like we see it. 
+- We, as MMO players, have pretty much made it clear that we’re okay with pay-to-win and they know that now and that, unfortunately, is on all of us.
+- So what can we even do about this? You must be thinking hey this guy’s been going on for so long and there aren’t even any subway surfers clips so surely he’s got a suggestion. 
+- Well, honestly, there’s not a lot we can but at the very least, I hope that going forward, as a community, we can maybe just call it like we see it. 
 - Maybe you don’t care about the pay-to-win, and that’s fine, to each their own, right, but again, at the very least, let’s get rid of these dumb labels like pay-to-progress-faster and pay-for-convenience. 
 - Let’s call pay-to-win, pay-to-win, because we have to stop letting these studios convince us otherwise.
 ### Outro
