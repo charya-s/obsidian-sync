@@ -44,6 +44,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - In fact, this brings us to the final section and it’s something you might already be wondering and that is… Why Is This Even A Question?
 
 ### Why Is This Even a Question?
+- Okay, I’m gonna preface this section by saying, this isn’t specific to T&L. I’m just gonna on a little rant about Pay-to-Win and if that doesn’t interest, I get it, thank you for watching and I’ll see you guys next time.
 - The MMO genre isn’t new, and neither is the concept of Pay-to-Win, and honestly, even though its easy to define like we did earlier, the truth is that it manifests in different games in different ways.
 	- By the way, if you’re interested in all the different ways pay-to-win sneaks its way into games, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. 
 	- He’s sort of the voice of sanity for MMO players and his video is really good.
@@ -56,7 +57,12 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - And so, and so forth. Slowly, but surely, over the course of over a decade, this line of what is “acceptable pay-to-win” got pushed and pushed and pushed until now, we’re at its peak, where you can buy earned currency or even equipment directly for real money and there are battle passes that just gives you materials. 
 - And honestly, part of the blame is is on us, all of us as players – it’s kind of our fault. Every time that line got pushed from no microtransactions to cosmetics to convenience outright buying power, we accepted it.
 - It’s not entirely on us because it was the studios that kept pushing but it was still on us to make a stand and instead, we gave them money and over time, they realized we will always give them money as long as the jumps they make in how they extract that money from us is subtle.
-- We’re now at a point where, forget Throne and Liberty, pay-to-win o now exist even in pay-to-play and subscription based games. That’s where we are. That’s the current state of MMOs.
+- We’re now at a point where, forget Throne and Liberty, pay-to-win of this scale now exists even in pay-to-play and subscription based games. 
+- Hell, monetization has gotten so silly that we’re sold early access for the price of a triple A game and we’re asked to pay the price of TWO triple A games to alpha test an MMO! 
+- That’s where we are. We’re so far gone we’re paying developers money to do their job!
+- That’s the current state of MMOs and truth be told, I personally don’t know if we can ever go back. 
+- We’ve already pretty much made it clear that we’re okay with it and they know that now and that, unfortunately, is on all of us, so at the very least, I hope that going forward, as a community, we can at least call it like we see it. 
+- Maybe you don’t care about the pay-to-win, and that’s fine, but
 ### Outro
 *Duration: 50s.* 
 - So there you have it. 
