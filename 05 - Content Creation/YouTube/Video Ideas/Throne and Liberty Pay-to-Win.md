@@ -44,7 +44,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - In fact, this brings us to the final section and it’s something you might already be wondering and that is… Why Is This Even A Question?
 
 ### Why Is This Even a Question?
-- Okay, I’m gonna preface this section by saying, this isn’t specific to T&L. I’m just gonna on a little rant about Pay-to-Win and if that doesn’t interest, I get it, thank you for watching and I’ll see you guys next time.
+- Okay, I’m gonna preface this section by saying, this isn’t specific to T&L. I’m just gonna on a little rant about Pa  y-to-Win and if that doesn’t interest, I get it, thank you for watching and I’ll see you guys next time.
 - The MMO genre isn’t new, and neither is the concept of Pay-to-Win, and honestly, even though its easy to define like we did earlier, the truth is that it manifests in different games in different ways.
 	- By the way, if you’re interested in all the different ways pay-to-win sneaks its way into games, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. 
 	- He’s sort of the voice of sanity for MMO players and his video is really good.
