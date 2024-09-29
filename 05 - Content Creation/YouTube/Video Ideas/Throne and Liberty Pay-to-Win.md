@@ -48,7 +48,8 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - The MMO genre isn’t new, and neither is the concept of Pay-to-Win, and honestly, even though its easy to define like we did earlier, the truth is that it manifests in different games in different ways.
 	- By the way, if you’re interested in all the different ways pay-to-win sneaks its way into games, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. 
 	- He’s sort of the voice of sanity for MMO players and his video is really good.
-- The thing is though, the problem actually isn’t the existence of pay-to-win itself, it’s the really incredible way that publishers have managed to slowly push the acceptable line further and further back.
+- The thing is though, the problem act ually isn’t the existence of pay-to-win itself, publishers are always gonna wanna make more and more money, that’s almost like a law of nature. 
+- Instead, the real problem is the really incredible way that publishers have managed to slowly push the acceptable line further and further back and how we’ve been okay with it.
 - I mean, think about it!
 - In the early days of MMO, the line players drew was the very existence of microtransactions. Everyone preferred a buy-to-play or subscription-based model as long as it had zero pay-to-win.
 - Then, that line got pushed back to cosmetic microtransactions – mounts and skins and we were okay with that because who cares, right? You don’t get any real advantage, you just get to look cooler. So that became the new normal.
