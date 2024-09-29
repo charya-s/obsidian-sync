@@ -50,8 +50,10 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - The thing is though, the problem actually isn’t the existence of pay-to-win itself, it’s the really incredible way that publishers have managed to slowly push the acceptable line further and further back.
 - I mean, think about it!
 - In the early days of MMO, the line players drew was the very existence of microtransactions. Everyone preferred a buy-to-play or subscription-based model as long as it had zero pay-to-win.
-- Then, that line got pushed back to cosmetic microtransactions - mounts and skins and we were okay with that because who cares, right? You don’t get any real advantage, you just get to look cooler.
-- Then the line got pushed again, 
+- Then, that line got pushed back to cosmetic microtransactions – mounts and skins and we were okay with that because who cares, right? You don’t get any real advantage, you just get to look cooler. So that became the new normal.
+- Then the line got pushed again – potions and minor convenience like a bigger inventory or bank space. That was weird but whatever, just a small amount up from cosmetics, so that became the new normal.
+- Then, it got pushed again, inventory and bank space got so small that it was just unreasonable to not expand it. Fine! It’s just bag space, it’s not pay-to-win, right? So that became the new normal.
+- Guess what, it got pushed again – 
 
 ### Outro
 *Duration: 50s.* 
