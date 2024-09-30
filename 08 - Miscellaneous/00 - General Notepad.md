@@ -11,3 +11,6 @@
 - [ ] Create practical 5.
 - [ ] Solve Assignment 1.
 - [ ] Plan which exercises to revise.
+
+
+- [ ] Ameion
