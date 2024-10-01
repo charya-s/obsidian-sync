@@ -60,9 +60,12 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - And honestly, part of the blame is is on us, all of us as players – it’s kind of our fault. Every time that line got pushed from no microtransactions to cosmetics to convenience outright buying power, we accepted it.
 - It’s not entirely on us because it was the studios that kept pushing but it was still on us to make a stand and instead, we gave them money and over time, they realized we will always give them money as long as the jumps they make in how they extract that money from us is subtle.
 - We’re now at a point where, forget Throne and Liberty, pay-to-win of this scale now exists even in pay-to-play and subscription based games. 
-- Hell, monetization has gotten so silly that we’re sold early access for the price of a triple A game and we’re asked to pay the price of TWO triple A games to alpha test an MMO! 
-- That’s where we are. We’re so far gone we’re paying developers money to do their job!
-- That’s the current state of MMOs and truth be told, I personally don’t know if we can ever go back. 
+- Hell, monetization has gotten so silly that we’re sold early access for the price of a triple A game and we’re asked to pay the price of TWO triple A games to alpha test an MMO!
+- *And the worst thing is – a lot of us are okay with it! Look at this absolutely insane comment I saw under the Ashes of Creation Alpha 2 announcement.*
+- *READ COMMENT.*
+- *Okay, what is this? No, really, what is this? Someone please tell me what the hell this is because who even thinks like this? We are so fucked as a community man. I mean this is so insane I’m in disbelief. There’s bootlicking and then there’s whatever the hell this is.*
+- *but **this** is where we are. We’re so far gone we’re paying developers money to do their job and jumping up and down to do it like monkeys for a banana like what are we doing man?
+- It’s so bad, in fact, that truth be told, I personally don’t know if we can ever go back. 
 - This isn’t a problem is most other genres either. Can you imagine the backlash if Valorant made it so that you had to pay real money to use a specific gun? Or if Elden Ring sold its best weapons for real money or in a battle pass? 
 - Of course, not, because players of many others genres still have reasonable standards.
 - We, as MMO players, have pretty much made it clear that we’re okay with pay-to-win and they know that now and that, unfortunately, is on all of us.
