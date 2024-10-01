@@ -65,7 +65,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - *READ COMMENT.*
 - *Okay, what is this? No, really, what is this? Someone please tell me what the hell this is because who even thinks like this? We are so fucked as a community man. I mean this is so insane I’m in disbelief. There’s bootlicking and then there’s whatever the hell this is.*
 - *but **this** is where we are. We’re so far gone we’re paying developers money to do their job and jumping up and down to do it like monkeys for a banana like what are we doing man?
-- It’s so bad, in fact, that truth be told, I personally don’t know if we can ever go back. 
+- *It’s so bad, in fact, that truth be told, I personally don’t know if we can ever go back.* 
 - This isn’t a problem is most other genres either. Can you imagine the backlash if Valorant made it so that you had to pay real money to use a specific gun? Or if Elden Ring sold its best weapons for real money or in a battle pass? 
 - Of course, not, because players of many others genres still have reasonable standards.
 - We, as MMO players, have pretty much made it clear that we’re okay with pay-to-win and they know that now and that, unfortunately, is on all of us.
