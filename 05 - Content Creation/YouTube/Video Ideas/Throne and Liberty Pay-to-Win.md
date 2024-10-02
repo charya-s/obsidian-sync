@@ -17,7 +17,8 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - There are people who swear it is and there are people who say it’s not really pay-to-win and instead it’s just pay-for-convenience.
 - Now of you just want to know if T&L is Pay-to-Win or not, I won’t waste your time. It is, it definitely is pay-to-win.
 - So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and then afterwards, we can talk about it together in the comments. 
-- We’re gonna go step by step, cover every aspect, respond to every argument from those who say it’s not pay-to-win, and basically we’ll settle this for good by really just taking a good look at it.
+- We’re gonna go step by step. First we’ll figure out, logically, whether T&L is pay-to-win, then we’ll respond to some of the common arguments that defend it and finally, I’ll go on a completely unnecessary rant about why people defend it at all. 
+- Feel free to skip to the sections you care about using the timestamps but either way, let’s get into it.
 
 ### Is T&L Pay-to-Win?
 - Okay, what actually is Pay-to-Win? Let’s ask the Cambridge dictionary, which, for some bizarre reason, has an entry for it.
