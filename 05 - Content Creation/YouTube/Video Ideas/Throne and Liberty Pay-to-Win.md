@@ -76,12 +76,14 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - Maybe you don’t care about the pay-to-win, and that’s fine, to each their own, right, but again, at the very least, let’s get rid of these dumb labels like pay-to-progress-faster and pay-for-convenience. 
 - Let’s call pay-to-win, pay-to-win, because we have to stop letting these studios convince us otherwise.
 ### Outro
-*Duration: 50s.* 
+*Duration: 56s.* 
 - So there you have it. 
 - TLDR: Throne and Liberty is, by definition, without a doubt, Pay-To-Win. You may think the amount of pay-to-win isn’t enough to stop you and I’d agree. 
 - I promise you, you can have a *ton* of fun regardless. I have been and will be having a lot of fun without spending a time.
 - But, it *is* pay-to-win. It’s pay-for-convenience and it’s pay-to-progress faster, but that is pay-to-win. 
-- Now, as promised at the start of the video, I’m done talking. It’s time for you guys to talk! What do you think? Do you think we’ll ever be able to get an MMO that actually isn’t pay-to-win again? Let’s talk in the comments below!
+- Now, as promised at the start of the video, I’m done talking. It’s time for you guys to talk! What do you think? Do you think we’ll ever be able to get an MMO that actually isn’t pay-to-win again?
+- Will we EVER be able to stop pretending that pay-for-convenience and pay-to-progress-faster aren’t pay to win?
+- Let’s talk in the comments below!
 - Make sure to subscribe to my channel for more MMO-content but besides that, as always, thank you for watching and I’ll see you guys next time!
 
 
