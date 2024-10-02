@@ -11,12 +11,12 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 ## Notes
 
 ### Intro 
-*Duration: 59s.* 
+*Duration: 64s.* 
 - Hello everybody and welcome… to another Throne and Liberty video where we are going to maybe piss off a few people. 
 - The game is now in its Early Access stage until it fully comes out on the 1st of October and the question of whether it is Pay-To-Win is one that’s generating a lot of discussion.
 - There are people who swear it is and there are people who say it’s not really pay-to-win and instead it’s just pay-for-convenience.
 - Now of you just want to know if T&L is Pay-to-Win or not, I won’t waste your time. It is, it definitely is pay-to-win.
-- So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and then afterwards, we can talk about it together in the comments. 
+- So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and the n afterwards, we can talk about it together in the comments. 
 - We’re gonna go step by step. First we’ll figure out, logically, whether T&L is pay-to-win, then we’ll respond to some of the common arguments that defend it and finally, I’ll go on a completely unnecessary rant about why people defend it at all. 
 - Feel free to skip to the sections you care about using the timestamps but either way, let’s get into it.
 
@@ -45,7 +45,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - In fact, this brings us to the final section and it’s something you might already be wondering and that is… Why Is This Even A Question?
 
 ### Why Is This Even a Question?
-*Duration: 240s.* 
+*Duration: 297s.* 
 - Okay, I’m gonna preface this section by saying, this isn’t specific to T&L. I’m just gonna on a little rant about Pa  y-to-Win and if that doesn’t interest, I get it, thank you for watching and I’ll see you guys next time.
 - The MMO genre isn’t new, and neither is the concept of Pay-to-Win, and honestly, even though its easy to define like we did earlier, the truth is that it manifests in different games in different ways.
 	- By the way, if you’re interested in all the different ways pay-to-win sneaks its way into games, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. 
@@ -62,12 +62,12 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - It’s not entirely on us because it was the studios that kept pushing but it was still on us to make a stand and instead, we gave them money and over time, they realized we will always give them money as long as the jumps they make in how they extract that money from us is subtle.
 - We’re now at a point where, forget Throne and Liberty, pay-to-win of this scale now exists even in pay-to-play and subscription based games. 
 - Hell, monetization has gotten so silly that we’re sold early access for the price of a triple A game and we’re asked to pay the price of TWO triple A games to alpha test an MMO!
-- *And the worst thing is – a lot of us are shockingly okay with it!  Okay, look at this absolutely insane comment I saw under the Ashes of Creation Alpha 2 announcement.*
-- *I’m gonna try and read it without laughing.*
-- *READ COMMENT.*
-- *Okay, can somebody tell me what’s going on here? No, no no, really, what is this? Someone please tell me what the hell this is because who even thinks like this? Excuse my language but holy shit man we are so fucked as a community. I mean this is so insane I’m in genuine disbelief. There’s bootlicking and then there’s whatever the hell this is.*
-- *but thing is that **this** is where we are. We’re so far gone we’re paying developers money to do their job and jumping up and down to do it like monkeys for a banana.
-- *It’s so bad, in fact, that truth be told, I personally don’t know if we can ever go back.* 
+- And the worst thing is – a lot of us are shockingly okay with it!  Okay, look at this absolutely insane comment I saw under the Ashes of Creation Alpha 2 announcement.
+- I’m gonna try and read it without laughing.
+- **READ COMMENT**.
+- Okay, can somebody tell me what’s going on here? No, no no, really, what is this? Someone please tell me what the hell this is because who even thinks like this? Excuse my language but holy shit man we are so fucked as a community. I mean this is so insane I’m in genuine disbelief. There’s bootlicking and then there’s whatever the hell this is.
+- but thing is that *this* is where we are. We’re so far gone we’re paying developers money to do their job and jumping up and down to do it like monkeys for a banana.
+- It’s so bad, in fact, that truth be told, I personally don’t know if we can ever go back. 
 - This isn’t a problem is most other genres either. Can you imagine the backlash if Valorant made it so that you had to pay real money to use a specific gun? Or if Elden Ring sold its best weapons for real money or in a battle pass? 
 - Of course, not, because players of many others genres still have reasonable standards.
 - We, as MMO players, have pretty much made it clear that we’re okay with pay-to-win and they know that now and that, unfortunately, is on all of us.
