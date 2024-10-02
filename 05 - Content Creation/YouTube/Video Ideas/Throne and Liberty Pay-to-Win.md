@@ -35,10 +35,10 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - Now, before we dive into this section, I wanna be very clear, I’m not sneak dissing anybody, all right? This is not beef. 
 - At the end of the day, we’re all players, regardless of whether you’re a YouTuber with a million subs or a viewer wanting to try out the game for the first time, and we’re all in this together and we’re all on the same side of the interaction between players and NCSoft.
 - Okay, so what actually are the arguments defending T&L? Let’s go through them one by one.
-	1. The first is that… ***FILL IN HERE.*** It’s pay-to-progress faster, not pay-to-win.
-	2. The second argument is that… ***FILL IN HERE.*** Studios need to make money, it’s a business.
-	3. The third common argument, which thankfully is a bit rare but unfortunately exists nonetheless is that… ***FILL IN HERE.*** You’d have to spend a lot to be significantly further ahead - “whaling”.
-	4. And the final one, is… ***FILL IN HERE.*** Other games do it too! Let’s talk about this more.
+	1. The first argument is that at the end of the day, this is business and studios need to make money. I can see why this argument exists because sure, it’s really silly and na
+	2. The second argument  is that… ***FILL IN HERE.*** You’d have to spend a lot to be significantly further ahead - “whaling”.
+	3. The third common argument, which thankfully is a bit rare but unfortunately exists nonetheless is… ***FILL IN HERE.*** Other games do it too! Let’s talk about this more.
+	4. And the final one, is that it’s actually not pay-to-win, it’s pay-to-progress faster. This one’s easy to respond to.
 - So, you know, as much as I, too, want to defend a game I really, really enjoy and as much as I, too want to be able to frame things so that it looks good or not as bad, all these arguments that are used to defend the pay-to-win in this fall apart very easily.
 - And honestly, that’s okay! That doesn’t mean that the game isn’t fun. I think T&L is genuinely fun and I’ll continue to have fun in it without ever spending a single dollar on it. 
 - But at the end of the day, misrepresenting this game as a non-P2W game is silly, and actually harmful to the genre and the player-base that loves MMOs.
