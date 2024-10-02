@@ -61,9 +61,10 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - It’s not entirely on us because it was the studios that kept pushing but it was still on us to make a stand and instead, we gave them money and over time, they realized we will always give them money as long as the jumps they make in how they extract that money from us is subtle.
 - We’re now at a point where, forget Throne and Liberty, pay-to-win of this scale now exists even in pay-to-play and subscription based games. 
 - Hell, monetization has gotten so silly that we’re sold early access for the price of a triple A game and we’re asked to pay the price of TWO triple A games to alpha test an MMO!
-- *And the worst thing is – a lot of us are okay with it! Look at this absolutely insane comment I saw under the Ashes of Creation Alpha 2 announcement.*
+- *And the worst thing is – a lot of us are shockingly okay with it!  Okay, look at this absolutely insane comment I saw under the Ashes of Creation Alpha 2 announcement.*
+- *I’m gonna try and read it without laughing.*
 - *READ COMMENT.*
-- *Okay, what is this? No, really, what is this? Someone please tell me what the hell this is because who even thinks like this? We are so fucked as a community man. I mean this is so insane I’m in disbelief. There’s bootlicking and then there’s whatever the hell this is.*
+- *Okay, can somebody tell me what’s going on here? No, no no, really, what is this? Someone please tell me what the hell this is because who even thinks like this? We are so fucked as a community man. I mean this is so insane I’m in disbelief. There’s bootlicking and then there’s whatever the hell this is.*
 - *but **this** is where we are. We’re so far gone we’re paying developers money to do their job and jumping up and down to do it like monkeys for a banana like what are we doing man?
 - *It’s so bad, in fact, that truth be told, I personally don’t know if we can ever go back.* 
 - This isn’t a problem is most other genres either. Can you imagine the backlash if Valorant made it so that you had to pay real money to use a specific gun? Or if Elden Ring sold its best weapons for real money or in a battle pass? 
