@@ -42,15 +42,17 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 		- The most obvious examples are games like Valorant or Apex Legends but you might respond to that by saying “but kets those games are huge, T&L is just a little Korean MMO”. 
 		- Well, this little Korean MMO is one of the best-selling games on Steam, ever. Ever. It’s got more players right now than Apex Legends, so to say it’s a scale thing or a size thing doesn’t work.
 		- Or, you might, “but kets this an MMO, those are competitive shooters”. So what? What does an MMO do that requires higher margins? Even if it does, Once Human was massively successful while it’s microtransactions were entirely cosmetic, so why can’t T&L? 
-		- Then you might say, “but kets of course they’re gonna make as much money as possible”
-	1. The second argument  is that you’d have to spend a lot of money, basically be a whale, to be significantly further ahead.
+		- Then you might say, “but kets of course they’re gonna make as much money as possible, why wouldn’t they?” Well, of course they would - that’s the point, that’s the problem, they’re greedy and want to milk their players for as much as they can. Glad we agree.
+	2. The second argument is that you’d have to spend a lot of money, basically be a whale, to be significantly further ahead.
 		- I won’t spend much time on this argument. 
 		- The amount of money you spend is literally a non-argument. If spending money gives you a gameplay advantage, it’s pay-to-win.
 		- On top of this, this isn’t even true for T&L. Consistently buying the battle pass, which is definitely not whaling, is a pretty significant boost so this doesn’t really hold up.
-	1. The third common argument, which thankfully is a bit rare but unfortunately exists nonetheless, is that other games do it too.
+	3. The third common argument, which thankfully is a bit rare but unfortunately exists nonetheless, is that other games do it too.
 		- Look, I get the urge to defend a game you like. I really get it, but saying other games do it so it’s okay that T&L does it is… really the weakest of these four arguments. 
-		- This isn’t grade school, we’re not 7 years old. 
-	1. And the final one, is that it’s actually not pay-to-win, it’s pay-to-progress faster. This one’s easy to respond to.
+		- Because it’s easy to dismiss because yeah, those games are pay-to-win, and so is this one. 
+	4. And the final one, is that it’s actually not pay-to-win, it’s pay-to-progress faster. This one’s easy to respond to with a thought experiment.
+		- Imagine a free-to-play player who plays for a hundred hours and makes it to a certain level of gear, let’s just call it 300 Gear. Again, this is a thought experiment, so bare with me and don’t get hung up on these numbers.
+		- A pay-to-play player then starts playing and puts some money in, say 300 USD, and he gets to 300 Gear in just 20 hours.
 - So, you know, as much as I, too, want to defend a game I really, really enjoy and as much as I, too want to be able to frame things so that it looks good or not as bad, all these arguments that are used to defend the pay-to-win in this fall apart very easily.
 - And honestly, that’s okay! That doesn’t mean that the game isn’t fun. I think T&L is genuinely fun and I’ll continue to have fun in it without ever spending a single dollar on it. 
 - But at the end of the day, misrepresenting this game as a non-P2W game is silly, and actually harmful to the genre and the player-base that loves MMOs.
