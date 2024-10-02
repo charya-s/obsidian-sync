@@ -35,10 +35,16 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - Now, before we dive into this section, I wanna be very clear, I’m not sneak dissing anybody, all right? This is not beef. 
 - At the end of the day, we’re all players, regardless of whether you’re a YouTuber with a million subs or a viewer wanting to try out the game for the first time, and we’re all in this together and we’re all on the same side of the interaction between players and NCSoft.
 - Okay, so what actually are the arguments defending T&L? Let’s go through them one by one.
-	1. The first argument is that at the end of the day, this is business and studios need to make money. I can see why this argument exists because sure, it’s really silly and na
-	2. The second argument  is that… ***FILL IN HERE.*** You’d have to spend a lot to be significantly further ahead - “whaling”.
-	3. The third common argument, which thankfully is a bit rare but unfortunately exists nonetheless is… ***FILL IN HERE.*** Other games do it too! Let’s talk about this more.
-	4. And the final one, is that it’s actually not pay-to-win, it’s pay-to-progress faster. This one’s easy to respond to.
+	1. The first argument is that at the end of the day, this is business and studios need to make money. 
+		- I can see why this argument exists because sure, it’s really silly and naive to ask a studio to run a loss just so we can have a fair game. 
+		- The only problem is that, well, pay-to-win isn’t necessary to make money. 
+		- Put aside single-player games for a moment because okay there are server costs associated with multiplayer games but there are a ton of multiplayer games that are able to make money without pay-to-win.
+		- The most obvious examples are games like Valorant or Apex Legends but you might respond to that by saying “but kets those games are huge, T&L is just a little Korean MMO”. 
+		- Well, this little Korean MMO is one of the best-selling games on Steam, ever. Ever. It’s got more players right now than Apex Legends, so to say it’s a scale thing or a size thing doesn’t work.
+		- Or, you might, “but kets this an MMO, those are competitive shooters”. So what? What does an MMO do that requires higher margins? Even if it does, Once Human was massively successful while 
+	1. The second argument  is that… ***FILL IN HERE.*** You’d have to spend a lot to be significantly further ahead - “whaling”.
+	2. The third common argument, which thankfully is a bit rare but unfortunately exists nonetheless is… ***FILL IN HERE.*** Other games do it too! Let’s talk about this more.
+	3. And the final one, is that it’s actually not pay-to-win, it’s pay-to-progress faster. This one’s easy to respond to.
 - So, you know, as much as I, too, want to defend a game I really, really enjoy and as much as I, too want to be able to frame things so that it looks good or not as bad, all these arguments that are used to defend the pay-to-win in this fall apart very easily.
 - And honestly, that’s okay! That doesn’t mean that the game isn’t fun. I think T&L is genuinely fun and I’ll continue to have fun in it without ever spending a single dollar on it. 
 - But at the end of the day, misrepresenting this game as a non-P2W game is silly, and actually harmful to the genre and the player-base that loves MMOs.
