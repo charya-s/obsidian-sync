@@ -64,8 +64,8 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - *And the worst thing is – a lot of us are shockingly okay with it!  Okay, look at this absolutely insane comment I saw under the Ashes of Creation Alpha 2 announcement.*
 - *I’m gonna try and read it without laughing.*
 - *READ COMMENT.*
-- *Okay, can somebody tell me what’s going on here? No, no no, really, what is this? Someone please tell me what the hell this is because who even thinks like this? We are so fucked as a community man. I mean this is so insane I’m in disbelief. There’s bootlicking and then there’s whatever the hell this is.*
-- *but **this** is where we are. We’re so far gone we’re paying developers money to do their job and jumping up and down to do it like monkeys for a banana like what are we doing man?
+- *Okay, can somebody tell me what’s going on here? No, no no, really, what is this? Someone please tell me what the hell this is because who even thinks like this? Excuse my language but holy shit man we are so fucked as a community. I mean this is so insane I’m in genuine disbelief. There’s bootlicking and then there’s whatever the hell this is.*
+- *but thing is that **this** is where we are. We’re so far gone we’re paying developers money to do their job and jumping up and down to do it like monkeys for a banana.
 - *It’s so bad, in fact, that truth be told, I personally don’t know if we can ever go back.* 
 - This isn’t a problem is most other genres either. Can you imagine the backlash if Valorant made it so that you had to pay real money to use a specific gun? Or if Elden Ring sold its best weapons for real money or in a battle pass? 
 - Of course, not, because players of many others genres still have reasonable standards.
