@@ -26,7 +26,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - All right, that’s pretty fair but I think we can condense that to, “in computer games, the practice of spending money to get an advantage over players who do not spend money”. That’s fair right?
 - Well, by that standard, I’m sure for most of you, it’s hard to argue that Throne and Liberty *isn’t* pay to win, right?
 - Somehow, some people do argue that though, but - okay - before we get to that let’s just make sure T&L definitely does fit this definition.
-- There’s two main ways that stand out on first glance - the player marketplace and the battle pass.
+- There are two main ways that I think on first glance scream pay-to-win - the player marketplace and the battle pass.
 - The player marketplace, also known as the Auction House, is where you’d go to sell and buy literally anything to and from other players.
 - The problem is that the currency you use to do this isn’t the gold you earn in-game, it’s Lucent you buy with real money.
 - But you might be saying it’s kind of good, isn’t it, because that means you can sell your own gear for the premium currency without spending real money, right?
