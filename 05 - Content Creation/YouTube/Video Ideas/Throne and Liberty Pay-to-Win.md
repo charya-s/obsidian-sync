@@ -30,10 +30,11 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - The player marketplace, also known as the Auction House, is where you’d go to sell and buy literally anything to and from other players.
 - The problem is that the currency you use to do this isn’t the gold you earn in-game, it’s Lucent you buy with real money.
 - But you might be saying it’s kind of good, isn’t it, because that means you can sell your own gear for the premium currency without spending real money, right?
-- Yeah, but, why? This only sounds like a good thing because of the pay-to-win system in the first place. 
-- If the whole marketplace used gold, you’d still want to sell your equipment for gold and use that gold to buy other things. Selling gear for Lucent is only good because other things cost Lucent.
-- So why does the marketplace even use Lucent then?
-- Tax, baby! There’s a “tax” on selling and buying on the Auction House. Let’s ignore for a moment that taxing premium currency is dumb as hell, okay, let’s put that aside for a second.
+- Well, yeah, you can, but, why? This only sounds like a good thing because of the pay-to-win system in the first place. 
+- If the marketplace uses gold, you’d still want to sell your equipment for gold and use that gold to buy other things. Selling gear for Lucent is only good because other things cost Lucent and that’s a choice NCSoft made.
+- Now you might be asking, “so why did NCSoft even make that decision? Why does the marketplace even use Lucent?”
+- To that I say, stop asking me questions, do I look like your dad? Well, actually it’s a great question to ask your dad because the answer is tax, baby!
+- There’s actually a “tax” on selling and buying on the Auction House. Let’s ignore for a moment that taxing premium currency is dumb as hell, okay, let’s put that aside for a second.
 - Say someone buys Lucent for real-money. That person then goes and spends it on buying gear instead of grinding and the seller of that gear gets paid Lucent, but they get a smaller amount because of that tax. 
 - Think about that for a second. In this transaction, NCSoft has just made money in exchange for nothing.
 - Even that insanity aside, this system is still literally textbook pay-to-win because it means that players can spend money and buy gear instead of earning it.
