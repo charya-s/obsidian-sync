@@ -26,11 +26,15 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - All right, that’s pretty fair but I think we can condense that to, “in computer games, the practice of spending money to get an advantage over players who do not spend money”. That’s fair right?
 - Well, by that standard, I’m sure for most of you, it’s hard to argue that Throne and Liberty *isn’t* pay to win, right?
 - Somehow, some people do argue that though, but - okay - before we get to that let’s just make sure T&L definitely does fit this definition.
-- There’s two main ways that stand out one first glance - the player marketplace and the battle pass.
-- **The marketplace**
+- There’s two main ways that stand out on first glance - the player marketplace and the battle pass.
+- The player marketplace, also known as the Auction House, is where you’d go to sell and buy literally anything to and from other players.
+- The problem is that the currency you use to do this isn’t the gold you earn in-game, it’s Lucent you buy with real money.
+- Now you might be saying that it’s kind of good because that means you can sell your own gear for the premium currency, right?
+- Yeah, but, why? This only sounds like a good thing because of the pay-to-win system in the first place. Why couldn’t this marketplace just use gold?
+- Well, we know why, so that people would put as much money into the game as possible and literally buy the gear instead of grinding for it like a free-to-play player would have to.
 - Besides the marketplace, you’ve got the battle pass. As with any battle pass in any game, there is a free tier and a paid tier, but unlike many other games where the it gives you cosmetics, the paid of T&L’s battle pass straight up gives you extra materials that are used to obtain and upgrade gear in the game. 
 - Needless to say, this is also a pretty clear real-money to in-game boost conversion. 
-- Now, in the global release, right now, there’s only one battle pass, but the Korean server I played in often had multiple, which was obviously worse, so that’s good but keep
+- Now, in the global release, right now, there’s only one battle pass, but the Korean server I played in often had multiple, which was obviously worse, so that’s good but keep it in mind in case they start to do that in the global servers too.
 - Okay, so I’ve now made the argument that T&L is, in-fact pay-to-win, but of course, not everyone agrees.
 - There’s a lot of people who don’t, in fact, and even some YouTubers, who, obviously, have the power to shift narratives, that don’t agree with my assessment. So, okay, let’s talk about… The Arguments Defending It.
 
