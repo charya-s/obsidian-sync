@@ -38,7 +38,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - Say someone buys Lucent for real-money. That person then goes and spends it on buying gear instead of grinding and the seller of that gear gets paid Lucent, but they get a smaller amount because of that tax. 
 - Think about that for a second. In this transaction, NCSoft has just made money in exchange for nothing.
 - Even that insanity aside, this system is still literally textbook pay-to-win because it means that players can spend money and buy gear instead of earning it.
-- So. hang on, why doesn’t NCSoft just sell the gear directly and make the marketplace run on gold? Well, that would be obvious pay-to-win instead of sneaky pay-to-win, and we can’t have that. It’s only fun when we can trick players into thinking it’s not pay-to-win while silently milking them.
+- So hang on, why doesn’t NCSoft just sell the gear directly and make the marketplace run on gold? Well, that would be obvious pay-to-win instead of sneaky pay-to-win, and we can’t have that. It’s only fun when we can trick players into thinking it’s not pay-to-win while silently milking them.
 - Besides the marketplace, you’ve got the battle pass. As with any battle pass in any game, there is a free tier and a paid tier, but unlike many other games where the it gives you cosmetics, the paid of T&L’s battle pass straight up gives you extra materials that are used to obtain and upgrade gear in the game. 
 - Needless to say, this is also a pretty clear real-money to in-game boost conversion. 
 - Now, in the global release, right now, there’s only one battle pass, but the Korean server I played in often had multiple, which was obviously worse, so that’s good but keep it in mind in case they start to do that in the global servers too.
@@ -56,7 +56,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 		- The most obvious examples are games like Valorant or Apex Legends but you might respond to that by saying “but kets those games are huge, T&L is just a little Korean MMO”. 
 		- Well, this little Korean MMO is one of the best-selling games on Steam, ever. Ever. It’s got more players right now than Apex Legends, so to say it’s a scale thing or a size thing doesn’t work.
 		- Or, you might, “but kets this an MMO, those are competitive shooters”. So what? What does an MMO do that requires higher margins? Even if it does, Once Human was massively successful while it’s microtransactions were entirely cosmetic, so why can’t T&L? 
-		- Then you might say, “but kets of course they’re gonna make as much money as possible, why wouldn’t they?” Well, of course they would - that’s the point, that’s the problem, they’re greedy and want to milk their players for as much as they can. Glad we agree.
+		- Then you might say, “but kets of course they’re gonna make as much money as possible, why wouldn’t they?” Well, of course they would - that’s the point, that’s the problem, they’re greedy and want to milk their players for as much as they can. 
 	2. The second argument is that you’d have to spend a lot of money, basically be a whale, to be significantly further ahead.
 		- I won’t spend much time on this argument. 
 		- The amount of money you spend is literally a non-argument. If spending money gives you a gameplay advantage, it’s pay-to-win.
@@ -78,7 +78,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 
 ### Why Is This Even a Question?
 *Duration: 297s.* 
-- Okay, I’m gonna preface this section by saying, this isn’t specific to T&L. I’m just gonna on a little rant about Pa  y-to-Win and if that doesn’t interest, I get it, thank you for watching and I’ll see you guys next time.
+- Okay, I’m gonna preface this section by saying, this isn’t specific to T&L. I’m just gonna on a little rant about Pay-to-Win and if that doesn’t interest, I get it, thank you for watching and I’ll see you guys next time.
 - The MMO genre isn’t new, and neither is the concept of Pay-to-Win, and honestly, even though its easy to define like we did earlier, the truth is that it manifests in different games in different ways.
 	- By the way, if you’re interested in all the different ways pay-to-win sneaks its way into games, I’d recommend Josh Strife Hayes’ video on it which I’ll link in the description below. 
 	- He’s sort of the voice of sanity for MMO players and his video is really good.
