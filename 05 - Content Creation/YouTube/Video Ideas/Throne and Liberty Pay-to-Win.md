@@ -32,8 +32,8 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - There’s a lot of people who don’t, in fact, and even some YouTubers, who, obviously, have the power to shift narratives, that don’t agree with my assessment. So, okay, let’s talk about… The Arguments Defending It.
 
 ### The Arguments Defending It
-- Now, before we dive into this section, I wanna be very clear, I’m not sneak dissing anybody, all right? This is not beef. 
-- At the end of the day, we’re all players, regardless of whether you’re a YouTuber with a million subs or a viewer wanting to try out the game for the first time, and we’re all in this together and we’re all on the same side of the interaction between players and NCSoft.
+- Now, before we dive into this section, I wanna be very clear, I’m not dissing anybody, all right? This is not beef. 
+- I am responding to arguments from other members of the community but at the end of the day, we’re all players, regardless of whether you’re a YouTuber with a million subs or a viewer wanting to try out the game for the first time, and we’re all in this together and we’re all on the same side of the tug-of-war between the players and NCSoft.
 - Okay, so what actually are the arguments defending T&L? Let’s go through them one by one.
 	1. The first argument is that at the end of the day, this is business and studios need to make money. 
 		- I can see why this argument exists because sure, it’s really silly and naive to ask a studio to run a loss just so we can have a fair game. 
