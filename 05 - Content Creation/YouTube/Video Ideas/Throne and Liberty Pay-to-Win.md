@@ -16,7 +16,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - The game is now in its Early Access stage until it fully comes out on the 1st of October and the question of whether it is Pay-To-Win is one that’s generating a lot of discussion.
 - There are people who swear it is and there are people who say it’s not really pay-to-win and instead it’s just pay-for-convenience.
 - Now of you just want to know if T&L is Pay-to-Win or not, I won’t waste your time. It is, it definitely is pay-to-win.
-- So why are people pretending it’s not? Let’s talk about that. Or, at least, I’ll talk about it first and the n afterwards, we can talk about it together in the comments. 
+- So why are people pretending it’s no? Let’s talk about that. Or, at least, I’ll talk about it first and the n afterwards, we can talk about it together in the comments. 
 - We’re gonna go step by step. First we’ll figure out, logically, whether T&L is pay-to-win, then we’ll respond to some of the common arguments that defend it and finally, I’ll go on a completely unnecessary rant about why people defend it at all. 
 - Feel free to skip to the sections you care about using the timestamps but either way, let’s get into it.
 
@@ -26,8 +26,11 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - All right, that’s pretty fair but I think we can condense that to, “in computer games, the practice of spending money to get an advantage over players who do not spend money”. That’s fair right?
 - Well, by that standard, I’m sure for most of you, it’s hard to argue that Throne and Liberty *isn’t* pay to win, right?
 - Somehow, some people do argue that though, but - okay - before we get to that let’s just make sure T&L definitely does fit this definition.
-- There’s two main ways that stand out one first glance - the Lucent system that’s tied to the player marketplace and the battle-pass.
-- ***FILL IN HERE.***
+- There’s two main ways that stand out one first glance - the player marketplace and the battle pass.
+- **The marketplace**
+- Besides the marketplace, you’ve got the battle pass. As with any battle pass in any game, there is a free tier and a paid tier, but unlike many other games where the it gives you cosmetics, the paid of T&L’s battle pass straight up gives you extra materials that are used to obtain and upgrade gear in the game. 
+- Needless to say, this is also a pretty clear real-money to in-game boost conversion. 
+- Now, in the global release, right now, there’s only one battle pass, but the Korean server I played in often had multiple, which was obviously worse, so that’s good but keep
 - Okay, so I’ve now made the argument that T&L is, in-fact pay-to-win, but of course, not everyone agrees.
 - There’s a lot of people who don’t, in fact, and even some YouTubers, who, obviously, have the power to shift narratives, that don’t agree with my assessment. So, okay, let’s talk about… The Arguments Defending It.
 
