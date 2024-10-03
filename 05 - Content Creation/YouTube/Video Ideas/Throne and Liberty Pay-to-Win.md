@@ -29,7 +29,6 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - There’s two main ways that stand out on first glance - the player marketplace and the battle pass.
 - The player marketplace, also known as the Auction House, is where you’d go to sell and buy literally anything to and from other players.
 - The problem is that the currency you use to do this isn’t the gold you earn in-game, it’s Lucent you buy with real money.
-- Obviously, this is as direct of a conversion from real-money to in-game advantage as you can get, so that’s a given.
 - But you might be saying it’s kind of good, isn’t it, because that means you can sell your own gear for the premium currency without spending real money, right?
 - Yeah, but, why? This only sounds like a good thing because of the pay-to-win system in the first place. 
 - If the whole marketplace used gold, you’d still want to sell your equipment for gold and use that gold to buy other things. Selling gear for Lucent is only good because other things cost Lucent.
@@ -38,7 +37,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 - Say someone buys Lucent for real-money. That person then goes and spends it on buying gear instead of grinding and the seller of that gear gets paid Lucent, but they get a smaller amount because of that tax. 
 - Think about that for a second. In this transaction, NCSoft has just made money in exchange for nothing.
 - Even that insanity aside, this system is still literally textbook pay-to-win because it means that players can spend money and buy gear instead of earning it.
-- So why doesn’t NCSoft just sell the gear directly and make the marketplace run on gold? Well, that would be obvious pay-to-win instead of sneaky pay-to-win, and we can’t have that. It’s only fun when we can trick players into thinking it’s not pay-to-win while silently milking them.
+- So. hang on, why doesn’t NCSoft just sell the gear directly and make the marketplace run on gold? Well, that would be obvious pay-to-win instead of sneaky pay-to-win, and we can’t have that. It’s only fun when we can trick players into thinking it’s not pay-to-win while silently milking them.
 - Besides the marketplace, you’ve got the battle pass. As with any battle pass in any game, there is a free tier and a paid tier, but unlike many other games where the it gives you cosmetics, the paid of T&L’s battle pass straight up gives you extra materials that are used to obtain and upgrade gear in the game. 
 - Needless to say, this is also a pretty clear real-money to in-game boost conversion. 
 - Now, in the global release, right now, there’s only one battle pass, but the Korean server I played in often had multiple, which was obviously worse, so that’s good but keep it in mind in case they start to do that in the global servers too.
