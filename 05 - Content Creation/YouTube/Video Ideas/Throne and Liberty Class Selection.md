@@ -42,3 +42,17 @@ In this video, we'll be going through each class combination and rating them in 
 
 
 ---
+
+## Performance Notes
+
+- This video went absolutely crazy and is now my best performing video ever by a large margin.
+- People **liked**:
+	- The novel approach to class selection that prioritized fun.
+	- The editing and humor.
+- People **disliked**:
+	- The lack of information on which combinations are good/meta.
+	- A few inaccuracies in how some weapons work.
+- The following may also be true:
+	- High search volume.
+	- Great timing with release.
+	- Good thumbnail.

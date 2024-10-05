@@ -120,5 +120,12 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 
 
 ---
-## Required Shots
-- 
+## Performance Notes
+
+- This video performed okay and within the standard range.
+- People **liked**:
+	- N/A.
+- People **disliked**:
+	- N/A.
+- The following may also be true:
+	- Very high competition (a ton of videos on the topic).
