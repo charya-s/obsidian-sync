@@ -3,9 +3,11 @@ The following is true:
 - High impressions count may correspond to:
 	a) more visibility of the video in search and recommendations.
 	b) larger search volume.
-- High view time corresponds to interesting content.
+- High view time corresponds to interesting/engaging content.
 
 
-Therefore, it can be theorized that:
+The following has been observed with regards to the channel:
 - Guides bring in more viewers overall.
-- Reviews are more interesting content to those who want it.
+- Reviews are only good close to the release of the game (not much before and definitely not much after).
+- Opinion pieces don’t really work - revisit these when you have a larger permanent audience.
+- 
