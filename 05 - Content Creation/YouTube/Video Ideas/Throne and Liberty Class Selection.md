@@ -52,7 +52,7 @@ In this video, we'll be going through each class combination and rating them in 
 - People **disliked**:
 	- The lack of information on which combinations are good/meta.
 	- A few inaccuracies in how some weapons work.
-- The following may also be true:
+- **Why I think it worked/didn’t work**:
 	- High search volume.
 	- Great timing with release.
 	- Good thumbnail.

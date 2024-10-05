@@ -127,5 +127,7 @@ Now that T&L has begun its early access, there’s a lot of conversation around 
 	- N/A.
 - People **disliked**:
 	- N/A.
-- The following may also be true:
-	- Very high competition (a ton of videos on the topic).
+- **Why I think it worked/didn’t work**:
+	- Very high competition.
+	- Opinion pieces only do well if you’re a large creator.
+	- Badly timed - the game has already been released, nobody is still looking at whether it’s P2W.
