@@ -1,6 +1,8 @@
-Consider the following postulates:
+The following is true:
 - High view count corresponds to more clicks based on title and thumbnail.
-- High impressions count corresponds to more visibility of the video in search and recommendations.
+- High impressions count may correspond to:
+	a) more visibility of the video in search and recommendations.
+	b) larger search volume.
 - High view time corresponds to interesting content.
 
 
