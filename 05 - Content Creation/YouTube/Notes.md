@@ -18,4 +18,4 @@ Keep these in mind when creating:
 	- It’s okay to predict upcoming search volume but ensure upcoming competition would still be low.
 - **Stick to Standard Titles**
 	- Don’t try fancy ones that would catch the eye of someone browsing the front page. You won’t be there.
-	- Stick to titles that wo
+	- Stick to titles that contain keywords.
