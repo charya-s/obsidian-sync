@@ -1,5 +1,5 @@
 - Notes
-	- [[What Topics Work]]
+	- [[Notes]]
 	- 
 - Video Ideas
 	- [[Throne and Liberty Class Selection]]
