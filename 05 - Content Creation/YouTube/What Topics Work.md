@@ -9,5 +9,5 @@ The following is true:
 The following has been observed with regards to the channel:
 - Guides bring in more viewers overall.
 - Reviews are only good close to the release of the game (not much before and definitely not much after).
-- Opinion pieces don’t really work - revisit these when you have a larger permanent audience.
+- Opinion pieces don’t really work **right now** - revisit these when you have a larger permanent audience.
 - 
