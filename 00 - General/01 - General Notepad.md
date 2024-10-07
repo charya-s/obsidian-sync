@@ -1,9 +1,22 @@
-- [ ] New video
+## Short-Term Tasks
+- [ ] YouTube.
+	- [ ] Un
 	- [ ] Settle on topic.
-	- [ ] Finish voice over.
-	- [ ] Gathering footage.
+	- [ ] Do voice over.
+	- [ ] Gather footage.
 	- [ ] Edit video and upload.
 
+- [ ]  NAITA.
+	- [ ] Upload Mock Exam solutions.
+	- [ ] Upload Sample Question solutions.
+
+- [ ] PhD.
+	- [ ] Finish literature review.
+	- [ ] Send final draft to Dr. Darwin.
+
+---
+## Long-Term Tasks
+ 
 - [ ] Math to learn.
 	- [ ] Linear algebra.
 	- [ ] Graph theory.
