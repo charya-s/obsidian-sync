@@ -7,8 +7,8 @@
 	- [ ] Edit video and upload.
 
 - [ ]  NAITA.
-	- [ ] Upload Mock Exam solutions.
-	- [ ] Upload Sample Question solutions.
+	- [x] Upload Mock Exam solutions.
+	- [x] Upload Sample Question solutions.
 	- [ ] Create material for Thursday (10 OCT).
 	- [ ] Create material for Monday (14 OCT).
 	- [ ] Create material for Wednesday (16 OCT).
