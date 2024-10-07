@@ -1,3 +1,7 @@
+--- 
+# DO YOUR WORK NOW, NOT LATER.
+
+---
 ## Short-Term Tasks
 - [ ] YouTube.
 	- [ ] Settle on topic.
@@ -30,6 +34,11 @@
 - [ ] Deep learning.
 	- [ ] Continue from: https://youtu.be/ErnWZxJovaM?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&t=2271
 
-- [ ] Obtrol
-- [ ] Roadwarrior
-- [ ] Skurkokli
+
+--- 
+## General Notes
+Try these tags in EU4:
+- Obtrol
+- Roadwarrior
+- Skurkokli
+
