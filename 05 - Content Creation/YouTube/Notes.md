@@ -23,6 +23,6 @@ Keep these in mind when creating:
 ---
 ### Rough Ideas
 
-- T&L Staff/Wand Guide: 10-12 October
-- T&L Co-op Dungeons Guide: 10-12 October 
+- T&L Staff/Crossbow Guide: 10-12 October
+- T&L Co-op Dungeons Guide: 10-12 October
 - Upcoming MMOs Nov/Dec: 16-18 October
