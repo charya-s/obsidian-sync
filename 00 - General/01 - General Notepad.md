@@ -1,7 +1,7 @@
 ## Short-Term Tasks
 - [ ] YouTube.
-	- [ ] Un
 	- [ ] Settle on topic.
+	- [ ] Research topic and progress to the level required.
 	- [ ] Do voice over.
 	- [ ] Gather footage.
 	- [ ] Edit video and upload.
@@ -9,6 +9,9 @@
 - [ ]  NAITA.
 	- [ ] Upload Mock Exam solutions.
 	- [ ] Upload Sample Question solutions.
+	- [ ] Create material for Thursday (10 OCT).
+	- [ ] Create material for Monday (14 OCT).
+	- [ ] Create material for Wednesday (16 OCT).
 
 - [ ] PhD.
 	- [ ] Finish literature review.
