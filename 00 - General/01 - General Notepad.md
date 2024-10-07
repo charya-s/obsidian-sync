@@ -1,3 +1,9 @@
+- [ ] New video
+	- [ ] Settle on topic.
+	- [ ] Finish voice over.
+	- [ ] Gathering footage.
+	- [ ] Edit video and upload.
+
 - [ ] Math to learn.
 	- [ ] Linear algebra.
 	- [ ] Graph theory.
