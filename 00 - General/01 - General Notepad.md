@@ -1,5 +1,5 @@
 --- 
-# DO YOUR WORK NOW, NOT LATER.
+# **DO YOUR WORK NOW, NOT LATER.**
 
 ---
 ## Short-Term Tasks
