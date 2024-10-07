@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
+                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
+            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
+            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md"
+            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md"
           }
         }
       },
@@ -150,35 +150,35 @@
   },
   "active": "1c3457e7b00e2d2d",
   "lastOpenFiles": [
-    "04 - Personal Studies/Math/00 - Math.md",
     "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
-    "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
-    "04 - Personal Studies/Math/Game Theory",
-    "04 - Personal Studies/Deep Learning/Forward Propagation.md",
-    "04 - Personal Studies/Deep Learning/Loss Functions.md",
-    "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
-    "04 - Personal Studies/Deep Learning/Perceptrons.md",
-    "04 - Personal Studies/Deep Learning/Activation Function.md",
-    "04 - Personal Studies/Deep Learning/Back Propagation.md",
-    "08 - Miscellaneous/00 - General Notepad.md",
-    "04 - Personal Studies/Math/Linear Algebra",
-    "04 - Personal Studies/Math/Basics of Mathematical Optimization.md",
-    "04 - Personal Studies/Math",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
-    "04 - Personal Studies/Languages/Mandarin/Locations.md",
-    "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
+    "99 - Meta/Templates/Template, Video Idea.md",
+    "99 - Meta/Templates/Template, Mandarin Study.md",
+    "99 - Meta/Templates/Template, Good Media.md",
+    "99 - Meta/Templates/Template, EU4.md",
+    "99 - Meta/Templates/Template, Daily Note.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Pay-to-Win.md",
+    "05 - Content Creation/YouTube/Notes.md",
+    "04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Locations (CN).md",
+    "04 - Personal Studies/Languages/Mandarin/Family (CN).md",
+    "04 - Personal Studies/Deep Learning/Activation Functions.md",
+    "/99 - Meta/Templates/Template, Video Idea.md",
+    "/99 - Meta/Templates/Template, Mandarin Study.md",
+    "/99 - Meta/Templates/Template, Good Media.md",
+    "/99 - Meta/Templates/Template, EU4.md",
+    "/99 - Meta/Templates/Template, Daily Note.md",
     "/08 - Miscellaneous/00 - General Notepad.md",
-    "99 - Meta/Templates/Template,EU4.md",
-    "99 - Meta/Templates/Template,VideoIdea.md",
-    "99 - Meta/Templates/Template,LanguageStudy.md",
-    "99 - Meta/Templates/Template,GoodMedia.md",
-    "99 - Meta/Templates/Template,DailyNote.md",
-    "07 - Gaming/Gaming.md",
-    "07 - Gaming/EU4 Tags.md",
-    "06 - Good Media/Movies/Memories of Murder.md",
-    "06 - Good Media/Books/Robots by Isaac Asimov.md",
-    "06 - Good Media/Anime/Neon Genesis Evangelion.md",
-    "06 - Good Media/00 - Good Media.md",
+    "/05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Pay-to-Win.md",
+    "/05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
+    "/05 - Content Creation/YouTube/Notes.md",
+    "/05 - Content Creation/YouTube/Collaboration Email Template.md",
+    "/05 - Content Creation/YouTube/00 - YouTube.md",
+    "/04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+    "/04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
+    "/04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
+    "04 - Personal Studies/Math/Game Theory",
+    "04 - Personal Studies/Math/Linear Algebra",
+    "04 - Personal Studies/Math",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922020055.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922015008.png",
     "04 - Personal Studies/Deep Learning/Images/Pasted image 20240922014719.png",
