@@ -19,3 +19,10 @@ Keep these in mind when creating:
 - **Stick to Standard Titles**
 	- Don’t try fancy ones that would catch the eye of someone browsing the front page. You won’t be there.
 	- Stick to titles that contain keywords.
+
+---
+### Rough Ideas
+
+- T&L Staff/Wand Guide: 10-12 October
+- T&L Co-op Dungeons Guide: 10-12 October 
+- Upcoming MMOs Nov/Dec: 16-18 October

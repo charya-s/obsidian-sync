@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+                "file": "05 - Content Creation/YouTube/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+            "file": "05 - Content Creation/YouTube/Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
+            "file": "05 - Content Creation/YouTube/Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md"
+            "file": "05 - Content Creation/YouTube/Notes.md"
           }
         }
       },
@@ -150,6 +150,7 @@
   },
   "active": "1c3457e7b00e2d2d",
   "lastOpenFiles": [
+    "04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
     "04 - Personal Studies/Math/Game Theory/Basic Game Theory.md",
     "99 - Meta/Templates/Template, Video Idea.md",
     "99 - Meta/Templates/Template, Mandarin Study.md",
@@ -175,7 +176,6 @@
     "/05 - Content Creation/YouTube/00 - YouTube.md",
     "/04 - Personal Studies/Math/Linear Algebra/Basics of Linear Algebra.md",
     "/04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
-    "/04 - Personal Studies/Languages/Mandarin/Measurements (CN).md",
     "04 - Personal Studies/Math/Game Theory",
     "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math",
