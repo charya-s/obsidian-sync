@@ -32,21 +32,21 @@
 
 ### Gear Build
 
-| Slot            | Interim Gear                          | End-game Gear |
-| --------------- | ------------------------------------- | ------------- |
-| Main Weapon     | Any blue, Staff of the Resistance     |               |
-| Off-hand Weapon | Any blue, Crossbows of the Resistance |               |
-| Helmet          | Any blue, Hood of the Resistance      |               |
-| Cloak           | Any blue                              |               |
-| Chest           | Any purple from                       |               |
-| Gloves          | Any blue                              |               |
-| Pants           |                                       |               |
-| Boots           |                                       |               |
-| Necklace        |                                       |               |
-| Bracelet        |                                       |               |
-| Ring 1          |                                       |               |
-| Ring 2          |                                       |               |
-| Belt            |                                       |               |
+| Slot            | Interim Gear                                                                               | End-game Gear               |
+| --------------- | ------------------------------------------------------------------------------------------ | --------------------------- |
+| Main Weapon     | Any blue, Staff of the Resistance                                                          |                             |
+| Off-hand Weapon | Any blue, Crossbows of the <br>Resistance                                                  |                             |
+| Helmet          | Any blue, Hood of the Resistance                                                           | Phantom Wolf Mask           |
+| Cloak           | Any blue                                                                                   | Supreme Devotion            |
+| Chest           | Any purple from completing <br>Chapter 10 of the codex, Heroic<br>Robes of the Resistance. | Phantom Wolf Tunic          |
+| Gloves          | Any blue, Gloves of the Resistance.                                                        | Shadow Harvester Grips      |
+| Pants           | Any blue,                                                                                  | Breeches of the Executioner |
+| Boots           | Any blue,                                                                                  | Shadow Harvester Boots      |
+| Necklace        | Any blue,                                                                                  | Wrapped Coin Necklace       |
+| Bracelet        | Any blue,                                                                                  | Bracers of the Primal King  |
+| Ring 1          | Any blue, Rutaine’s Ring of Wonder                                                         | Amber Dimensional Band      |
+| Ring 2          | Any blue,                                                                                  | Band of Universal Power     |
+| Belt            | Any blue,                                                                                  | Girdle of Spectral Skulls   |
 
 ### Outro
 - 
