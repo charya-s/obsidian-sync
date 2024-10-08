@@ -31,13 +31,22 @@
 - 
 
 ### Gear Build
-| Slot | Interim Gear | End-game Gear |
-| --–– | -------------–– | -----------------– |
 
-
-|     |     |
-| --- | --- |
-|     |     |
+| Slot            | Interim Gear                     | End-game Gear |
+| --------------- | -------------------------------- | ------------- |
+| Main Weapon     |                                  |               |
+| Off-hand Weapon |                                  |               |
+| Helmet          | Any blue, Hood of the Resistance |               |
+| Cloak           |                                  |               |
+| Chest           |                                  |               |
+| Gloves          |                                  |               |
+| Pants           |                                  |               |
+| Boots           |                                  |               |
+| Necklace        |                                  |               |
+| Bracelet        |                                  |               |
+| Ring 1          |                                  |               |
+| Ring 2          |                                  |               |
+| Belt            |                                  |               |
 
 ### Outro
 - 
