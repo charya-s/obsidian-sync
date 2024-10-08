@@ -13,7 +13,14 @@
 - 
 
 ### Playstyle
+- We fight from mid-range.
+- Constantly moving - realistically we’ll never be standing still and casting unless we absolutely can (we have a good tank drawing aggression).
+	- This is in contrast to both Staff/Wand and Staff/Longbow, who actually benefit from standing still when fighting.
+- The downsides of this combination are:
+	- The AoE isn’t as good as the Staff/Longbow or Staff/Wand.
+	- There’s not a lot of self-sustain, so you can’t really survive 
 - 
+	- Plus it makes up for this by being amazing at single-target DPS, which makes you hugely valuable in boss fights.
 
 ### Skills
 - 
