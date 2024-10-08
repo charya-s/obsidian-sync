@@ -1,4 +1,4 @@
-***Title***: “Throne and Liberty Global - How to  Staff/Crossbow! - Guide and Breakdown”
+***Title***: “Throne and Liberty Global - Ultimate PvE DPS Staff/Crossbow Guide and Breakdown”
 ***Topic***: Throne and Liberty, Guide
 ***Expected Publishing Date***: 10th - 12th October 2024.
 
