@@ -4,3 +4,4 @@
 - Video Ideas
 	- [[Throne and Liberty Class Selection]]
 	- [[Throne and Liberty Pay-to-Win]]
+	- [[Throne and Liberty Staff Crossbow Guide]]
