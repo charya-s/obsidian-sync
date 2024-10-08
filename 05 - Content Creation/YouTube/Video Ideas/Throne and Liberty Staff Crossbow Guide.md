@@ -22,12 +22,17 @@
 - The upsides of this combination are:
 	- It makes up for the reduced AoE by being amazing at single-target DPS, which makes you hugely valuable in boss fights.
 	- Since we’re never standing still, self-sustain isn’t as big of a deal since you get hit way less. Just using potions and making sure your movement is good will make up for it in most cases.
-
-### Skills
 - 
 
-### Rotation and Tips
+### Skill Build
 - 
+
+### Rotation and Playstyle
+- 
+
+### Gear Build
+| Slot | Interim Gear | End-game Gear |
+| -—– | -------------–– |  
 
 ### Outro
 - 
