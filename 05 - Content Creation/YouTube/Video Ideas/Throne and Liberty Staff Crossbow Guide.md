@@ -19,14 +19,15 @@
 ### General Information
 - This combination synergizes really, really well together and is based around two things: constant movement and damage over time through burning.
 - We fight from mid-range, only getting within melee range for one skill. Just one, so 95% of the time, you need to be moving and not standing close or standing still at all.
-	- Really, the only time it’s okay to be standing still is if it’s a boss fight and you have a good tank that’s always draw
-- Constantly moving - realistically we’ll never be standing still and casting unless we absolutely can (we have a good tank drawing aggression).
-	- This is in contrast to both Staff/Wand and Staff/Longbow, who actually benefit from standing still when fighting.
-- The downsides of this combination are:
-	- The AoE isn’t as good as the Staff/Longbow or Staff/Wand.
-	- There’s not a lot of self-sustain, so you need to be careful.
-- The upsides of this combination are:
-	- It makes up for the reduced AoE by being amazing at single-target DPS, which makes you hugely valuable in boss fights.
+	- Really, the only time it’s okay to be standing still is if it’s a boss fight and you have a good tank that’s always drawing aggro and there’s no danger of you being chased by the boss.
+- So that’s the general playstyle of the combination, we’ll get into the details in a bit but before we do, we need to acknowledge that there are a couple of major downsides to this combination.
+	- The first is that the AoE damage isn’t as good as the Staff/Longbow or Staff/Wand.
+		- The crossbow is simply not an AoE focused weapon so you do lose a bit of that.
+	- The second issue is that there’s not a lot of self-sustain.
+		- Now, I say “not a lot”, but really, it’s pretty much zero, so you need to be careful when you’re soloing because getting hit kinda sucks. 
+- That said though, there are also a couple of major upsides to this combination.
+	- Firstly, it makes up for the reduced AoE damage by being absolutely amazing at single-target DPS.
+		- This makes you really valuable in boss fights and if you Which makes you hugely valuable in boss fights.
 	- Since we’re never standing still, self-sustain isn’t as big of a deal since you get hit way less. Just using potions and making sure your movement is good will make up for it in most cases.
 - 
 
