@@ -17,7 +17,9 @@
 - For more MMO-related content, make sure to subscribe to my channel below but let’s stop dillying and dallying and jump right into it.
 
 ### General Information
-- We fight from mid-range.
+- This combination synergizes really, really well together and is based around two things: constant movement and damage over time through burning.
+- We fight from mid-range, only getting within melee range for one skill. Just one, so 95% of the time, you need to be moving and not standing close or standing still at all.
+	- Really, the only time it’s okay to be standing still is if it’s a boss fight and you have a good tank that’s always draw
 - Constantly moving - realistically we’ll never be standing still and casting unless we absolutely can (we have a good tank drawing aggression).
 	- This is in contrast to both Staff/Wand and Staff/Longbow, who actually benefit from standing still when fighting.
 - The downsides of this combination are:
