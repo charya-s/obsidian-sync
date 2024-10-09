@@ -56,7 +56,7 @@
 | Bracelet        | Any blue,                                                                                  |              | Bracers of the Primal King        | Cave of Destruction reward.                                                                            |
 | Ring 1          | Any blue, Rutaine’s Ring of Wonder                                                         |              | Amber Dimensional Band            |                                                                                                        |
 | Ring 2          | Any blue,                                                                                  |              | Band of Universal Power           | Queen Bellandir the Archboss, who will be available from the 21st of October onwards.<br><br>Weeklies: |
-| Belt            | Any blue,                                                                                  |              | Girdle of Spectral Skulls         |                                                                                                        |
+| Belt            | Any blue,                                                                                  |              | Girdle of Spectral Skulls         | Adentus in the Ruins of Turayne.                                                                       |
 
 ### Outro
 - And there you have it, that was the all-in-one guide to the Staff/Crossbow combination in Throne and Liberty!
