@@ -59,7 +59,12 @@
 | Belt            | Any blue,                                                                                  | Girdle of Spectral Skulls   |
 
 ### Outro
-- 
+- And there you have it, that was the all-in-one guide to the Staff/Crossbow combination in Throne and Liberty!
+- I’ve been playing this combination since the game launched globally and it’s definitely one of the most fun classes I’ve played so far.
+- Yes, it’s not the easiest because you really need to pay attention to make sure you’re avoiding getting hit, but in my opinion a higher skill ceiling just makes it more fun.
+- Besides, once you do learn to use it effectively, it becomes an insane class capable of being around top in most activities in the game.
+- Anyway, I hope I’ve encouraged you to give this combination a go or if you already are, helped you understand it a bit better. 
+- As always, make sure to subscribe to my channel below for more MMO-related content but beyond that, thank you for watching and I’ll see you guys next time.
 
 
 ---
