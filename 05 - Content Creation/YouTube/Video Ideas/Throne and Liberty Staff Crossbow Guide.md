@@ -27,9 +27,12 @@
 		- Now, I say “not a lot”, but really, it’s pretty much zero, so you need to be careful when you’re soloing because getting hit kinda sucks. 
 - That said though, there are also a couple of major upsides to this combination.
 	- Firstly, it makes up for the reduced AoE damage by being absolutely amazing at single-target DPS.
-		- This makes you really valuable in boss fights and if you Which makes you hugely valuable in boss fights.
-	- Since we’re never standing still, self-sustain isn’t as big of a deal since you get hit way less. Just using potions and making sure your movement is good will make up for it in most cases.
-- 
+		- This makes you really valuable in boss fights and you’ll often top out the DPS charts in dungeons because of it.
+	- The second thing is that since we’re never really standing still, self-sustain isn’t actually as big of a deal since you end up getting hit way less as a result. 
+- Now, the last thing I wanna mention, and I’m being super honest here because fraud is a crime, is that this combination is not very good when you’re solo early on in the game. 
+	- I don’t mean during levelling, I mean when you’ve just reached endgame and you’re starting to do Abyss dungeons and such, you might struggle a bit.
+	- This changes a lot though, as you gear up and improve you health regen and magic and range endurance values, you’re gonna start clearing dungeons incredibly fast.
+- But okay, we’re getting ahead of ourselves. Let’s start by looking at… The Skill Build.
 
 ### Skill Build
 - 
