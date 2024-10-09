@@ -10,7 +10,11 @@
 ## Notes
 
 ### Intro
-- 
+- Hello everybody and welcome to another Throne and Liberty video where this time, we’re gonna talk about the Staff/Crossbow combination and how you can maximize your DPS when playing it.
+- Now, this is a bit of an off-meta combination but don’t let that fool you. Yes, there are a few downsides which we’ll talk about it in a bit but this combination is unreasonably good at DPS and it’s actually very easy for you to top out in dungeons.
+- I actually think this combination is kind of a hidden gem so if you are interested in it, keep watching because we’re gonna try and cover everything about it.
+- As always, timestamps are available below if you just wanna see the skill build, gearing guide, or any other section.
+- For more MMO-related content, make sure to subscribe to my channel below but let’s stop dillying and dallying and jump right into it.
 
 ### General Information
 - We fight from mid-range.
