@@ -4,8 +4,8 @@
 ---
 ## Short-Term Tasks
 - [ ] YouTube.
-	- [ ] Settle on topic.
-	- [ ] Research topic and progress to the level required.
+	- [x] Settle on topic.
+	- [x] Research topic and progress to the level required.
 	- [ ] Do voice over.
 	- [ ] Gather footage.
 	- [ ] Edit video and upload.
