@@ -37,20 +37,20 @@
 ### Skill Build
 ###### Actives
 
-| Skill                   | Specialization                                                  | Notes |
-| ----------------------- | --------------------------------------------------------------- | ----- |
-| Quick Fire              | Gale, Min Chain Fire                                            |       |
-| Serial Fire Bombs       | Focused Fire Bombs,<br>Mobility, <br>Projectile Speed Increased |       |
-| Merciless Barrage       | Annihilation Barrage Shot                                       |       |
-| Chain Lightning         | Damage Transfer,<br>Damage Transfer                             |       |
-| Recoil Shot             | Wave Shot, <br>Off-Hand Weapon Attack                           |       |
-| Inferno Wave            | Consecutive Use,<br>Burning                                     |       |
-| Judgement Lightning     | Damage Transfer,<br>Damage Transfer                             |       |
-| Infernal Meteor         | -                                                               |       |
-| Selfless Diffusion      | Aggression                                                      |       |
-| Mana Exchange           | Skill Effect Enhanced, <br>Stamina Recovery                     |       |
-| Mother Nature’s Protest | Flame Arrow                                                     |       |
-| High Focus              | Base Damage Boost                                               |       |
+| Skill                   | Specialization                                                  | Notes                  | Specialization Notes |
+| ----------------------- | --------------------------------------------------------------- | ---------------------- | -------------------- |
+| Quick Fire              | Gale, Min Chain Fire                                            | Basic crossbow attack. |                      |
+| Serial Fire Bombs       | Focused Fire Bombs,<br>Mobility, <br>Projectile Speed Increased |                        |                      |
+| Merciless Barrage       | Annihilation Barrage Shot                                       |                        |                      |
+| Chain Lightning         | Damage Transfer,<br>Damage Transfer                             |                        |                      |
+| Recoil Shot             | Wave Shot, <br>Off-Hand Weapon Attack                           |                        |                      |
+| Inferno Wave            | Consecutive Use,<br>Burning                                     |                        |                      |
+| Judgement Lightning     | Damage Transfer,<br>Damage Transfer                             |                        |                      |
+| Infernal Meteor         | -                                                               |                        |                      |
+| Selfless Diffusion      | Aggression                                                      |                        |                      |
+| Mana Exchange           | Skill Effect Enhanced, <br>Stamina Recovery                     |                        |                      |
+| Mother Nature’s Protest | Flame Arrow                                                     |                        |                      |
+| High Focus              | Base Damage Boost                                               |                        |                      |
 ###### Passives
 
 | Skill               | Notes                                                                                                                                                                                                        |
