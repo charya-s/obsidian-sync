@@ -35,7 +35,22 @@
 - But okay, we’re getting ahead of ourselves. Let’s start by looking at… The Skill Build.
 
 ### Skill Build
-- 
+Active Skills:
+| Skill       | Notes                             |
+| ----------- | --------------------------------- |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+|             |                                   |
+
 
 ### Rotation and Playstyle
 - 
