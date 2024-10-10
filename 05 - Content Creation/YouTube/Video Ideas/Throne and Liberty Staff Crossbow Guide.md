@@ -35,20 +35,20 @@
 - But okay, we’re getting ahead of ourselves. Let’s start by looking at… The Skill Build.
 
 ### Skill Build
-| Skill                   | Notes |
-| ----------------------- | ----- |
-| Quick Fire              |       |
-| Serial Fire Bombs       |       |
-| Merciless Barrage       |       |
-| Chain Lightning         |       |
-| Recoil Shot             |       |
-| Inferno Wave            |       |
-| Judgement Lightning     |       |
-| Infernal Meteor         |       |
-| Selfless Diffusion      |       |
-| Mana Exchange           |       |
-| Mother Nature’s Protest |       |
-| High Focus              |       |
+| Skill                   | Specialization                    | Notes |
+| ----------------------- | --------------------------------- | ----- |
+| Quick Fire              | Gale, Min Chain Fire              |       |
+| Serial Fire Bombs       |                                   |       |
+| Merciless Barrage       | Annihilation Barrage Shot         |       |
+| Chain Lightning         |                                   |       |
+| Recoil Shot             | Wave Shot, Off-Hand Weapon Attack |       |
+| Inferno Wave            |                                   |       |
+| Judgement Lightning     |                                   |       |
+| Infernal Meteor         |                                   |       |
+| Selfless Diffusion      |                                   |       |
+| Mana Exchange           |                                   |       |
+| Mother Nature’s Protest |                                   |       |
+| High Focus              |                                   |       |
 
 | Skill               | Notes |
 | ------------------- | ----- |
@@ -56,10 +56,10 @@
 | Mana Amp            |       |
 | Flame Condensation  |       |
 | Forbidden Sanctuary |       |
-|                     |       |
-|                     |       |
-|                     |       |
-|                     |       |
+| Eagle Vision        |       |
+| Ambidexterity       |       |
+| Piercing Strike     |       |
+| Detection           |       |
 
 
 ### Rotation and Playstyle
