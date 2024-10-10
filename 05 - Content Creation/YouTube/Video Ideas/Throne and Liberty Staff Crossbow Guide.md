@@ -35,20 +35,20 @@
 - But okay, we’re getting ahead of ourselves. Let’s start by looking at… The Skill Build.
 
 ### Skill Build
-| Skill                   | Specialization                    | Notes |
-| ----------------------- | --------------------------------- | ----- |
-| Quick Fire              | Gale, Min Chain Fire              |       |
-| Serial Fire Bombs       |                                   |       |
-| Merciless Barrage       | Annihilation Barrage Shot         |       |
-| Chain Lightning         |                                   |       |
-| Recoil Shot             | Wave Shot, Off-Hand Weapon Attack |       |
-| Inferno Wave            |                                   |       |
-| Judgement Lightning     |                                   |       |
-| Infernal Meteor         |                                   |       |
-| Selfless Diffusion      |                                   |       |
-| Mana Exchange           |                                   |       |
-| Mother Nature’s Protest |                                   |       |
-| High Focus              |                                   |       |
+| Skill                   | Specialization                                                  | Notes |
+| ----------------------- | --------------------------------------------------------------- | ----- |
+| Quick Fire              | Gale, Min Chain Fire                                            |       |
+| Serial Fire Bombs       | Focused Fire Bombs,<br>Mobility, <br>Projectile Speed Increased |       |
+| Merciless Barrage       | Annihilation Barrage Shot                                       |       |
+| Chain Lightning         | Damage Transfer,<br>Damage Transfer                             |       |
+| Recoil Shot             | Wave Shot, <br>Off-Hand Weapon Attack                           |       |
+| Inferno Wave            | Consecutive Use,<br>Burning                                     |       |
+| Judgement Lightning     | Damage Transfer,<br>Damage Transfer                             |       |
+| Infernal Meteor         | -                                                               |       |
+| Selfless Diffusion      | Aggression                                                      |       |
+| Mana Exchange           | Skill Effect Enhanced, <br>Stamina Recovery                     |       |
+| Mother Nature’s Protest | Flame Arrow                                                     |       |
+| High Focus              | Base Damage Boost                                               |       |
 
 | Skill               | Notes |
 | ------------------- | ----- |
