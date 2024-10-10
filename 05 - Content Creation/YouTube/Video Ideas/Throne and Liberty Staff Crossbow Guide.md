@@ -50,16 +50,16 @@
 | Mother Nature’s Protest | Flame Arrow                                                     |       |
 | High Focus              | Base Damage Boost                                               |       |
 
-| Skill               | Notes |
-| ------------------- | ----- |
-| Manaball Eruption   |       |
-| Mana Amp            |       |
-| Flame Condensation  |       |
-| Forbidden Sanctuary |       |
-| Eagle Vision        |       |
-| Ambidexterity       |       |
-| Piercing Strike     |       |
-| Detection           |       |
+| Skill               | Notes                                                                                                                                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Manaball Eruption   | Extra damage that scales with mana regen which is gonna be a big focus for this build.                                                                                                                       |
+| Mana Amp            | Increases max mana and health which is just always good.                                                                                                                                                     |
+| Flame Condensation  | Increases the damage over time of Burning, which actually is a big chunk of the DPS of this build.                                                                                                           |
+| Forbidden Sanctuary | Increases skill damage which is really nice.                                                                                                                                                                 |
+| Eagle Vision        | Boosts your Magic and Ranged Hit Chances. The increase goes up with distance but honestly, you don’t need to think about distance at all, just attack as you see fit and the boost is more than good enough. |
+| Ambidexterity       | Boosts the damage and critical hit                                                                                                                                                                           |
+| Piercing Strike     |                                                                                                                                                                                                              |
+| Detection           |                                                                                                                                                                                                              |
 
 
 ### Rotation and Playstyle
