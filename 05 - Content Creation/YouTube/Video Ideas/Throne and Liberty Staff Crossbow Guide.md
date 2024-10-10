@@ -57,8 +57,8 @@
 | Flame Condensation  | Increases the damage over time of Burning, which actually is a big chunk of the DPS of this build.                                                                                                           |
 | Forbidden Sanctuary | Increases skill damage which is really nice.                                                                                                                                                                 |
 | Eagle Vision        | Boosts your Magic and Ranged Hit Chances. The increase goes up with distance but honestly, you don’t need to think about distance at all, just attack as you see fit and the boost is more than good enough. |
-| Ambidexterity       | Boosts the damage and critical hit                                                                                                                                                                           |
-| Piercing Strike     |                                                                                                                                                                                                              |
+| Ambidexterity       | Boosts the damage of your off-hand weapon and boosts critical hit. Since we attack with both weapons, this is good no matter which of the two is your off-hand weapon.                                       |
+| Bloodlust           | Increases bonus damage and stamina regen, and it scales a lot as you level it up.                                                                                                                            |
 | Detection           |                                                                                                                                                                                                              |
 
 
