@@ -35,6 +35,8 @@
 - But okay, we’re getting ahead of ourselves. Let’s start by looking at… The Skill Build.
 
 ### Skill Build
+###### Actives
+
 | Skill                   | Specialization                                                  | Notes |
 | ----------------------- | --------------------------------------------------------------- | ----- |
 | Quick Fire              | Gale, Min Chain Fire                                            |       |
@@ -49,6 +51,7 @@
 | Mana Exchange           | Skill Effect Enhanced, <br>Stamina Recovery                     |       |
 | Mother Nature’s Protest | Flame Arrow                                                     |       |
 | High Focus              | Base Damage Boost                                               |       |
+###### Passives
 
 | Skill               | Notes                                                                                                                                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -58,8 +61,8 @@
 | Forbidden Sanctuary | Increases skill damage which is really nice.                                                                                                                                                                 |
 | Eagle Vision        | Boosts your Magic and Ranged Hit Chances. The increase goes up with distance but honestly, you don’t need to think about distance at all, just attack as you see fit and the boost is more than good enough. |
 | Ambidexterity       | Boosts the damage of your off-hand weapon and boosts critical hit. Since we attack with both weapons, this is good no matter which of the two is your off-hand weapon.                                       |
-| Bloodlust           | Increases bonus damage and stamina regen, and it scales a lot as you level it up.                                                                                                                            |
-| Detection           |                                                                                                                                                                                                              |
+| Bloodlust           | Increases skill damage and every ten attacks, increases crit damage. This requires no manual input and it’s a nice boost to have that scales a lot as you level it up.                                       |
+| Detection           | Whenever you get hit, there’s a chance you’ll gain additional movement speed and evasion, which can really help you survive if you get mobbed.                                                               |
 
 
 ### Rotation and Playstyle
