@@ -35,21 +35,31 @@
 - But okay, we’re getting ahead of ourselves. Let’s start by looking at… The Skill Build.
 
 ### Skill Build
-Active Skills:
-| Skill       | Notes                             |
-| ----------- | --------------------------------- |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
-|             |                                   |
+| Skill                   | Notes |
+| ----------------------- | ----- |
+| Quick Fire              |       |
+| Serial Fire Bombs       |       |
+| Merciless Barrage       |       |
+| Chain Lightning         |       |
+| Recoil Shot             |       |
+| Inferno Wave            |       |
+| Judgement Lightning     |       |
+| Infernal Meteor         |       |
+| Selfless Diffusion      |       |
+| Mana Exchange           |       |
+| Mother Nature’s Protest |       |
+| High Focus              |       |
+
+| Skill               | Notes |
+| ------------------- | ----- |
+| Manaball Eruption   |       |
+| Mana Amp            |       |
+| Flame Condensation  |       |
+| Forbidden Sanctuary |       |
+|                     |       |
+|                     |       |
+|                     |       |
+|                     |       |
 
 
 ### Rotation and Playstyle
