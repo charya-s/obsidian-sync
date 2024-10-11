@@ -98,6 +98,9 @@
 - Okay, so with the skills out of the way, the last thing I wanna talk about is gear. 
 - There’s two sets of gear you’ll have over time: one interim set that’s made up of blue or rare equipment and one end-game set that’s made up of purple or epic equipment.
 - Okay, with that in mind, let’s start by looking at the interim set.
+- Now before I talk about specific pieces of equipment, I wanna point out that for this interim set, you don’t actually need to match it one-to-one. 
+- Any full set of blues will work perfectly well since the whole point of this set is just to hold you over while you work on the end-game set.
+- The specific blue pieces I’ll be about are just my recommendation and where to 
 
 | Slot            | Interim Gear                               | Where to Get                                    | End-game Gear                     | Where to Get                                                                                                                                                                                   |
 | --------------- | ------------------------------------------ | ----------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
