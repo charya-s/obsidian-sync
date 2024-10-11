@@ -58,16 +58,16 @@
 | 12  | **High Focus**              | Base Damage Boost                                               | Self-buff that increases cooldown speed and movement speed.                                                  | Adds a damage boost to the buff.                                                                                                                                                          | Pretty much keep active at all times, on cooldown.                                                                                |
 ##### Passives
 
-| Skill               | Notes                                                                                                                                                                                                        |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Manaball Eruption   | Extra damage that scales with mana regen which is gonna be a big focus for this build.                                                                                                                       |
-| Mana Amp            | Increases max mana and health which is just always good.                                                                                                                                                     |
-| Flame Condensation  | Increases the damage over time of Burning, which actually is a big chunk of the DPS of this build.                                                                                                           |
-| Forbidden Sanctuary | Increases skill damage which is really nice.                                                                                                                                                                 |
-| Eagle Vision        | Boosts your Magic and Ranged Hit Chances. The increase goes up with distance but honestly, you don’t need to think about distance at all, just attack as you see fit and the boost is more than good enough. |
-| Ambidexterity       | Boosts the damage of your off-hand weapon and boosts critical hit. Since we attack with both weapons, this is good no matter which of the two is your off-hand weapon.                                       |
-| Bloodlust           | Increases skill damage and every ten attacks, increases crit damage. This requires no manual input and it’s a nice boost to have that scales a lot as you level it up.                                       |
-| Detection           | Whenever you get hit, there’s a chance you’ll gain additional movement speed and evasion, which can really help you survive if you get mobbed.                                                               |
+| No. | Skill               | Notes                                                                                                                                                                                                        |
+| --- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Manaball Eruption   | Extra damage that scales with mana regen which is gonna be a big focus for this build.                                                                                                                       |
+| 2   | Mana Amp            | Increases max mana and health which is just always good.                                                                                                                                                     |
+| 3   | Flame Condensation  | Increases the damage over time of Burning, which actually is a big chunk of the DPS of this build.                                                                                                           |
+| 4   | Forbidden Sanctuary | Increases skill damage which is really nice.                                                                                                                                                                 |
+| 5   | Eagle Vision        | Boosts your Magic and Ranged Hit Chances. The increase goes up with distance but honestly, you don’t need to think about distance at all, just attack as you see fit and the boost is more than good enough. |
+| 6   | Ambidexterity       | Boosts the damage of your off-hand weapon and boosts critical hit. Since we attack with both weapons, this is good no matter which of the two is your off-hand weapon.                                       |
+| 7   | Bloodlust           | Increases skill damage and every ten attacks, increases crit damage. This requires no manual input and it’s a nice boost to have that scales a lot as you level it up.                                       |
+| 8   | Detection           | Whenever you get hit, there’s a chance you’ll gain additional movement speed and evasion, which can really help you survive if you get mobbed.                                                               |
 
 
 ### Rotation and Playstyle
