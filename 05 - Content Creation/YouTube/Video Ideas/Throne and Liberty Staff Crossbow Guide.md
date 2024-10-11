@@ -1,4 +1,4 @@
-***Title***: “Throne and Liberty Global: All-In-One Staff/Crossbow Guide and Breakdown”
+***Title***: “Throne and Liberty Global: ULTIMATE All-in-One Staff/Crossbow Guide”
 ***Topic***: Throne and Liberty, Guide
 ***Expected Publishing Date***: 10th - 12th October 2024.
 
