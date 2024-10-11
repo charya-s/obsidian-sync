@@ -71,7 +71,10 @@
 
 
 ### Rotation and Playstyle
-- 
+- Let’s start with the buffs:
+	- First and forement, Mother Nature’s Protest should be toggled on at all times. Yes, it does increase mana costs but the increase in DPS is very significant and it’s worth having it on all the time.
+	- Selfless Diffusion and High Focus should be used on cooldown whenever available because they impact your DPS a lot and there’s never a reason not to keep them up as much as possible.
+	- 
 
 ### Gear Build
 
