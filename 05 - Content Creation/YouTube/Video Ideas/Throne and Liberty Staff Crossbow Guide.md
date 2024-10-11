@@ -9,7 +9,8 @@
 -----
 ## Notes
 
-### Intro
+### Intro 
+*Duration: 40s.* 
 - Hello everybody and welcome to another Throne and Liberty video where this time, we’re gonna talk about the Staff/Crossbow combination and how you can maximize your DPS when playing it.
 - Now, this is a bit of an off-meta combination but don’t let that fool you. Yes, there are a few downsides which we’ll talk about it in a bit but this combination is unreasonably good at DPS and it’s actually very easy for you to top out in dungeons.
 - I actually think this combination is kind of a hidden gem so if you are interested in it, keep watching because we’re gonna try and cover everything about it.
@@ -17,6 +18,7 @@
 - For more MMO-related content, make sure to subscribe to my channel below but let’s stop dillying and dallying and jump right into it.
 
 ### General Information
+*Duration: 116s.* 
 - This combination synergizes really, really well together and is based around two things: constant movement and damage over time through burning.
 - We fight from mid-range, only getting within melee range for one skill. Just one, so 95% of the time, you need to be moving and not standing close or standing still at all.
 	- Really, the only time it’s okay to be standing still is if it’s a boss fight and you have a good tank that’s always drawing aggro and there’s no danger of you being chased by the boss.
@@ -50,7 +52,7 @@
 | Selfless Diffusion      | Aggression                                                      | Self-buff that decreases cooldowns and boosts damage a bit.                                                  | Reduces the aggression you gain when you attack which is nice for staying safe in group content.                                                                                          | Pretty much keep active at all times, on cooldown.                                                                                |
 | Mana Exchange           | Skill Effect Enhanced, <br>Stamina Recovery                     | Consumes HP to regain MP.                                                                                    | Increases the HP cost and the MP regained and we get added stamina recovery which is nice.                                                                                                | You don’t need this as much, but it’s nice to have for when you run out of mana which happens relatively often.                   |
 | Mother Nature’s Protest | Flame Arrow                                                     | Toggled skill which basically makes all your projectile attacks from both weapons shoot a second projectile. | The second projectile is a flame arrow which applies Burning.                                                                                                                             | You essentially want this activated all the time, with no exceptions whatsoever. The damage boost is very significant.            |
-| High Focus              | Base Damage Boost                                               | Self-buff that increases cooldown speed and movement speed.                                                  |                                                                                                                                                                                           |                                                                                                                                   |
+| High Focus              | Base Damage Boost                                               | Self-buff that increases cooldown speed and movement speed.                                                  | Adds a damage boost to the buff.                                                                                                                                                          | Pretty much keep active at all times, on cooldown.                                                                                |
 ###### Passives
 
 | Skill               | Notes                                                                                                                                                                                                        |
@@ -87,6 +89,7 @@
 | Belt            | Any blue,                                  |                                                 | Girdle of Spectral Skulls         | Adentus the field boss in the Ruins of Turayne.                                                                                                                                                |
 
 ### Outro
+*Duration: 40s.* 
 - And there you have it, that was the all-in-one guide to the Staff/Crossbow combination in Throne and Liberty!
 - I’ve been playing this combination since the game launched globally and it’s definitely one of the most fun classes I’ve played so far.
 - Yes, it’s not the easiest because you really need to pay attention to make sure you’re avoiding getting hit, but in my opinion a higher skill ceiling just makes it more fun.

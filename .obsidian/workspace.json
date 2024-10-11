@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e5e289d49c1715e",
+        "id": "ff291f307e6e3351",
         "type": "tabs",
         "children": [
           {
-            "id": "0c7a37e458f75771",
+            "id": "18cc269bd72687dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c7a37e458f75771",
+  "active": "18cc269bd72687dd",
   "lastOpenFiles": [
+    "05 - Content Creation/YouTube/00 - YouTube.md",
+    "99 - Meta/Templates/Template, Video Idea.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Pay-to-Win.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Staff Crossbow Guide.md",
     "03 - Work/NAITA/Delegated Properties.md",
     "03 - Work/NAITA/Reflection.md",
     "03 - Work/NAITA/DSL Building.md",
@@ -165,13 +169,9 @@
     "03 - Work/00 - Work.md",
     "03 - Work/NAITA",
     "03 - Work/Job Applications.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Staff Crossbow Guide.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Pay-to-Win.md",
     "00 - General/01 - General Notepad.md",
-    "99 - Meta/Templates/Template, Video Idea.md",
     "Throne and Libery Staff/Csrossbow Guide.md",
     "05 - Content Creation/YouTube/Notes.md",
-    "05 - Content Creation/YouTube/00 - YouTube.md",
     "Throne and Libery Staff",
     "05 - Content Creation/YouTube/Collaboration Email Template.md",
     "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
