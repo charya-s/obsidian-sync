@@ -79,7 +79,8 @@
 	- Priority attacks should be used on cooldown whenever they’re available while filler attacks are best used in between them.
 	- Situational attacks are only useful in specific scenarios which we’ll talk about in a sec.
 - The first priority attack is Focused Fire Bombs. This does a very nice chunk of damage and applies burning, which is not just a damage over time, but also boosts the damage of other skills.
-- The next priority attack is Recoil Shot, but only with 3 stacks of Repulsive Force.
+- The next priority attack is Recoil Shot, but only with 3 stacks of Repulsive Force. Using this skill without 3 stacks of repulsive force is pretty much never recommended, since there’s a pretty big difference in the amount of damage.
+- Then, you have Judgement Lightning. Yes, this does more damage if burning is applied and it’s good to have burning applied when you use this, but realistically, you should have b
 
 ### Gear Build
 
