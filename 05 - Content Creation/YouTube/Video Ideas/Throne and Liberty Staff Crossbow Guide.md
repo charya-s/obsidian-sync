@@ -107,7 +107,9 @@
 - Well, before we talk about that, I wanna mention that I’m not going to go into the specific traits of each piece of equipment in this video because I wanna focus more on the equipment themselves and where to get that. 
 - That said, there will be a link in the description below to the full build, which does includes traits as well so do make sure to check that out if you want to know which ones are best.
 - In terms of stats, the equipment we’ll be going with were chosen to maximize a few things.
-	- Furs
+	- Firstly, mana regen. This combination is quite mana-hungry and we a passive that boosts damage with mana regen so maximizing this is a big priority.
+	- Then, we try to stack dexterity as much as possible since it directly determines our DPS.
+	- After that, we add on critical hit chance, cooldown reduction and debuff duration reduction where possible. 
 
 | Slot            | Interim Gear                               | Where to Get                                    | End-game Gear                     | Where to Get                                                                                                                                                                                   |
 | --------------- | ------------------------------------------ | ----------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
