@@ -93,14 +93,16 @@
 	- Now, both of these skills are still very good in two situations: one is if you’ve gathered a mobs and you feel safe that they can’t do a lot of damage to you while you use these skills. The other is during group content, whether that’s a boss or just farming in a group, where a tank or another teammate is controlling aggro and you’re not in danger of being hit. In either of these scenarios, both of these skills can become priority attacks because of the amount of damage they can do, but outside of those scenarios, they should be used pretty cautiously.
 - Okay, so those are the skills of this class. Hopefully, categorizing them into categories like this helps you understand them a bit better without forcing you into strict rotations.
 
-### Gear Build
+### Blue & Purple Gear Builds
 *Duration: 00s.* 
 - Okay, so with the skills out of the way, the last thing I wanna talk about is gear. 
 - There’s two sets of gear you’ll have over time: one interim set that’s made up of blue or rare equipment and one end-game set that’s made up of purple or epic equipment.
 - Okay, with that in mind, let’s start by looking at the interim set.
 - Now before I talk about specific pieces of equipment, I wanna point out that for this interim set, you don’t actually need to match it one-to-one. 
 - Any full set of blues will work perfectly well since the whole point of this set is just to hold you over while you work on the end-game set.
-- The specific blue pieces I’ll be about are just my recommendation and where to 
+- The specific blue pieces I’ll be about are just my recommendation and where to get them. 
+- **Go through table.**
+- Now, again, and I really wanna make this clear: you can swap these blue pieces out as you want, because it’s just an interim set to use while working towards the purple gear.
 
 | Slot            | Interim Gear                               | Where to Get                                    | End-game Gear                     | Where to Get                                                                                                                                                                                   |
 | --------------- | ------------------------------------------ | ----------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
