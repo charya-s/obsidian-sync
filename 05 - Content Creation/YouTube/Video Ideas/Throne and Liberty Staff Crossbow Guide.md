@@ -95,7 +95,9 @@
 
 ### Gear Build
 *Duration: 00s.* 
-- Okay, so with the skills out of the way, the last thing I wanna talk about is gear. Now, let me preface this by sa
+- Okay, so with the skills out of the way, the last thing I wanna talk about is gear. 
+- There’s two sets of gear you’ll have over time: one interim set that’s made up of blue or rare equipment and one end-game set that’s made up of purple or epic equipment.
+- Okay, with that in mind, let’s start by looking at the interim set.
 
 | Slot            | Interim Gear                               | Where to Get                                    | End-game Gear                     | Where to Get                                                                                                                                                                                   |
 | --------------- | ------------------------------------------ | ----------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
