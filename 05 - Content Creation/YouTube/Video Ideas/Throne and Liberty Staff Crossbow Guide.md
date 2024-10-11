@@ -73,8 +73,13 @@
 ### Rotation and Playstyle
 - Let’s start with the buffs:
 	- First and forement, Mother Nature’s Protest should be toggled on at all times. Yes, it does increase mana costs but the increase in DPS is very significant and it’s worth having it on all the time.
-	- Selfless Diffusion and High Focus should be used on cooldown whenever available because they impact your DPS a lot and there’s never a reason not to keep them up as much as possible.
-	- 
+	- Selfless Diffusion and High Focus aren’t toggled but should be used on cooldown whenever available because they impact your DPS a lot and there’s never a reason not to keep them up as much as possible.
+	- Mana Exchange, on the other hand, should only really be used if you have plenty of health and you’re running out of mana. It is useful but you don’t need to use it outside of that scenario.
+- Then for damage, there’s three types of attacks: priority attacks, filler attacks and situational attacks.
+	- Priority attacks should be used on cooldown whenever they’re available while filler attacks are best used in between them.
+	- Situational attacks are only useful in specific scenarios which we’ll talk about in a sec.
+- The first priority attack is Focused Fire Bombs. This does a very nice chunk of damage and applies burning, which is not just a damage over time, but also boosts the damage of other skills.
+- The next priority attack is Recoil Shot, but only with 3 stacks of Repulsive Force.
 
 ### Gear Build
 
