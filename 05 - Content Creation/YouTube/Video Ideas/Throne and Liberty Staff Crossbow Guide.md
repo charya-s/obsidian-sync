@@ -103,6 +103,8 @@
 - The specific blue pieces I’ll be about are just my recommendation and where to get them. 
 - **Go through table.**
 - Now, again, and I really wanna make this clear: you can swap these blue pieces out as you want, because it’s just an interim set to use while working towards the purple gear.
+- Okay, so speaking of the purple gear, what does that set look like?
+- Well, before we talk about that, I wanna mention that I’m not going to go into the specific traits in this video. Th
 
 | Slot            | Interim Gear                               | Where to Get                                    | End-game Gear                     | Where to Get                                                                                                                                                                                   |
 | --------------- | ------------------------------------------ | ----------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
