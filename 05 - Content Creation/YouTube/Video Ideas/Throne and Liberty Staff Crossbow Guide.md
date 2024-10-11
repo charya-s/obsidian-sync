@@ -71,6 +71,7 @@
 
 
 ### Rotation and Playstyle
+*Duration: 00s.* 
 - Let’s start with the buffs:
 	- First and foremost, Mother Nature’s Protest should be toggled on at all times. Yes, it does increase mana costs but the increase in DPS is very significant and it makes sure that you are constantly applying burning so it’s definitely worth having it on all the time.
 	- Selfless Diffusion and High Focus aren’t toggled but should be used on cooldown whenever available because they impact your DPS a lot and there’s never a reason not to keep them up as much as possible.
@@ -87,10 +88,14 @@
 	- Then, you have Chain Lightning, which is like a miniature version of Judgement Lightning and works almost identically, just with less damage and a smaller cooldown. Again, you don’t need to manually make sure burning is applied before you use this because it should be all the time.
 	- The final filler skill is Inferno Wave, which is a nice AoE skill that also applies burning.
 - All right, then the two remaining active skills are the two situational attacks.
-	- The first is Annihilation Barrage Shot, which does a lot of AoE damage in a circle around you. The only problem is that you have to get within melee range and that makes it kind of risky to use. It’s still very good though in two situations: one is if you’ve gathered a few mobs and you feel safe that they can’t do a lot of melee damage to you. The other is during group content where a tank or another teammate is controlling aggro and you’re not in danger of being hit. In either of these scenarios, this becomes a priority attack, but otherwise it should be used pretty cautiously.
-	- The second situational attack is Infernal Meteor, which is another very strong AoE attack. The downside of this skill is that it has a pretty long casting time during which you can’t move at all, so while you cast it, you’re pretty much en
+	- The first is Annihilation Barrage Shot, which does a lot of AoE damage in a circle around you. The only problem is that you have to get within melee range and that makes it kind of risky to use. 
+	- The second situational attack is Infernal Meteor, which is another very strong AoE attack. The downside of this skill is that it has a pretty long casting time during which you can’t move at all, so while you cast it, you’re pretty much entirely open to attack. 
+	- Now, both of these skills are still very good in two situations: one is if you’ve gathered a mobs and you feel safe that they can’t do a lot of damage to you while you use these skills. The other is during group content, whether that’s a boss or just farming in a group, where a tank or another teammate is controlling aggro and you’re not in danger of being hit. In either of these scenarios, both of these skills can become priority attacks because of the amount of damage they can do, but outside of those scenarios, they should be used pretty cautiously.
+- Okay, so those are the skills of this class. Hopefully, categorizing them into categories like this helps you understand them a bit better without forcing you into strict rotations.
 
 ### Gear Build
+*Duration: 00s.* 
+- Okay, so with the skills out of the way, the last thing I wanna talk about is gear. Now, let me preface this by sa
 
 | Slot            | Interim Gear                               | Where to Get                                    | End-game Gear                     | Where to Get                                                                                                                                                                                   |
 | --------------- | ------------------------------------------ | ----------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
