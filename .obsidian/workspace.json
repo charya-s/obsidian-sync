@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Staff Crossbow Guide.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/General MMO/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.51103591918945
+    "width": 270.51103591918945
   },
   "right": {
     "id": "4437524c153fe17b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Staff Crossbow Guide.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/General MMO/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Staff Crossbow Guide.md",
+                "file": "05 - Content Creation/YouTube/Video Ideas/General MMO/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Staff Crossbow Guide.md"
+                "file": "05 - Content Creation/YouTube/Video Ideas/General MMO/Untitled.md"
               }
             }
           },
@@ -158,10 +158,14 @@
   },
   "active": "18cc269bd72687dd",
   "lastOpenFiles": [
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty/Throne and Liberty Class Selection.md",
+    "05 - Content Creation/YouTube/Video Ideas/General MMO/Untitled.md",
+    "05 - Content Creation/YouTube/Video Ideas/General MMO",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty/Throne and Liberty Staff Crossbow Guide.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty",
     "05 - Content Creation/YouTube/00 - YouTube.md",
     "99 - Meta/Templates/Template, Video Idea.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Pay-to-Win.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Staff Crossbow Guide.md",
+    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty/Throne and Liberty Pay-to-Win.md",
     "03 - Work/NAITA/Delegated Properties.md",
     "03 - Work/NAITA/Reflection.md",
     "03 - Work/NAITA/DSL Building.md",
@@ -174,7 +178,6 @@
     "05 - Content Creation/YouTube/Notes.md",
     "Throne and Libery Staff",
     "05 - Content Creation/YouTube/Collaboration Email Template.md",
-    "05 - Content Creation/YouTube/Video Ideas/Throne and Liberty Class Selection.md",
     "00 - General/00 - To-Dos.md",
     "00 - General",
     "04 - Personal Studies/Languages/Mandarin/Numbers and Counting (CN).md",
@@ -186,7 +189,6 @@
     "04 - Personal Studies/Languages/Mandarin/00 - Mandarin.md",
     "04 - Personal Studies/Deep Learning/Perceptrons.md",
     "04 - Personal Studies/Deep Learning/Overfitting and Underfitting.md",
-    "04 - Personal Studies/Deep Learning/Back Propagation.md",
     "04 - Personal Studies/Math/Linear Algebra",
     "04 - Personal Studies/Math/Game Theory",
     "04 - Personal Studies/Math",
@@ -202,8 +204,6 @@
     "04 - Personal Studies/Deep Learning/Images",
     "Pasted image 20240922001111.png",
     "05 - Content Creation/Music/Untitled Album",
-    "05 - Content Creation/Music/Untitled",
-    "05 - Content Creation/Music",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
