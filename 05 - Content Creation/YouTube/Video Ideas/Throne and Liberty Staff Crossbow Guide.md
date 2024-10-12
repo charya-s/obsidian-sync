@@ -136,6 +136,11 @@
 - Anyway, I hope I’ve encouraged you to give this combination a go or if you already are, helped you understand it a bit better. 
 - As always, make sure to subscribe to my channel below for more MMO-related content but beyond that, thank you for watching and I’ll see you guys next time.
 
+---
+### Short
+- The Staff/Crossbow combination in Throne and Liberty is an off-meta pick, but it’s one that’s insanely fun and has insane DPS potential, so here’s how you’d use it.
+- 
+
 
 ---
 ## Performance Notes
