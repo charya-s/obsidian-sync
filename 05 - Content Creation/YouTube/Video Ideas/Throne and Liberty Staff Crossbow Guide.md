@@ -139,7 +139,10 @@
 ---
 ### Short
 - The Staff/Crossbow combination in Throne and Liberty is an off-meta pick, but it’s one that’s insanely fun and has insane DPS potential, so here’s how you’d use it.
-- 
+- Make sure Mother Nature’s Protest is on all the time, and make sure to use Selfless Diffusion and High Focus on cooldown.
+- Use Priority Attacks like Focused Fire Bombs, Recoil Shot and Judgement Lightning as much as you can and use Filler Attacks like Quick Shot, Chain Lightning and Inferno Wave in between Priority Attacks while they cooldown.
+- Situational Attacks like Annihilation Barrage Shot and Infernal Meteor are worth using when it’s safe and you’re confident you won’t be mobbed or targeted by a boss.
+- For a complete guide on everything about this combination from the skill builds to blue and purple gear build, check out the full video in the description below!
 
 
 ---
