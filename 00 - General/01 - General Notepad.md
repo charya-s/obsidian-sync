@@ -3,19 +3,19 @@
 
 ---
 ## Short-Term Tasks
-- [ ] YouTube.
+- [x] YouTube.
 	- [x] Settle on topic.
 	- [x] Research topic and progress to the level required.
-	- [ ] Do voice over.
-	- [ ] Gather footage.
-	- [ ] Edit video and upload.
+	- [x] Do voice over.
+	- [x] Gather footage.
+	- [x] Edit video and upload.
 
-- [ ]  NAITA.
+- [x]  NAITA.
 	- [x] Upload Mock Exam solutions.
 	- [x] Upload Sample Question solutions.
-	- [ ] Create material for Thursday (10 OCT).
-	- [ ] Create material for Monday (14 OCT).
-	- [ ] Create material for Wednesday (16 OCT).
+	- [x] Create material for Thursday (10 OCT).
+	- [x] Create material for Monday (14 OCT).
+	- [x] Create material for Wednesday (16 OCT).
 
 - [ ] PhD.
 	- [ ] Finish literature review.
@@ -41,4 +41,14 @@ Try these tags in EU4:
 - Obtrol
 - Roadwarrior
 - Skurkokli
+
+Watch these movies:
+- Mirror - Andrei Tarkovsky
+- Barton Fink - Coen Brothers
+- A Serious Man - Coen Brothers
+- Burning - Lee Chang-dong 
+- 2001: A Space Odyssey - Stanley Kubrick
+- Rebels of the Neon God - Tsang Ming-liang
+- Chungking Express - Wong Kar-wai
+- 
 
