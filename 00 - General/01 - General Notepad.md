@@ -50,5 +50,7 @@ Watch these movies:
 - 2001: A Space Odyssey - Stanley Kubrick
 - Rebels of the Neon God - Tsang Ming-liang
 - Chungking Express - Wong Kar-wai
+- Sicario - Dennis Villeneuve 
+- Prisoners - Dennis Villeneuve 
 - 
 
