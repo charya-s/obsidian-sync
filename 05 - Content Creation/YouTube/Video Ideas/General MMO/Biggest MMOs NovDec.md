@@ -19,30 +19,28 @@
 
 ### Not Excited - 
 *Duration: 00s.* 
-
+- 
 ### Somewhat Excited - 
 *Duration: 00s.* 
-
+- 
 ### Not Exciting - 
 *Duration: 00s.* 
-
-### Pretty Exciting - 
+- 
+### Pretty Exciting - Path of Exile 2
 *Duration: 00s.* 
-
+- 
 ### Very Exciting - Brighter Shores
 *Duration: 00s.* 
-
+- 
 ### Outro
 *Duration: 00s.* 
 - And there you have it! Those are the four biggest releases coming in November and December of 2024 in order of least exciting to most exciting.
 - Now, a quick disclaimer, while all of these MMOs *are* expected to come out in the next couple of months, this is never a guarantee with this genre. 
-
-
-Now, even though there haven't been any further delays at the time this video goes up, these are still all MMOs, so keep in mind that pretty much any of them could be delayed at any time. That's just the way the cookie seems to crumble in this genre these days.
-Anyway, that's enough outta me. What do you guys think? Are there any MMOs you're excited for that I missed? What do you think about the state of MMOs nowadays? Make sure you let me know in the comments below - I'd love to hear from you all!
-As always, thank you for watching and make sure you subscribe to my channel below for more MMO-related content but until then, I'll see you guys next time.
-
-
+- Delays are basically a main part of MMOs now and there’s nothing we can do about it.
+- Anyway, I got a chicken in the oven I forgot about so I got to go, but I really, really wanna hear from you guys before I do!
+- What do you guys think? Are there any MMOs you're excited for that I missed? Which do you plan on playing?
+- Let me know in the comments below but please type fast because my chicken’s gonna burn and trust me, you don’t want that on your conscience.
+- As always, thank you for watching and make sure you subscribe to my channel below for more MMO-related content but until then, I'll see you guys next time. 
 
 ---
 ## Performance Notes
