@@ -23,9 +23,6 @@
 ### Somewhat Excited - 
 *Duration: 00s.* 
 - 
-### Not Exciting - 
-*Duration: 00s.* 
-- 
 ### Pretty Exciting - Path of Exile 2
 *Duration: 00s.* 
 - Early access releasing on November 15th.
