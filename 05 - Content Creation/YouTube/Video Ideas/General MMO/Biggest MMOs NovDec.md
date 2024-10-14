@@ -31,7 +31,10 @@
 - 
 ### Very Exciting - Brighter Shores
 *Duration: 00s.* 
-- 
+- Very similar to RuneScape.
+	- Not a coincidence — it’s created by Andrew Gower, the 
+- Initially Nov 5th but pushed to Nov 6th to avoid releasing on the day of the US Presidential Election, so no extra delays are expected.
+- Not as much content on release as some other releases, just a relatively small world with no PvP but every other promised feature is available.
 ### Outro
 *Duration: 00s.* 
 - And there you have it! Those are the four biggest releases coming in November and December of 2024 in order of least exciting to most exciting.
